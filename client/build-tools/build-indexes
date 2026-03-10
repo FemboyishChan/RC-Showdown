@@ -246,6 +246,165 @@ function requireNoCache(pathSpec) {
 console.log("DONE");
 
 /*********************************************************
+ * Build pokedex.js
+ *********************************************************/
+
+process.stdout.write("Building `data/pokedex.js`... ");
+
+{
+	const Pokedex = requireNoCache('../caches/pokemon-showdown/dist/data/pokedex.js').Pokedex;
+	for (const id in Pokedex) {
+		const entry = Pokedex[id];
+		if (Dex.data.FormatsData[id]) {
+			// console.log('formatsentry:' + id);
+			const formatsEntry = Dex.data.FormatsData[id];
+			if (formatsEntry.tier) entry.tier = formatsEntry.tier;
+			if (formatsEntry.isNonstandard) entry.isNonstandard = formatsEntry.isNonstandard;
+			if (formatsEntry.unreleasedHidden) entry.unreleasedHidden = formatsEntry.unreleasedHidden;
+		}
+	}
+	const buf = 'exports.BattlePokedex = ' + es3stringify(Pokedex) + ';';
+	fs.writeFileSync('play.pokemonshowdown.com/data/pokedex.js', buf);
+	fs.writeFileSync('play.pokemonshowdown.com/data/pokedex.json', JSON.stringify(Pokedex));
+}
+
+console.log("DONE");
+
+/*********************************************************
+ * Build moves.js
+ *********************************************************/
+
+process.stdout.write("Building `data/moves,items,abilities,typechart,learnsets.js`...");
+
+{
+	const Moves = requireNoCache('../caches/pokemon-showdown/dist/data/moves.js').Moves;
+	for (const id in Moves) {
+		const move = Dex.moves.get(Moves[id].name);
+		if (move.desc) Moves[id].desc = move.desc;
+		if (move.shortDesc) Moves[id].shortDesc = move.shortDesc;
+		if (move.basePowerCallback) Moves[id].basePowerCallback = true;
+	}
+	const buf = 'exports.BattleMovedex = ' + es3stringify(Moves) + ';';
+	fs.writeFileSync('play.pokemonshowdown.com/data/moves.js', buf);
+	fs.writeFileSync('play.pokemonshowdown.com/data/moves.json', JSON.stringify(Moves));
+}
+
+/*********************************************************
+ * Build items.js
+ *********************************************************/
+
+{
+	const Items = requireNoCache('../caches/pokemon-showdown/dist/data/items.js').Items;
+	for (const id in Items) {
+		const item = Dex.items.get(Items[id].name);
+		if (item.desc) Items[id].desc = item.desc;
+		if (item.shortDesc) Items[id].shortDesc = item.shortDesc;
+	}
+	const buf = 'exports.BattleItems = ' + es3stringify(Items) + ';';
+	fs.writeFileSync('play.pokemonshowdown.com/data/items.js', buf);
+}
+
+/*********************************************************
+ * Build abilities.js
+ *********************************************************/
+
+{
+	const Abilities = requireNoCache('../caches/pokemon-showdown/dist/data/abilities.js').Abilities;
+	for (const id in Abilities) {
+		const ability = Dex.abilities.get(Abilities[id].name);
+		if (ability.desc) Abilities[id].desc = ability.desc;
+		if (ability.shortDesc) Abilities[id].shortDesc = ability.shortDesc;
+	}
+	const buf = 'exports.BattleAbilities = ' + es3stringify(Abilities) + ';';
+	fs.writeFileSync('play.pokemonshowdown.com/data/abilities.js', buf);
+}
+
+/*********************************************************
+ * Build typechart.js
+ *********************************************************/
+
+{
+	const TypeChart = requireNoCache('../caches/pokemon-showdown/dist/data/typechart.js').TypeChart;
+	const buf = 'exports.BattleTypeChart = ' + es3stringify(TypeChart) + ';';
+	fs.writeFileSync('play.pokemonshowdown.com/data/typechart.js', buf);
+}
+
+/*********************************************************
+ * Build aliases.js
+ *********************************************************/
+
+{
+	const Aliases = requireNoCache('../caches/pokemon-showdown/dist/data/aliases.js').Aliases;
+	const buf = 'exports.BattleAliases = ' + es3stringify(Aliases) + ';';
+	fs.writeFileSync('play.pokemonshowdown.com/data/aliases.js', buf);
+}
+
+/*********************************************************
+ * Build formats-data.js
+ *********************************************************/
+
+{
+	const FormatsData = requireNoCache('../caches/pokemon-showdown/dist/data/formats-data.js').FormatsData;
+	const buf = 'exports.BattleFormatsData = ' + es3stringify(FormatsData) + ';';
+	fs.writeFileSync('play.pokemonshowdown.com/data/formats-data.js', buf);
+}
+
+/*********************************************************
+ * Build formats.js
+ *********************************************************/
+
+{
+	const Formats = requireNoCache('../caches/pokemon-showdown/dist/config/formats.js').Formats;
+	const buf = 'exports.Formats = ' + es3stringify(Formats) + ';';
+	fs.writeFileSync('play.pokemonshowdown.com/data/formats.js', buf);
+}
+
+/*********************************************************
+ * Build learnsets.js
+ *********************************************************/
+
+{
+	const Learnsets = requireNoCache('../caches/pokemon-showdown/dist/data/learnsets.js').Learnsets;
+	const buf = 'exports.BattleLearnsets = ' + es3stringify(Learnsets) + ';';
+	fs.writeFileSync('play.pokemonshowdown.com/data/learnsets.js', buf);
+	fs.writeFileSync('play.pokemonshowdown.com/data/learnsets.json', JSON.stringify(Learnsets));
+}
+
+/*********************************************************
+ * Build text.js
+ *********************************************************/
+
+{
+	const textData = Dex.loadTextData();
+	const Text = textData.Default;
+
+	function assignData(id, entry) {
+		for (const key in entry) {
+			if (['name', 'desc', 'shortDesc'].includes(key)) continue;
+			const textEntry = Text[id] || (Text[id] = {});
+			if (key.startsWith('gen')) {
+				for (const modKey in entry[key]) {
+					if (['desc', 'shortDesc'].includes(key)) continue;
+					textEntry[modKey + 'Gen' + key.charAt(3)] = entry[key][modKey];
+				}
+			} else {
+				textEntry[key] = entry[key];
+			}
+		}
+	}
+
+	for (const id in textData.Moves) assignData(id, textData.Moves[id]);
+	for (const id in textData.Abilities) assignData(id, textData.Abilities[id]);
+	for (const id in textData.Items) assignData(id, textData.Items[id]);
+
+	const serialized = es3stringify(Text);
+	const buf = 'var BattleTextNotAFD = window.BattleText = ' + serialized + ';\nvar BattleTextAFD = window.BattleTextAFD = window.BattleText;\n';
+	fs.writeFileSync('play.pokemonshowdown.com/data/text.js', buf);
+}
+
+console.log("DONE");
+
+/*********************************************************
  * Build teambuilder-tables.js
  *********************************************************/
 
@@ -1374,165 +1533,6 @@ process.stdout.write("Building `data/teambuilder-tables.js`... ");
 	buf += `exports.BattleTeambuilderTable = JSON.parse('${JSON.stringify(BattleTeambuilderTable).replace(/['\\]/g, "\\$&")}');\n\n`;
 
 	fs.writeFileSync('play.pokemonshowdown.com/data/teambuilder-tables.js', buf);
-}
-
-console.log("DONE");
-
-/*********************************************************
- * Build pokedex.js
- *********************************************************/
-
-process.stdout.write("Building `data/pokedex.js`... ");
-
-{
-	const Pokedex = requireNoCache('../caches/pokemon-showdown/dist/data/pokedex.js').Pokedex;
-	for (const id in Pokedex) {
-		const entry = Pokedex[id];
-		if (Dex.data.FormatsData[id]) {
-			// console.log('formatsentry:' + id);
-			const formatsEntry = Dex.data.FormatsData[id];
-			if (formatsEntry.tier) entry.tier = formatsEntry.tier;
-			if (formatsEntry.isNonstandard) entry.isNonstandard = formatsEntry.isNonstandard;
-			if (formatsEntry.unreleasedHidden) entry.unreleasedHidden = formatsEntry.unreleasedHidden;
-		}
-	}
-	const buf = 'exports.BattlePokedex = ' + es3stringify(Pokedex) + ';';
-	fs.writeFileSync('play.pokemonshowdown.com/data/pokedex.js', buf);
-	fs.writeFileSync('play.pokemonshowdown.com/data/pokedex.json', JSON.stringify(Pokedex));
-}
-
-console.log("DONE");
-
-/*********************************************************
- * Build moves.js
- *********************************************************/
-
-process.stdout.write("Building `data/moves,items,abilities,typechart,learnsets.js`...");
-
-{
-	const Moves = requireNoCache('../caches/pokemon-showdown/dist/data/moves.js').Moves;
-	for (const id in Moves) {
-		const move = Dex.moves.get(Moves[id].name);
-		if (move.desc) Moves[id].desc = move.desc;
-		if (move.shortDesc) Moves[id].shortDesc = move.shortDesc;
-		if (move.basePowerCallback) Moves[id].basePowerCallback = true;
-	}
-	const buf = 'exports.BattleMovedex = ' + es3stringify(Moves) + ';';
-	fs.writeFileSync('play.pokemonshowdown.com/data/moves.js', buf);
-	fs.writeFileSync('play.pokemonshowdown.com/data/moves.json', JSON.stringify(Moves));
-}
-
-/*********************************************************
- * Build items.js
- *********************************************************/
-
-{
-	const Items = requireNoCache('../caches/pokemon-showdown/dist/data/items.js').Items;
-	for (const id in Items) {
-		const item = Dex.items.get(Items[id].name);
-		if (item.desc) Items[id].desc = item.desc;
-		if (item.shortDesc) Items[id].shortDesc = item.shortDesc;
-	}
-	const buf = 'exports.BattleItems = ' + es3stringify(Items) + ';';
-	fs.writeFileSync('play.pokemonshowdown.com/data/items.js', buf);
-}
-
-/*********************************************************
- * Build abilities.js
- *********************************************************/
-
-{
-	const Abilities = requireNoCache('../caches/pokemon-showdown/dist/data/abilities.js').Abilities;
-	for (const id in Abilities) {
-		const ability = Dex.abilities.get(Abilities[id].name);
-		if (ability.desc) Abilities[id].desc = ability.desc;
-		if (ability.shortDesc) Abilities[id].shortDesc = ability.shortDesc;
-	}
-	const buf = 'exports.BattleAbilities = ' + es3stringify(Abilities) + ';';
-	fs.writeFileSync('play.pokemonshowdown.com/data/abilities.js', buf);
-}
-
-/*********************************************************
- * Build typechart.js
- *********************************************************/
-
-{
-	const TypeChart = requireNoCache('../caches/pokemon-showdown/dist/data/typechart.js').TypeChart;
-	const buf = 'exports.BattleTypeChart = ' + es3stringify(TypeChart) + ';';
-	fs.writeFileSync('play.pokemonshowdown.com/data/typechart.js', buf);
-}
-
-/*********************************************************
- * Build aliases.js
- *********************************************************/
-
-{
-	const Aliases = requireNoCache('../caches/pokemon-showdown/dist/data/aliases.js').Aliases;
-	const buf = 'exports.BattleAliases = ' + es3stringify(Aliases) + ';';
-	fs.writeFileSync('play.pokemonshowdown.com/data/aliases.js', buf);
-}
-
-/*********************************************************
- * Build formats-data.js
- *********************************************************/
-
-{
-	const FormatsData = requireNoCache('../caches/pokemon-showdown/dist/data/formats-data.js').FormatsData;
-	const buf = 'exports.BattleFormatsData = ' + es3stringify(FormatsData) + ';';
-	fs.writeFileSync('play.pokemonshowdown.com/data/formats-data.js', buf);
-}
-
-/*********************************************************
- * Build formats.js
- *********************************************************/
-
-{
-	const Formats = requireNoCache('../caches/pokemon-showdown/dist/config/formats.js').Formats;
-	const buf = 'exports.Formats = ' + es3stringify(Formats) + ';';
-	fs.writeFileSync('play.pokemonshowdown.com/data/formats.js', buf);
-}
-
-/*********************************************************
- * Build learnsets.js
- *********************************************************/
-
-{
-	const Learnsets = requireNoCache('../caches/pokemon-showdown/dist/data/learnsets.js').Learnsets;
-	const buf = 'exports.BattleLearnsets = ' + es3stringify(Learnsets) + ';';
-	fs.writeFileSync('play.pokemonshowdown.com/data/learnsets.js', buf);
-	fs.writeFileSync('play.pokemonshowdown.com/data/learnsets.json', JSON.stringify(Learnsets));
-}
-
-/*********************************************************
- * Build text.js
- *********************************************************/
-
-{
-	const textData = Dex.loadTextData();
-	const Text = textData.Default;
-
-	function assignData(id, entry) {
-		for (const key in entry) {
-			if (['name', 'desc', 'shortDesc'].includes(key)) continue;
-			const textEntry = Text[id] || (Text[id] = {});
-			if (key.startsWith('gen')) {
-				for (const modKey in entry[key]) {
-					if (['desc', 'shortDesc'].includes(key)) continue;
-					textEntry[modKey + 'Gen' + key.charAt(3)] = entry[key][modKey];
-				}
-			} else {
-				textEntry[key] = entry[key];
-			}
-		}
-	}
-
-	for (const id in textData.Moves) assignData(id, textData.Moves[id]);
-	for (const id in textData.Abilities) assignData(id, textData.Abilities[id]);
-	for (const id in textData.Items) assignData(id, textData.Items[id]);
-
-	const serialized = es3stringify(Text);
-	const buf = 'var BattleTextNotAFD = window.BattleText = ' + serialized + ';\nvar BattleTextAFD = window.BattleTextAFD = window.BattleText;\n';
-	fs.writeFileSync('play.pokemonshowdown.com/data/text.js', buf);
 }
 
 console.log("DONE");

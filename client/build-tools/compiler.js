@@ -15,7 +15,7 @@ const fs = require('fs');
 const path = require('path');
 const sourceMap = require('source-map');
 
-const VERBOSE = false;
+const VERBOSE = true;
 
 function outputFileSync(filePath, res, opts) {
 	fs.mkdirSync(path.dirname(filePath), { recursive: true });
