@@ -344,9 +344,9 @@ export class ServerStream extends Streams.ObjectReadWriteStream<string> {
 			
 			// Client server - serves the Pokemon Showdown client directly from the server
 			// This allows accessing the full client by visiting http://localhost:8000
-			const clientPath = config.clientpath || '../../pokemon-showdown-client/pokemon-showdown-client-master/play.pokemonshowdown.com';
+			const clientPath = config.clientpath || '../../client/play.pokemonshowdown.com';
 			const clientServer = new StaticServer(clientPath);
-			const clientConfigPath = config.clientconfigpath || '../../pokemon-showdown-client/pokemon-showdown-client-master/config';
+			const clientConfigPath = config.clientconfigpath || '../../client/config';
 			const clientConfigServer = new StaticServer(clientConfigPath);
 			console.log(`Serving client from: ${clientPath}`);
 			

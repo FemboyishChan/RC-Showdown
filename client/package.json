@@ -15,7 +15,7 @@
     "build": "node build",
     "build-full": "node build full",
     "start-login-server": "node login-server.js",
-    "start-all": "concurrently \"npm --prefix ../pokemon-roria-master/pokemon-showdown-master/pokemon-showdown-master run start\" \"node login-server.js\""
+    "start-all": "concurrently \"npm --prefix ../server run start\" \"node login-server.js\""
   },
   "dependencies": {
     "@babel/core": "^7.26.10",
