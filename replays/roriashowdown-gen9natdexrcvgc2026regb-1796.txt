@@ -1,0 +1,150 @@
+|j|☆ValoryLive
+|j|☆Ammario8239
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up.
+|t:|1772923318
+|gametype|doubles
+|player|p1|ValoryLive|169|
+|player|p2|Ammario8239|169|
+|gen|9
+|tier|[Gen 9] NatDex RC VGC 2026 Reg B
+|rated|Tournament battle
+|rule|Species Clause: Limit one of each Pokémon
+|rule|Item Clause: Limit 1 of each item
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Terastal Clause: You cannot Terastallize
+|clearpoke
+|poke|p1|Charizard, L50, F|
+|poke|p1|Whimsicott, L50, F|
+|poke|p1|Porygon2, L50|
+|poke|p1|Ursaluna, L50, F|
+|poke|p1|Urshifu-*, L50, M|
+|poke|p1|Rillaboom, L50, F|
+|poke|p2|Froslass, L50, F|
+|poke|p2|Regice, L50|
+|poke|p2|Kingambit, L50, M|
+|poke|p2|Tornadus, L50, M|
+|poke|p2|Farigiraf, L50, M|
+|poke|p2|Arcanine-Hisui, L50, F|
+|teampreview|4
+|showteam|p1|Charizard||CharizarditeY|Blaze|Protect,HeatWave,WeatherBall,SolarBeam|||F|||50|]Whimsicott||CovertCloak|Prankster|SunnyDay,FakeTears,Tailwind,Moonblast|||F|||50|]Porygon2||Eviolite|Download|IceBeam,Thunderbolt,Recover,TrickRoom||||||50|]Ursaluna||FlameOrb|Guts|Facade,CloseCombat,HeadlongRush,Protect|||F|||50|]Urshifu||BlackGlasses|UnseenFist|WickedBlow,CloseCombat,SuckerPunch,Detect|||M|||50|]Rillaboom||AssaultVest|GrassySurge|FakeOut,Uturn,GrassyGlide,WoodHammer|||F|||50|
+|showteam|p2|Froslass||Froslassite|SnowWarning|Blizzard,Protect,IceBeam,ShadowBall|||F|||50|]Regice||LightClay|SnowWarning|AuroraVeil,Blizzard,Protect,Thunderbolt||||||50|]Kingambit||LifeOrb|Defiant|SuckerPunch,KowtowCleave,IronHead,Protect|||M|||50|]Tornadus||FocusSash|Prankster|Tailwind,BleakwindStorm,Taunt,Snowscape|||M|||50|]Farigiraf||ThroatSpray|ArmorTail|HyperVoice,Imprison,TrickRoom,ExpandingForce|||M|||50|]Arcanine-Hisui||ChoiceBand|Intimidate|CloseCombat,ExtremeSpeed,FlareBlitz,HeadSmash|||F|||50|
+|
+|t:|1772923343
+|teamsize|p1|4
+|teamsize|p2|4
+|start
+|switch|p1a: Rillaboom|Rillaboom, L50, F|100/100
+|switch|p1b: Urshifu|Urshifu, L50, M|100/100
+|switch|p2a: The twister|Tornadus, L50, M, shiny|100/100
+|switch|p2b: Girraf|Farigiraf, L50, M, shiny|100/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Rillaboom
+|turn|1
+|
+|t:|1772923362
+|switch|p2b: Doggie GD|Arcanine-Hisui, L50, F, shiny|100/100
+|-ability|p2b: Doggie GD|Intimidate|boost
+|-unboost|p1a: Rillaboom|atk|1
+|-unboost|p1b: Urshifu|atk|1
+|move|p1b: Urshifu|Wicked Blow|p2b: Doggie GD
+|-crit|p2b: Doggie GD
+|-damage|p2b: Doggie GD|2/100
+|move|p2a: The twister|Bleakwind Storm|p1a: Rillaboom|[spread] p1a
+|-miss|p2a: The twister|p1b: Urshifu
+|-supereffective|p1a: Rillaboom
+|-damage|p1a: Rillaboom|59/100
+|move|p1a: Rillaboom|U-turn|p2b: Doggie GD
+|-resisted|p2b: Doggie GD
+|-damage|p2b: Doggie GD|0 fnt
+|faint|p2b: Doggie GD
+|
+|t:|1772923373
+|switch|p1a: Whimsicott|Whimsicott, L50, F|100/100|[from] U-turn
+|
+|upkeep
+|c|☆Ammario8239|Right
+|
+|t:|1772923379
+|switch|p2b: Frosty|Froslass, L50, F, shiny|100/100
+|-weather|Snowscape|[from] ability: Snow Warning|[of] p2b: Frosty
+|turn|2
+|
+|t:|1772923394
+|detailschange|p2b: Frosty|Froslass-Mega, L50, F, shiny
+|-mega|p2b: Frosty|Froslass|Froslassite
+|move|p1a: Whimsicott|Tailwind|p1a: Whimsicott
+|-sidestart|p1: ValoryLive|move: Tailwind
+|move|p1b: Urshifu|Wicked Blow|p2b: Frosty
+|-supereffective|p2b: Frosty
+|-crit|p2b: Frosty
+|-damage|p2b: Frosty|0 fnt
+|faint|p2b: Frosty
+|detailschange|p2: Frosty|Froslass, L50, F, shiny|[silent]
+|move|p2a: The twister|Bleakwind Storm|p1a: Whimsicott|[spread] p1b
+|-miss|p2a: The twister|p1a: Whimsicott
+|-supereffective|p1b: Urshifu
+|-damage|p1b: Urshifu|16/100
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p1b: Urshifu|21/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1772923401
+|switch|p2b: Girraf|Farigiraf, L50, M, shiny|100/100
+|turn|3
+|c|☆Ammario8239|DAWG
+|
+|t:|1772923411
+|move|p1a: Whimsicott|Sunny Day|p1a: Whimsicott
+|-weather|SunnyDay
+|move|p1b: Urshifu|Wicked Blow|p2b: Girraf
+|-supereffective|p2b: Girraf
+|-crit|p2b: Girraf
+|-damage|p2b: Girraf|0 fnt
+|faint|p2b: Girraf
+|move|p2a: The twister|Bleakwind Storm|p1b: Urshifu|[spread] p1a
+|-miss|p2a: The twister|p1b: Urshifu
+|-supereffective|p1a: Whimsicott
+|-damage|p1a: Whimsicott|21/100
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1a: Whimsicott|27/100|[from] Grassy Terrain
+|-heal|p1b: Urshifu|27/100|[from] Grassy Terrain
+|upkeep
+|turn|4
+|c|☆Ammario8239|WHATT
+|
+|t:|1772923418
+|move|p1a: Whimsicott|Fake Tears|p2a: The twister
+|-unboost|p2a: The twister|spd|2
+|move|p1b: Urshifu|Wicked Blow|p2a: The twister
+|-crit|p2a: The twister
+|-damage|p2a: The twister|19/100
+|move|p2a: The twister|Bleakwind Storm|p1a: Whimsicott|[spread] p1a
+|-miss|p2a: The twister|p1b: Urshifu
+|-supereffective|p1a: Whimsicott
+|-damage|p1a: Whimsicott|0 fnt
+|faint|p1a: Whimsicott
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1b: Urshifu|33/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1772923422
+|switch|p1a: Rillaboom|Rillaboom, L50, F|59/100
+|turn|5
+|
+|t:|1772923425
+|move|p1a: Rillaboom|Fake Out|p2a: The twister
+|-damage|p2a: The twister|6/100
+|move|p1b: Urshifu|Wicked Blow|p2a: The twister
+|-crit|p2a: The twister
+|-damage|p2a: The twister|0 fnt
+|faint|p2a: The twister
+|
+|win|ValoryLive
+|n|☆ValoryLive|valorylive
+|n|☆Ammario8239|ammario8239
+|l|☆Ammario8239
+|player|p2|
+|n|☆ValoryLive|valorylive

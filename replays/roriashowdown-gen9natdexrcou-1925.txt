@@ -1,0 +1,202 @@
+|j|☆razberchan
+|j|☆cloxd4u_
+|t:|1773085866
+|gametype|singles
+|player|p1|razberchan|razberchan.png|1216
+|player|p2|cloxd4u_|nate|1000
+|gen|9
+|tier|[Gen 9] NatDex RC OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Clause: Evasion abilities, items, and moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Terastal Clause: You cannot Terastallize
+|clearpoke
+|poke|p1|Glastrier|
+|poke|p1|Ninetales-Alola, M|
+|poke|p1|Gholdengo|
+|poke|p1|Rillaboom, M|
+|poke|p1|Blaziken, F|
+|poke|p1|Gyarados, F|
+|poke|p2|Hatterene, F|
+|poke|p2|Cresselia, F|
+|poke|p2|Porygon2|
+|poke|p2|Ursaluna, M|
+|poke|p2|Mawile, F|
+|poke|p2|Marowak-Alola, M|
+|teampreview
+|
+|t:|1773085886
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Ninetales|Ninetales-Alola, M|100/100
+|switch|p2a: Hatterene|Hatterene, F|100/100
+|-weather|Snowscape|[from] ability: Snow Warning|[of] p1a: Ninetales
+|turn|1
+|
+|t:|1773085893
+|move|p1a: Ninetales|Aurora Veil|p1a: Ninetales
+|-sidestart|p1: razberchan|move: Aurora Veil
+|move|p2a: Hatterene|Trick Room|p2a: Hatterene
+|-fieldstart|move: Trick Room|[of] p2a: Hatterene
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|2
+|
+|t:|1773085926
+|switch|p1a: Glastrier|Glastrier|100/100
+|move|p2a: Hatterene|Psychic Noise|p1a: Glastrier
+|-damage|p1a: Glastrier|84/100
+|-start|p1a: Glastrier|move: Heal Block
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|3
+|
+|t:|1773085936
+|-zpower|p2a: Hatterene
+|move|p2a: Hatterene|Twinkle Tackle|p1a: Glastrier|[zeffect]
+|-damage|p1a: Glastrier|44/100
+|move|p1a: Glastrier|Swords Dance|p1a: Glastrier
+|-boost|p1a: Glastrier|atk|2
+|
+|-weather|Snowscape|[upkeep]
+|-end|p1a: Glastrier|move: Heal Block
+|upkeep
+|turn|4
+|
+|t:|1773085947
+|move|p2a: Hatterene|Misty Explosion|p1a: Glastrier
+|-damage|p1a: Glastrier|22/100
+|faint|p2a: Hatterene
+|move|p1a: Glastrier|Ice Spinner|p2: Hatterene|[notarget]
+|-fail|p1a: Glastrier
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|
+|t:|1773085956
+|switch|p2a: Ursaluna|Ursaluna, M|100/100
+|turn|5
+|
+|t:|1773085961
+|move|p1a: Glastrier|Ice Shard|p2a: Ursaluna
+|-supereffective|p2a: Ursaluna
+|-damage|p2a: Ursaluna|23/100
+|move|p2a: Ursaluna|Fire Punch|p1a: Glastrier
+|-supereffective|p1a: Glastrier
+|-damage|p1a: Glastrier|9/100
+|
+|-weather|none
+|-fieldend|move: Trick Room
+|-status|p2a: Ursaluna|brn|[from] item: Flame Orb
+|upkeep
+|turn|6
+|
+|t:|1773085985
+|switch|p2a: Cresselia|Cresselia, F|100/100
+|move|p1a: Glastrier|Ice Shard|p2a: Cresselia
+|-damage|p2a: Cresselia|73/100
+|
+|upkeep
+|turn|7
+|
+|t:|1773085993
+|move|p1a: Glastrier|Swords Dance|p1a: Glastrier
+|-boost|p1a: Glastrier|atk|2
+|move|p2a: Cresselia|Trick Room|p2a: Cresselia
+|-fieldstart|move: Trick Room|[of] p2a: Cresselia
+|
+|upkeep
+|turn|8
+|
+|t:|1773085999
+|move|p1a: Glastrier|Ice Spinner|p2a: Cresselia
+|-damage|p2a: Cresselia|0 fnt
+|-damage|p1a: Glastrier|0 fnt|[from] item: Rocky Helmet|[of] p2a: Cresselia
+|faint|p2a: Cresselia
+|faint|p1a: Glastrier
+|
+|-sideend|p1: razberchan|move: Aurora Veil
+|upkeep
+|
+|t:|1773086045
+|switch|p1a: Rillaboom|Rillaboom, M|100/100
+|switch|p2a: Mawile|Mawile, F|100/100
+|-ability|p2a: Mawile|Intimidate|boost
+|-unboost|p1a: Rillaboom|atk|1
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Rillaboom
+|-enditem|p1a: Rillaboom|Grassy Seed
+|-boost|p1a: Rillaboom|def|1|[from] item: Grassy Seed
+|turn|9
+|j| The Sword of Ruin
+|l| The Sword of Ruin
+|
+|t:|1773086068
+|detailschange|p2a: Mawile|Mawile-Mega, F
+|-mega|p2a: Mawile|Mawile|Mawilite
+|move|p2a: Mawile|Swords Dance|p2a: Mawile
+|-boost|p2a: Mawile|atk|2
+|move|p1a: Rillaboom|Swords Dance|p1a: Rillaboom
+|-boost|p1a: Rillaboom|atk|2
+|
+|upkeep
+|turn|10
+|
+|t:|1773086081
+|move|p2a: Mawile|Play Rough|p1a: Rillaboom
+|-damage|p1a: Rillaboom|0 fnt
+|faint|p1a: Rillaboom
+|
+|upkeep
+|
+|t:|1773086086
+|switch|p1a: Blaziken|Blaziken, F|100/100
+|turn|11
+|
+|t:|1773086119
+|move|p2a: Mawile|Play Rough|p1a: Blaziken
+|-damage|p1a: Blaziken|0 fnt
+|faint|p1a: Blaziken
+|
+|-fieldend|move: Trick Room
+|upkeep
+|
+|t:|1773086130
+|switch|p1a: Gholdengo|Gholdengo|100/100
+|-item|p1a: Gholdengo|Air Balloon
+|turn|12
+|
+|t:|1773086142
+|move|p2a: Mawile|Sucker Punch||[still]
+|-fail|p2a: Mawile
+|move|p1a: Gholdengo|Nasty Plot|p1a: Gholdengo
+|-boost|p1a: Gholdengo|spa|2
+|
+|upkeep
+|turn|13
+|
+|t:|1773086152
+|move|p2a: Mawile|Sucker Punch|p1a: Gholdengo
+|-supereffective|p1a: Gholdengo
+|-damage|p1a: Gholdengo|0 fnt
+|-enditem|p1a: Gholdengo|Air Balloon
+|faint|p1a: Gholdengo
+|
+|-fieldend|move: Grassy Terrain
+|upkeep
+|-message|razberchan forfeited.
+|
+|win|cloxd4u_
+|raw|razberchan's rating: 1216 &rarr; <strong>1191</strong><br />(-25 for losing)
+|raw|cloxd4u_'s rating: 1000 &rarr; <strong>1070</strong><br />(+70 for winning)
+|l|☆razberchan
+|player|p1|

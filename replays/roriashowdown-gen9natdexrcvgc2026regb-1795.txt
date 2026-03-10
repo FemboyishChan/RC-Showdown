@@ -1,0 +1,170 @@
+|j|☆Antboy12
+|j|☆Jahim
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up.
+|t:|1772923288
+|gametype|doubles
+|player|p1|Antboy12|1|
+|player|p2|Jahim|1|
+|gen|9
+|tier|[Gen 9] NatDex RC VGC 2026 Reg B
+|rated|Tournament battle
+|rule|Species Clause: Limit one of each Pokémon
+|rule|Item Clause: Limit 1 of each item
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Terastal Clause: You cannot Terastallize
+|clearpoke
+|poke|p1|Dragonite, L50, M|
+|poke|p1|Incineroar, L50, F|
+|poke|p1|Torkoal, L50, F|
+|poke|p1|Typhlosion, L50, F|
+|poke|p1|Farigiraf, L50, M|
+|poke|p1|Lilligant-Hisui, L50, F|
+|poke|p2|Scream Tail, L50|
+|poke|p2|Tatsugiri, L50, M|
+|poke|p2|Dondozo, L50, F|
+|poke|p2|Cresselia, L50, F|
+|poke|p2|Flamigo, L50, F|
+|poke|p2|Comfey, L50, M|
+|teampreview|4
+|showteam|p1|Dragonite||LoadedDice|InnerFocus|ScaleShot,ExtremeSpeed,Tailwind,IceSpinner|||M|||50|]Incineroar||SafetyGoggles|Intimidate|FakeOut,FlareBlitz,KnockOff,PartingShot|||F|||50|]Torkoal||LifeOrb|Drought|Eruption,WeatherBall,SolarBeam,Protect|||F|||50|]Typhlosion||ChoiceScarf|FlashFire|Eruption,HeatWave,SolarBeam,ScorchingSands|||F|||50|]Farigiraf||MentalHerb|ArmorTail|FoulPlay,TrickRoom,HelpingHand,Protect|||M|||50|]Lilligant-Hisui||FocusSash|Chlorophyll|AfterYou,SleepPowder,SolarBlade,CloseCombat|||F|||50|
+|showteam|p2|Scream Tail||CovertCloak|Protosynthesis|Sing,BatonPass,PerishSong,MistyExplosion||||||50|]Tatsugiri||ToxicOrb|Commander|Endure,Substitute,DracoMeteor,Protect|||M|||50|]Dondozo||SitrusBerry|Unaware|OrderUp,BodyPress,Protect,Substitute|||F|||50|]Cresselia||NormaliumZ|Levitate|LunarBlessing,StoredPower,DazzlingGleam,PsychUp|||F|||50|]Flamigo||FlyingGem|Costar|Acrobatics,CloseCombat,Roost,Protect|||F|||50|]Comfey||EjectButton|Triage|DrainingKiss,Uturn,FloralHealing,Taunt|||M|||50|
+|c|☆Jahim|hf
+|c|☆Jahim|holy sun
+|inactive|Antboy12 has 60 seconds left.
+|
+|t:|1772923322
+|teamsize|p1|4
+|teamsize|p2|4
+|start
+|switch|p1a: Incineroar|Incineroar, L50, F|100/100
+|switch|p1b: Typhlosion|Typhlosion, L50, F|100/100
+|switch|p2a: Comfey|Comfey, L50, M|100/100
+|switch|p2b: Tatsugiri|Tatsugiri, L50, M, shiny|100/100
+|-ability|p1a: Incineroar|Intimidate|boost
+|-unboost|p2a: Comfey|atk|1
+|-unboost|p2b: Tatsugiri|atk|1
+|turn|1
+|
+|t:|1772923343
+|move|p2b: Tatsugiri|Endure|p2b: Tatsugiri
+|-singleturn|p2b: Tatsugiri|move: Endure
+|move|p2a: Comfey|Draining Kiss|p2b: Tatsugiri
+|-supereffective|p2b: Tatsugiri
+|-damage|p2b: Tatsugiri|16/100
+|move|p1a: Incineroar|Fake Out|p2a: Comfey
+|-damage|p2a: Comfey|86/100
+|-enditem|p2a: Comfey|Eject Button
+|
+|t:|1772923355
+|switch|p2a: Dondozo|Dondozo, L50, F|100/100
+|-activate|p2b: Tatsugiri|ability: Commander|[of] p2a: Dondozo
+|-boost|p2a: Dondozo|atk|2
+|-boost|p2a: Dondozo|spa|2
+|-boost|p2a: Dondozo|spe|2
+|-boost|p2a: Dondozo|def|2
+|-boost|p2a: Dondozo|spd|2
+|move|p1b: Typhlosion|Eruption|p2a: Dondozo|[spread] p2a
+|-miss|p1b: Typhlosion|p2b: Tatsugiri
+|-resisted|p2a: Dondozo
+|-damage|p2a: Dondozo|91/100
+|
+|-status|p2b: Tatsugiri|tox|[from] item: Toxic Orb
+|upkeep
+|turn|2
+|inactive|Antboy12 has 30 seconds left.
+|
+|t:|1772923386
+|switch|p1b: Torkoal|Torkoal, L50, F|100/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p1b: Torkoal
+|move|p2a: Dondozo|Substitute|p2a: Dondozo
+|-start|p2a: Dondozo|Substitute
+|-damage|p2a: Dondozo|66/100
+|move|p1a: Incineroar|Knock Off|p2a: Dondozo
+|-activate|p2a: Dondozo|move: Substitute|[damage]
+|
+|-weather|SunnyDay|[upkeep]
+|-damage|p2b: Tatsugiri|10/100 tox|[from] psn
+|upkeep
+|turn|3
+|inactive|Jahim has 30 seconds left.
+|
+|t:|1772923411
+|move|p2a: Dondozo|Protect|p2a: Dondozo
+|-singleturn|p2a: Dondozo|Protect
+|move|p1a: Incineroar|Knock Off|p2a: Dondozo
+|-activate|p2a: Dondozo|move: Protect
+|move|p1b: Torkoal|Solar Beam||[still]
+|-prepare|p1b: Torkoal|Solar Beam
+|-anim|p1b: Torkoal|Solar Beam|p2a: Dondozo
+|-activate|p2a: Dondozo|move: Protect
+|
+|-weather|SunnyDay|[upkeep]
+|-damage|p2b: Tatsugiri|0 fnt|[from] psn
+|faint|p2b: Tatsugiri
+|upkeep
+|inactive|Jahim has 30 seconds left.
+|
+|t:|1772923440
+|switch|p2b: Cresselia|Cresselia, L50, F|100/100
+|turn|4
+|inactive|Antboy12 has 30 seconds left.
+|
+|t:|1772923466
+|move|p2a: Dondozo|Body Press|p1a: Incineroar
+|-supereffective|p1a: Incineroar
+|-damage|p1a: Incineroar|16/100
+|move|p2b: Cresselia|Psych Up|p2a: Dondozo
+|-copyboost|p2b: Cresselia|p2a: Dondozo|[from] move: Psych Up
+|move|p1a: Incineroar|Knock Off|p2a: Dondozo
+|-end|p2a: Dondozo|Substitute
+|move|p1b: Torkoal|Solar Beam||[still]
+|-prepare|p1b: Torkoal|Solar Beam
+|-anim|p1b: Torkoal|Solar Beam|p2a: Dondozo
+|-supereffective|p2a: Dondozo
+|-damage|p2a: Dondozo|30/100
+|-enditem|p2a: Dondozo|Sitrus Berry|[eat]
+|-heal|p2a: Dondozo|55/100|[from] item: Sitrus Berry
+|-damage|p1b: Torkoal|91/100|[from] item: Life Orb
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|5
+|
+|t:|1772923488
+|move|p2b: Cresselia|Stored Power|p1b: Torkoal
+|-damage|p1b: Torkoal|0 fnt
+|faint|p1b: Torkoal
+|move|p2a: Dondozo|Order Up|p1a: Incineroar
+|-crit|p1a: Incineroar
+|-damage|p1a: Incineroar|0 fnt
+|faint|p1a: Incineroar
+|-boost|p2a: Dondozo|atk|1
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1772923494
+|switch|p1a: Farigiraf|Farigiraf, L50, M|100/100
+|switch|p1b: Typhlosion|Typhlosion, L50, F|100/100
+|turn|6
+|
+|t:|1772923515
+|move|p2b: Cresselia|Stored Power|p1b: Typhlosion
+|-damage|p1b: Typhlosion|0 fnt
+|faint|p1b: Typhlosion
+|move|p2a: Dondozo|Body Press|p1a: Farigiraf
+|-damage|p1a: Farigiraf|60/100
+|move|p1a: Farigiraf|Foul Play|p2a: Dondozo
+|-damage|p2a: Dondozo|47/100
+|
+|-weather|none
+|upkeep
+|turn|7
+|-message|Antboy12 forfeited.
+|
+|win|Jahim
+|n|☆Antboy12|antboy12
+|n|☆Jahim|jahim
+|l|☆Antboy12
+|player|p1|

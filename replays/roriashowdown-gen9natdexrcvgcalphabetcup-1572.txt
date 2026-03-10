@@ -1,0 +1,155 @@
+|j|☆Smongo
+|j|☆squib
+|t:|1772907050
+|gametype|doubles
+|player|p1|Smongo|266|
+|player|p2|squib|169|
+|gen|9
+|tier|[Gen 9] NatDex RC VGC Alphabet Cup
+|rule|Species Clause: Limit one of each Pokémon
+|rule|Item Clause: Limit 1 of each item
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Terastal Clause: You cannot Terastallize
+|clearpoke
+|poke|p1|Grimmsnarl, L50, M|
+|poke|p1|Goodra, L50, M|
+|poke|p1|Gardevoir, L50, F|
+|poke|p1|Gastrodon, L50, F|
+|poke|p1|Gouging Fire, L50|
+|poke|p1|Gholdengo, L50|
+|poke|p2|Metagross, L50|
+|poke|p2|Meowstic, L50, M|
+|poke|p2|Milotic, L50, M|
+|poke|p2|Marowak-Alola, L50, F|
+|poke|p2|Meowscarada, L50, F|
+|poke|p2|Mamoswine, L50, M|
+|teampreview|4
+|showteam|p1|Grimmsnarl||LightClay|Prankster|LightScreen,Reflect,FakeOut,PartingShot|||M|||50|]Goodra||Leftovers|RainDish|Surf,Protect,RainDance,ChillingWater|||M|||50|]Gardevoir||Gardevoirite|Trace|HyperVoice,Psyshock,Protect,CalmMind|||F|||50|]Gastrodon||AssaultVest|StormDrain|IcyWind,EarthPower,MuddyWater,SludgeBomb|||F|||50|]Gouging Fire||BoosterEnergy|Protosynthesis|BreakingSwipe,HeatCrash,BurningBulwark,DragonDance||||||50|]Gholdengo||MetalCoat|GoodasGold|MakeItRain,NastyPlot,ShadowBall,Protect||||||50|
+|showteam|p2|Metagross||Metagrossite|ClearBody|HeavySlam,PsychicFangs,Protect,ShiftGear||||||50|]Meowstic||PsychicSeed|PsychicSurge|FollowMe,ExpandingForce,TrickRoom,Taunt|||M|||50|]Milotic||Leftovers|Competitive|MuddyWater,Moonblast,Protect,Recover|||M|||50|]Marowak-Alola||ThickClub|LightningRod|FlareBlitz,ShadowBone,Protect,Bonemerang|||F|||50|]Meowscarada||ChoiceBand|Protean|FlowerTrick,KnockOff,Uturn,PlayRough|||F|||50|]Mamoswine||LoadedDice|Intimidate|HighHorsepower,IcicleSpear,Protect,RockBlast|||M|||50|
+|j| kalilinha
+|l| kalilinha
+|
+|t:|1772907102
+|teamsize|p1|4
+|teamsize|p2|4
+|start
+|switch|p1a: Nightmare|Grimmsnarl, L50, M|100/100
+|switch|p1b: Gholdengo|Gholdengo, L50|100/100
+|switch|p2a: Skibidi Toilet|Metagross, L50|100/100
+|switch|p2b: Return of Lando|Mamoswine, L50, M|100/100
+|-ability|p2b: Return of Lando|Intimidate|boost
+|-unboost|p1a: Nightmare|atk|1
+|-unboost|p1b: Gholdengo|atk|1
+|turn|1
+|
+|t:|1772907121
+|detailschange|p2a: Skibidi Toilet|Metagross-Mega, L50
+|-mega|p2a: Skibidi Toilet|Metagross|Metagrossite
+|move|p1a: Nightmare|Fake Out|p2b: Return of Lando
+|-damage|p2b: Return of Lando|93/100
+|move|p2a: Skibidi Toilet|Shift Gear|p2a: Skibidi Toilet
+|-boost|p2a: Skibidi Toilet|spe|2
+|-boost|p2a: Skibidi Toilet|atk|1
+|move|p1b: Gholdengo|Nasty Plot|p1b: Gholdengo
+|-boost|p1b: Gholdengo|spa|2
+|cant|p2b: Return of Lando|flinch
+|
+|upkeep
+|turn|2
+|
+|t:|1772907138
+|switch|p2b: Hinaticc|Milotic, L50, M|100/100
+|move|p2a: Skibidi Toilet|Protect|p2a: Skibidi Toilet
+|-singleturn|p2a: Skibidi Toilet|Protect
+|move|p1a: Nightmare|Reflect|p1a: Nightmare
+|-sidestart|p1: Smongo|Reflect
+|move|p1b: Gholdengo|Shadow Ball|p2a: Skibidi Toilet
+|-activate|p2a: Skibidi Toilet|move: Protect
+|
+|upkeep
+|turn|3
+|
+|t:|1772907147
+|move|p1a: Nightmare|Parting Shot|p2a: Skibidi Toilet
+|-unboost|p2a: Skibidi Toilet|atk|1
+|-unboost|p2a: Skibidi Toilet|spa|1
+|
+|t:|1772907151
+|switch|p1a: GoodRAHHH|Goodra, L50, M|100/100|[from] Parting Shot
+|move|p2a: Skibidi Toilet|Heavy Slam|p1a: GoodRAHHH
+|-resisted|p1a: GoodRAHHH
+|-damage|p1a: GoodRAHHH|73/100
+|move|p1b: Gholdengo|Shadow Ball|p2a: Skibidi Toilet
+|-supereffective|p2a: Skibidi Toilet
+|-damage|p2a: Skibidi Toilet|0 fnt
+|faint|p2a: Skibidi Toilet
+|detailschange|p2: Skibidi Toilet|Metagross, L50|[silent]
+|move|p2b: Hinaticc|Recover||[still]
+|-fail|p2b: Hinaticc|heal
+|
+|-heal|p1a: GoodRAHHH|80/100|[from] item: Leftovers
+|-heal|p1a: GoodRAHHH|86/100|[from] ability: Rain Dish
+|upkeep
+|
+|t:|1772907162
+|switch|p2a: Jakitty|Meowstic, L50, M|100/100
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p2a: Jakitty
+|-enditem|p2a: Jakitty|Psychic Seed
+|-boost|p2a: Jakitty|spd|1|[from] item: Psychic Seed
+|turn|4
+|
+|t:|1772907182
+|move|p1a: GoodRAHHH|Protect|p1a: GoodRAHHH
+|-singleturn|p1a: GoodRAHHH|Protect
+|move|p1b: Gholdengo|Nasty Plot|p1b: Gholdengo
+|-boost|p1b: Gholdengo|spa|2
+|move|p2a: Jakitty|Taunt|p1b: Gholdengo
+|-immune|p1b: Gholdengo|[from] ability: Good as Gold
+|move|p2b: Hinaticc|Moonblast|p1a: GoodRAHHH
+|-activate|p1a: GoodRAHHH|move: Protect
+|
+|-heal|p1a: GoodRAHHH|92/100|[from] item: Leftovers
+|-heal|p1a: GoodRAHHH|98/100|[from] ability: Rain Dish
+|upkeep
+|turn|5
+|c|☆squib|what am i doing broi
+|c|☆squib|i mso fried
+|
+|t:|1772907198
+|move|p1b: Gholdengo|Shadow Ball|p2a: Jakitty
+|-supereffective|p2a: Jakitty
+|-damage|p2a: Jakitty|0 fnt
+|faint|p2a: Jakitty
+|move|p2b: Hinaticc|Muddy Water|p1b: Gholdengo|[spread] p1a,p1b
+|-resisted|p1a: GoodRAHHH
+|-damage|p1a: GoodRAHHH|93/100
+|-damage|p1b: Gholdengo|75/100
+|move|p1a: GoodRAHHH|Rain Dance|p1a: GoodRAHHH
+|-weather|RainDance
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: GoodRAHHH|99/100|[from] item: Leftovers
+|-heal|p1a: GoodRAHHH|100/100|[from] ability: Rain Dish
+|upkeep
+|
+|t:|1772907201
+|switch|p2a: Return of Lando|Mamoswine, L50, M|93/100
+|-ability|p2a: Return of Lando|Intimidate|boost
+|-unboost|p1a: GoodRAHHH|atk|1
+|-unboost|p1b: Gholdengo|atk|1
+|turn|6
+|
+|t:|1772907210
+|move|p1b: Gholdengo|Make It Rain|p2b: Hinaticc|[spread] p2a,p2b
+|-supereffective|p2a: Return of Lando
+|-damage|p2a: Return of Lando|0 fnt
+|-damage|p2b: Hinaticc|0 fnt
+|-unboost|p1b: Gholdengo|spa|1
+|faint|p2a: Return of Lando
+|faint|p2b: Hinaticc
+|
+|win|Smongo
+|c|☆squib|js MIr me alr bor
+|l|☆squib
+|player|p2|

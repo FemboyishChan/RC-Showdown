@@ -1,0 +1,172 @@
+|j|☆squib
+|j|☆GamerDzha
+|t:|1773087959
+|gametype|doubles
+|player|p1|squib|169|
+|player|p2|GamerDzha|wallace|
+|gen|9
+|tier|[Gen 9] NatDex RC VGC 2026 Reg A
+|rated|Tournament battle
+|rule|Species Clause: Limit one of each Pokémon
+|rule|Item Clause: Limit 1 of each item
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Terastal Clause: You cannot Terastallize
+|clearpoke
+|poke|p1|Pachirisu, L50, F|
+|poke|p1|Salamence, L50, M|
+|poke|p1|Incineroar, L50, M|
+|poke|p1|Primarina, L50, M|
+|poke|p1|Rillaboom, L50, F|
+|poke|p1|Ursaluna-Bloodmoon, L50, M|
+|poke|p2|Nidoking, L50, M|
+|poke|p2|Whimsicott, L50, M|
+|poke|p2|Farigiraf, L50, M|
+|poke|p2|Dracovish, L50|
+|poke|p2|Kingambit, L50, F|
+|poke|p2|Lucario, L50, F|
+|teampreview|4
+|showteam|p1|Pachirisu||SitrusBerry|VoltAbsorb|FollowMe,HelpingHand,SuperFang,Protect|||F|||50|]Salamence||Salamencite|Intimidate|Tailwind,HyperVoice,DoubleEdge,Protect|||M|||50|]Incineroar||SafetyGoggles|Intimidate|PartingShot,FlareBlitz,KnockOff,FakeOut|||M|||50|]Primarina||FairiumZ|LiquidVoice|Haze,HyperVoice,Moonblast,Protect|||M|||50|]Rillaboom||AssaultVest|GrassySurge|FakeOut,WoodHammer,GrassyGlide,Uturn|||F|||50|]Ursaluna-Bloodmoon||LifeOrb|MindsEye|EarthPower,HyperVoice,BloodMoon,Protect|||M|||50|
+|showteam|p2|Nidoking||LifeOrb|SheerForce|SludgeBomb,EarthPower,FocusBlast,Protect|||M|||50|]Whimsicott||FocusSash|Prankster|Moonblast,Tailwind,FakeTears,Protect|||M|||50|]Farigiraf||PsychiumZ|ArmorTail|HyperVoice,TrickRoom,Imprison,Protect|||M|||50|]Dracovish||ChoiceBand|StrongJaw|FishiousRend,Crunch,IceFang,PsychicFangs||||||50|]Kingambit||DarkGem|Defiant|SuckerPunch,KowtowCleave,IronHead,Protect|||F|||50|]Lucario||LucarioniteZ|Steadfast|AuraSphere,FlashCannon,DarkPulse,Detect|||F|||50|
+|j| elvis990033
+|
+|t:|1773088010
+|teamsize|p1|4
+|teamsize|p2|4
+|start
+|switch|p1a: Primarina|Primarina, L50, M|100/100
+|switch|p1b: Ursaluna|Ursaluna-Bloodmoon, L50, M|100/100
+|switch|p2a: Kingambit|Kingambit, L50, F, shiny|100/100
+|switch|p2b: Nidoking|Nidoking, L50, M, shiny|100/100
+|turn|1
+|l| elvis990033
+|
+|t:|1773088098
+|move|p1a: Primarina|Protect|p1a: Primarina
+|-singleturn|p1a: Primarina|Protect
+|move|p2b: Nidoking|Focus Blast|p1b: Ursaluna
+|-supereffective|p1b: Ursaluna
+|-damage|p1b: Ursaluna|0 fnt
+|faint|p1b: Ursaluna
+|move|p2a: Kingambit|Iron Head|p1a: Primarina
+|-activate|p1a: Primarina|move: Protect
+|
+|upkeep
+|
+|t:|1773088108
+|switch|p1b: Pachirisu|Pachirisu, L50, F|100/100
+|turn|2
+|
+|t:|1773088142
+|switch|p2b: Farigiraf|Farigiraf, L50, M, shiny|100/100
+|move|p2a: Kingambit|Protect|p2a: Kingambit
+|-singleturn|p2a: Kingambit|Protect
+|move|p1b: Pachirisu|Follow Me|p1b: Pachirisu
+|-singleturn|p1b: Pachirisu|move: Follow Me
+|move|p1a: Primarina|Hyper Voice|p2a: Kingambit|[spread] p2b
+|-activate|p2a: Kingambit|move: Protect
+|-damage|p2b: Farigiraf|54/100
+|
+|upkeep
+|turn|3
+|
+|t:|1773088173
+|move|p1b: Pachirisu|Super Fang|p2b: Farigiraf
+|-damage|p2b: Farigiraf|27/100
+|-zpower|p1a: Primarina
+|move|p1a: Primarina|Twinkle Tackle|p2a: Kingambit|[zeffect]
+|-damage|p2a: Kingambit|0 fnt
+|faint|p2a: Kingambit
+|-zpower|p2b: Farigiraf
+|move|p2b: Farigiraf|Z-Imprison|p2b: Farigiraf|[anim]Imprison
+|-boost|p2b: Farigiraf|spd|2|[zeffect]
+|-start|p2b: Farigiraf|move: Imprison
+|
+|upkeep
+|j| ronny3510
+|l| ronny3510
+|
+|t:|1773088197
+|switch|p2a: Nidoking|Nidoking, L50, M, shiny|100/100
+|turn|4
+|j|#Jahim
+|c|#Jahim|cook him squib!
+|
+|t:|1773088222
+|move|p1b: Pachirisu|Follow Me|p1b: Pachirisu
+|-singleturn|p1b: Pachirisu|move: Follow Me
+|move|p2a: Nidoking|Sludge Bomb|p1b: Pachirisu
+|-supereffective|p1b: Pachirisu
+|-damage|p1b: Pachirisu|0 fnt
+|faint|p1b: Pachirisu
+|move|p1a: Primarina|Haze|p1a: Primarina
+|-clearallboost
+|move|p2b: Farigiraf|Hyper Voice|p1a: Primarina
+|-damage|p1a: Primarina|71/100
+|
+|upkeep
+|
+|t:|1773088231
+|switch|p1b: Salamence|Salamence, L50, M|100/100
+|-ability|p1b: Salamence|Intimidate|boost
+|-unboost|p2a: Nidoking|atk|1
+|-unboost|p2b: Farigiraf|atk|1
+|turn|5
+|c|#Jahim|yo z imprison raw is isnane
+|c|#Jahim|hey it ignores taunt ig
+|c|#Jahim|vs HTR its like most counter team ever
+|c|#Jahim|but here eh
+|j| Scrappy9
+|
+|t:|1773088296
+|detailschange|p1b: Salamence|Salamence-Mega, L50, M
+|-mega|p1b: Salamence|Salamence|Salamencite
+|move|p2a: Nidoking|Protect|p2a: Nidoking
+|-singleturn|p2a: Nidoking|Protect
+|move|p1b: Salamence|Double-Edge|p2b: Farigiraf
+|-damage|p2b: Farigiraf|0 fnt
+|faint|p2b: Farigiraf
+|-damage|p1b: Salamence|89/100|[from] Recoil
+|move|p1a: Primarina|Moonblast|p2a: Nidoking
+|-activate|p2a: Nidoking|move: Protect
+|
+|upkeep
+|c|☆GamerDzha|ah
+|
+|t:|1773088311
+|switch|p2b: Lucario|Lucario, L50, F, shiny|100/100
+|turn|6
+|l| Scrappy9
+|
+|t:|1773088324
+|detailschange|p2b: Lucario|Lucario-Mega-Z, L50, F, shiny
+|-mega|p2b: Lucario|Lucario|Lucarionite Z
+|move|p1a: Primarina|Protect|p1a: Primarina
+|-singleturn|p1a: Primarina|Protect
+|move|p2b: Lucario|Dark Pulse|p1b: Salamence
+|-damage|p1b: Salamence|34/100
+|cant|p1b: Salamence|flinch
+|move|p2a: Nidoking|Sludge Bomb|p1a: Primarina
+|-activate|p1a: Primarina|move: Protect
+|
+|upkeep
+|turn|7
+|c|#Jahim|cook him like a steak!
+|c|☆squib|REF
+|c|☆squib|NOOOOOOOOO
+|c|☆GamerDzha|GGGS
+|
+|t:|1773088343
+|move|p2b: Lucario|Dark Pulse|p1b: Salamence
+|-damage|p1b: Salamence|0 fnt
+|faint|p1b: Salamence
+|detailschange|p1: Salamence|Salamence, L50, M|[silent]
+|move|p2a: Nidoking|Sludge Bomb|p1a: Primarina
+|-supereffective|p1a: Primarina
+|-damage|p1a: Primarina|0 fnt
+|faint|p1a: Primarina
+|
+|win|GamerDzha
+|n|☆squib|squib
+|n|☆GamerDzha|gamerdzha
+|n|@Jahim|jahim

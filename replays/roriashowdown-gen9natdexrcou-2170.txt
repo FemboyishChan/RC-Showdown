@@ -1,0 +1,1105 @@
+|j|☆ImagineHD
+|j|☆neo
+|t:|1773169947
+|gametype|singles
+|player|p1|ImagineHD|unknownf|1240
+|player|p2|neo|elesa|1081
+|gen|9
+|tier|[Gen 9] NatDex RC OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Clause: Evasion abilities, items, and moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Terastal Clause: You cannot Terastallize
+|clearpoke
+|poke|p1|Tapu Koko|
+|poke|p1|Rillaboom, F|
+|poke|p1|Decidueye, M|
+|poke|p1|Turtonator, F|
+|poke|p1|Stunfisk-Galar, F|
+|poke|p1|Alomomola, M|
+|poke|p2|Gliscor, F|
+|poke|p2|Corviknight, F|
+|poke|p2|Blissey, F|
+|poke|p2|Alomomola, M|
+|poke|p2|Weezing-Galar, M|
+|poke|p2|Clodsire, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by ImagineHD)
+|c|☆ImagineHD|...
+|c|☆neo|bye 
+|c|☆ImagineHD|NOOOOOO
+|c|☆ImagineHD|yo neo
+|c|☆ImagineHD|i gotta go
+|c|☆ImagineHD|to school
+|c|☆ImagineHD|for uh
+|c|☆neo|ok bro
+|c|☆ImagineHD|volleyball
+|c|☆neo|ggs
+|c|☆ImagineHD|ye u can forfeit
+|c|☆ImagineHD|type shit
+|c|☆neo|nah bro
+|inactive|ImagineHD has 120 seconds left.
+|c|☆ImagineHD|bro neo lock in
+|inactive|neo has 120 seconds left.
+|c|☆ImagineHD|i wont reveal ur secret
+|c|☆neo|hehe
+|c|☆neo|ff bro
+|inactive|ImagineHD has 90 seconds left.
+|c|☆ImagineHD|i need this ss
+|c|☆ImagineHD|of me beating u
+|c|☆neo|hmmmmmmmmm
+|c|☆neo|should i
+|c|☆ImagineHD|ff
+|c|☆ImagineHD|and still get screenshotted
+|c|☆ImagineHD|yes
+|inactive|neo has 90 seconds left.
+|c|☆neo|BRO ETERNAL FF
+|c|☆ImagineHD|im good
+|c|☆ImagineHD|im a man
+|c|☆ImagineHD|lead that gliscor shawty
+|c|☆neo|ImagineHD
+|
+|t:|1773170062
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Stunfisk|Stunfisk-Galar, F|100/100
+|switch|p2a: Alomomola|Alomomola, M|100/100
+|turn|1
+|c|☆ImagineHD|neo
+|inactive|ImagineHD has 120 seconds left.
+|c|☆neo|yo
+|
+|t:|1773170112
+|move|p2a: Alomomola|Toxic|p1a: Stunfisk|[miss]
+|-miss|p2a: Alomomola|p1a: Stunfisk
+|move|p1a: Stunfisk|Stealth Rock|p2a: Alomomola
+|-sidestart|p2: neo|move: Stealth Rock
+|
+|upkeep
+|turn|2
+|c|☆neo|deci getting nerfed bro
+|c|☆neo|enjoy it while u can
+|c|☆ImagineHD|i mean
+|c|☆ImagineHD|when ur the most creative mind
+|inactive|ImagineHD has 90 seconds left.
+|c|☆ImagineHD|in rc
+|c|☆ImagineHD|finding all the broken shit
+|c|☆ImagineHD|yall wouldnt even nerf it if it wasnt for me abusing grassy glide
+|c|☆ImagineHD|let that sink in
+|
+|t:|1773170154
+|move|p2a: Alomomola|Toxic|p1a: Stunfisk
+|-immune|p1a: Stunfisk
+|move|p1a: Stunfisk|Flip Turn|p2a: Alomomola
+|-resisted|p2a: Alomomola
+|-damage|p2a: Alomomola|97/100
+|-damage|p1a: Stunfisk|84/100|[from] item: Rocky Helmet|[of] p2a: Alomomola
+|
+|t:|1773170160
+|switch|p1a: Rillaboom|Rillaboom, F|100/100|[from] Flip Turn
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Rillaboom
+|
+|-heal|p2a: Alomomola|100/100|[from] Grassy Terrain
+|upkeep
+|turn|3
+|
+|t:|1773170164
+|move|p2a: Alomomola|Protect|p2a: Alomomola
+|-singleturn|p2a: Alomomola|Protect
+|move|p1a: Rillaboom|U-turn|p2a: Alomomola
+|-activate|p2a: Alomomola|move: Protect
+|
+|upkeep
+|turn|4
+|c|☆ImagineHD|can u play the game
+|
+|t:|1773170169
+|switch|p2a: Corviknight|Corviknight, F, shiny|100/100
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Rillaboom|U-turn|p2a: Corviknight
+|-resisted|p2a: Corviknight
+|-damage|p2a: Corviknight|96/100
+|
+|t:|1773170178
+|switch|p1a: Decidueye|Decidueye, M|100/100|[from] U-turn
+|
+|upkeep
+|turn|5
+|
+|t:|1773170193
+|switch|p2a: Weezing|Weezing-Galar, M|100/100
+|-ability|p2a: Weezing|Neutralizing Gas
+|-damage|p2a: Weezing|88/100|[from] Stealth Rock
+|move|p1a: Decidueye|Swords Dance|p1a: Decidueye
+|-boost|p1a: Decidueye|atk|2
+|
+|-heal|p2a: Weezing|94/100|[from] Grassy Terrain
+|-heal|p2a: Weezing|99/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1773170200
+|-zpower|p1a: Decidueye
+|move|p1a: Decidueye|Never-Ending Nightmare|p2a: Weezing|[zeffect]
+|-damage|p2a: Weezing|0 fnt
+|faint|p2a: Weezing
+|-end|p2a: Weezing|ability: Neutralizing Gas
+|
+|upkeep
+|c|☆neo|yea yea yea
+|c|☆neo|we get it
+|c|☆ImagineHD|yep
+|c|☆ImagineHD|lemme catch this 6-0
+|
+|t:|1773170219
+|switch|p2a: Alomomola|Alomomola, M|100/100
+|-damage|p2a: Alomomola|88/100|[from] Stealth Rock
+|turn|7
+|c|☆ImagineHD|its balanced i swear
+|
+|t:|1773170228
+|move|p1a: Decidueye|Poltergeist|p2a: Alomomola
+|-activate|p2a: Alomomola|move: Poltergeist|Rocky Helmet
+|-damage|p2a: Alomomola|33/100
+|move|p2a: Alomomola|Toxic|p1a: Decidueye
+|-status|p1a: Decidueye|tox
+|
+|-heal|p2a: Alomomola|39/100|[from] Grassy Terrain
+|-damage|p1a: Decidueye|95/100 tox|[from] psn
+|upkeep
+|turn|8
+|
+|t:|1773170234
+|move|p2a: Alomomola|Protect|p2a: Alomomola
+|-singleturn|p2a: Alomomola|Protect
+|move|p1a: Decidueye|Swords Dance|p1a: Decidueye
+|-boost|p1a: Decidueye|atk|2
+|
+|-heal|p1a: Decidueye|100/100 tox|[from] Grassy Terrain
+|-heal|p2a: Alomomola|45/100|[from] Grassy Terrain
+|-damage|p1a: Decidueye|89/100 tox|[from] psn
+|upkeep
+|turn|9
+|
+|t:|1773170256
+|switch|p2a: Blissey|Blissey, F|100/100
+|-damage|p2a: Blissey|88/100|[from] Stealth Rock
+|move|p1a: Decidueye|Close Combat|p2a: Blissey
+|-supereffective|p2a: Blissey
+|-damage|p2a: Blissey|0 fnt
+|-unboost|p1a: Decidueye|def|1
+|-unboost|p1a: Decidueye|spd|1
+|faint|p2a: Blissey
+|
+|-heal|p1a: Decidueye|95/100 tox|[from] Grassy Terrain
+|-damage|p1a: Decidueye|77/100 tox|[from] psn
+|-fieldend|move: Grassy Terrain
+|upkeep
+|
+|t:|1773170259
+|switch|p2a: Clodsire|Clodsire, M|100/100
+|turn|10
+|
+|t:|1773170270
+|move|p1a: Decidueye|Poltergeist|p2a: Clodsire
+|-activate|p2a: Clodsire|move: Poltergeist|Heavy-Duty Boots
+|-damage|p2a: Clodsire|36/100
+|move|p2a: Clodsire|Recover|p2a: Clodsire
+|-heal|p2a: Clodsire|86/100
+|
+|-damage|p1a: Decidueye|53/100 tox|[from] psn
+|upkeep
+|turn|11
+|c|☆ImagineHD|OKAY
+|c|☆ImagineHD|balanced
+|
+|t:|1773170294
+|switch|p1a: Stunfisk|Stunfisk-Galar, F|84/100
+|move|p2a: Clodsire|Recover|p2a: Clodsire
+|-heal|p2a: Clodsire|100/100
+|
+|-heal|p1a: Stunfisk|90/100|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1773170304
+|switch|p2a: Alomomola|Alomomola, M|79/100
+|-damage|p2a: Alomomola|66/100|[from] Stealth Rock
+|move|p1a: Stunfisk|Scorching Sands|p2a: Alomomola
+|-damage|p2a: Alomomola|42/100
+|
+|-heal|p1a: Stunfisk|96/100|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1773170308
+|move|p2a: Alomomola|Wish|p2a: Alomomola
+|move|p1a: Stunfisk|Scorching Sands|p2a: Alomomola
+|-damage|p2a: Alomomola|19/100
+|
+|-heal|p1a: Stunfisk|100/100|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1773170315
+|switch|p1a: Tapu Koko|Tapu Koko|100/100
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p1a: Tapu Koko
+|move|p2a: Alomomola|Protect||[still]
+|-fail|p2a: Alomomola
+|
+|-heal|p2a: Alomomola|69/100|[from] move: Wish|[wisher] Alomomola
+|upkeep
+|turn|15
+|c|☆neo|omg wait ur not weird
+|c|☆neo|also idk why recover 8 pp here
+|c|☆neo|ig tho
+|c|☆ImagineHD|i love that
+|inactive|ImagineHD has 120 seconds left.
+|
+|t:|1773170350
+|switch|p1a: Alomomola|Alomomola, M|100/100
+|move|p2a: Alomomola|Protect||[still]
+|-fail|p2a: Alomomola
+|
+|upkeep
+|turn|16
+|
+|t:|1773170355
+|move|p2a: Alomomola|Flip Turn|p1a: Alomomola
+|-resisted|p1a: Alomomola
+|-damage|p1a: Alomomola|95/100
+|
+|t:|1773170357
+|switch|p2a: Corviknight|Corviknight, F, shiny|96/100|[from] Flip Turn
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Alomomola|Knock Off|p2a: Corviknight
+|-damage|p2a: Corviknight|84/100
+|-enditem|p2a: Corviknight|Heavy-Duty Boots|[from] move: Knock Off|[of] p1a: Alomomola
+|
+|upkeep
+|turn|17
+|
+|t:|1773170368
+|move|p2a: Corviknight|Defog|p1a: Alomomola
+|-unboost|p1a: Alomomola|evasion|1
+|-sideend|p2: neo|Stealth Rock|[from] move: Defog|[of] p2a: Corviknight
+|-fieldend|move: Electric Terrain
+|move|p1a: Alomomola|Flip Turn|p2a: Corviknight
+|-damage|p2a: Corviknight|74/100
+|c|☆ImagineHD|boots has to be the sweatiest thing
+|c|☆ImagineHD|ive seen all day
+|c|☆ImagineHD|take a shower pooks
+|
+|t:|1773170386
+|switch|p1a: Turtonator|Turtonator, F|100/100|[from] Flip Turn
+|
+|upkeep
+|turn|18
+|c|☆neo|look at ur team
+|c|☆neo|lol
+|c|☆ImagineHD|...
+|
+|t:|1773170394
+|switch|p2a: Gliscor|Gliscor, F, shiny|100/100
+|move|p1a: Turtonator|Toxic|p2a: Gliscor
+|-status|p2a: Gliscor|tox
+|
+|upkeep
+|turn|19
+|c|☆ImagineHD|SHUT UP
+|c|☆ImagineHD|ur welcome bbg
+|c|☆ImagineHD|im kind ik
+|c|☆ImagineHD|i am NOT a cringe player
+|
+|t:|1773170419
+|move|p2a: Gliscor|Knock Off|p1a: Turtonator
+|-damage|p1a: Turtonator|88/100
+|-enditem|p1a: Turtonator|Heavy-Duty Boots|[from] move: Knock Off|[of] p2a: Gliscor
+|move|p1a: Turtonator|Rapid Spin|p2a: Gliscor
+|-crit|p2a: Gliscor
+|-damage|p2a: Gliscor|93/100 tox
+|-boost|p1a: Turtonator|spe|1
+|
+|-heal|p2a: Gliscor|100/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|20
+|
+|t:|1773170426
+|switch|p1a: Rillaboom|Rillaboom, F|100/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Rillaboom
+|move|p2a: Gliscor|Swords Dance|p2a: Gliscor
+|-boost|p2a: Gliscor|atk|2
+|
+|upkeep
+|turn|21
+|j| elmocapalot
+|c|☆neo|does detonating shell not work
+|c|☆ImagineHD|its not detonating shell
+|c|☆neo|oh nvm
+|c|☆neo|got nerfed
+|c| elmocapalot|i thouhgt u had to go to school kid
+|
+|t:|1773170441
+|move|p2a: Gliscor|Protect|p2a: Gliscor
+|-singleturn|p2a: Gliscor|Protect
+|move|p1a: Rillaboom|Grassy Glide|p2a: Gliscor
+|-activate|p2a: Gliscor|move: Protect
+|
+|upkeep
+|turn|22
+|c|☆ImagineHD|i can explain
+|
+|t:|1773170455
+|move|p1a: Rillaboom|Grassy Glide|p2a: Gliscor
+|-damage|p2a: Gliscor|69/100 tox
+|move|p2a: Gliscor|Facade|p1a: Rillaboom
+|-damage|p1a: Rillaboom|39/100
+|
+|-heal|p1a: Rillaboom|46/100|[from] Grassy Terrain
+|-heal|p2a: Gliscor|81/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|23
+|
+|t:|1773170463
+|switch|p1a: Stunfisk|Stunfisk-Galar, F|100/100
+|move|p2a: Gliscor|Facade|p1a: Stunfisk
+|-resisted|p1a: Stunfisk
+|-damage|p1a: Stunfisk|78/100
+|
+|-heal|p1a: Stunfisk|84/100|[from] Grassy Terrain
+|-heal|p1a: Stunfisk|90/100|[from] item: Leftovers
+|-heal|p2a: Gliscor|94/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|24
+|
+|t:|1773170473
+|move|p2a: Gliscor|Knock Off|p1a: Stunfisk
+|-damage|p1a: Stunfisk|58/100
+|-enditem|p1a: Stunfisk|Leftovers|[from] move: Knock Off|[of] p2a: Gliscor
+|move|p1a: Stunfisk|Flip Turn|p2a: Gliscor
+|-supereffective|p2a: Gliscor
+|-damage|p2a: Gliscor|72/100 tox
+|
+|t:|1773170479
+|switch|p1a: Tapu Koko|Tapu Koko|100/100|[from] Flip Turn
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p1a: Tapu Koko
+|
+|-heal|p2a: Gliscor|85/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|25
+|
+|t:|1773170480
+|move|p2a: Gliscor|Protect|p2a: Gliscor
+|-singleturn|p2a: Gliscor|Protect
+|move|p1a: Tapu Koko|Hidden Power|p2a: Gliscor
+|-activate|p2a: Gliscor|move: Protect
+|
+|-heal|p2a: Gliscor|97/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|26
+|
+|t:|1773170483
+|switch|p2a: Alomomola|Alomomola, M|100/100
+|move|p1a: Tapu Koko|Hidden Power|p2a: Alomomola
+|-resisted|p2a: Alomomola
+|-damage|p2a: Alomomola|86/100
+|
+|upkeep
+|turn|27
+|
+|t:|1773170495
+|switch|p1a: Rillaboom|Rillaboom, F|46/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Rillaboom
+|move|p2a: Alomomola|Protect||[still]
+|-fail|p2a: Alomomola
+|
+|-heal|p1a: Rillaboom|52/100|[from] Grassy Terrain
+|-heal|p2a: Alomomola|92/100|[from] Grassy Terrain
+|upkeep
+|turn|28
+|c|☆ImagineHD|wait
+|c|☆ImagineHD|i cant break this team anymore
+|c|☆ImagineHD|elmo
+|c|☆neo|why is protect so broken vs ur team
+|c|☆ImagineHD|IKR
+|inactive|ImagineHD has 120 seconds left.
+|c|☆ImagineHD|i cant break because corv has no item
+|c|☆ImagineHD|who am i clicking polt on
+|
+|t:|1773170553
+|move|p2a: Alomomola|Protect|p2a: Alomomola
+|-singleturn|p2a: Alomomola|Protect
+|move|p1a: Rillaboom|U-turn|p2a: Alomomola
+|-activate|p2a: Alomomola|move: Protect
+|
+|-heal|p1a: Rillaboom|58/100|[from] Grassy Terrain
+|-heal|p2a: Alomomola|98/100|[from] Grassy Terrain
+|upkeep
+|turn|29
+|
+|t:|1773170561
+|move|p1a: Rillaboom|U-turn|p2a: Alomomola
+|-damage|p2a: Alomomola|83/100
+|-damage|p1a: Rillaboom|41/100|[from] item: Rocky Helmet|[of] p2a: Alomomola
+|
+|t:|1773170566
+|switch|p1a: Turtonator|Turtonator, F|88/100|[from] U-turn
+|move|p2a: Alomomola|Flip Turn|p1a: Turtonator
+|-damage|p1a: Turtonator|78/100
+|
+|t:|1773170574
+|switch|p2a: Gliscor|Gliscor, F, shiny|97/100 tox|[from] Flip Turn
+|
+|-heal|p1a: Turtonator|84/100|[from] Grassy Terrain
+|-heal|p2a: Gliscor|100/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|30
+|
+|t:|1773170581
+|switch|p1a: Stunfisk|Stunfisk-Galar, F|58/100
+|move|p2a: Gliscor|Swords Dance|p2a: Gliscor
+|-boost|p2a: Gliscor|atk|2
+|
+|-heal|p1a: Stunfisk|64/100|[from] Grassy Terrain
+|upkeep
+|turn|31
+|
+|t:|1773170585
+|move|p2a: Gliscor|Swords Dance|p2a: Gliscor
+|-boost|p2a: Gliscor|atk|2
+|move|p1a: Stunfisk|Recover|p1a: Stunfisk
+|-heal|p1a: Stunfisk|100/100
+|
+|upkeep
+|turn|32
+|
+|t:|1773170589
+|move|p2a: Gliscor|Facade|p1a: Stunfisk
+|-resisted|p1a: Stunfisk
+|-damage|p1a: Stunfisk|68/100
+|move|p1a: Stunfisk|Flip Turn|p2a: Gliscor
+|-supereffective|p2a: Gliscor
+|-damage|p2a: Gliscor|78/100 tox
+|
+|t:|1773170592
+|switch|p1a: Tapu Koko|Tapu Koko|100/100|[from] Flip Turn
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p1a: Tapu Koko
+|
+|-heal|p2a: Gliscor|90/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|33
+|
+|t:|1773170595
+|move|p2a: Gliscor|Protect|p2a: Gliscor
+|-singleturn|p2a: Gliscor|Protect
+|move|p1a: Tapu Koko|Hidden Power|p2a: Gliscor
+|-activate|p2a: Gliscor|move: Protect
+|
+|-heal|p2a: Gliscor|100/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|34
+|
+|t:|1773170604
+|switch|p2a: Alomomola|Alomomola, M|100/100
+|move|p1a: Tapu Koko|Hidden Power|p2a: Alomomola
+|-resisted|p2a: Alomomola
+|-damage|p2a: Alomomola|85/100
+|
+|upkeep
+|turn|35
+|c|☆neo|called ur bluff
+|c|☆ImagineHD|bro
+|
+|t:|1773170618
+|switch|p1a: Stunfisk|Stunfisk-Galar, F|68/100
+|move|p2a: Alomomola|Toxic|p1a: Stunfisk
+|-immune|p1a: Stunfisk
+|
+|upkeep
+|turn|36
+|c|☆ImagineHD|i have no other play
+|c|☆ImagineHD|LOL
+|c|☆ImagineHD|like im stuck
+|
+|t:|1773170632
+|move|p2a: Alomomola|Flip Turn|p1a: Stunfisk
+|-supereffective|p1a: Stunfisk
+|-damage|p1a: Stunfisk|42/100
+|c|☆neo|why is protect soooo broken vs ur teammmm
+|
+|t:|1773170638
+|switch|p2a: Gliscor|Gliscor, F, shiny|100/100 tox|[from] Flip Turn
+|move|p1a: Stunfisk|Stealth Rock|p2a: Gliscor
+|-sidestart|p2: neo|move: Stealth Rock
+|
+|-fieldend|move: Electric Terrain
+|upkeep
+|turn|37
+|
+|t:|1773170647
+|move|p2a: Gliscor|Swords Dance|p2a: Gliscor
+|-boost|p2a: Gliscor|atk|2
+|move|p1a: Stunfisk|Flip Turn|p2a: Gliscor
+|-supereffective|p2a: Gliscor
+|-damage|p2a: Gliscor|80/100 tox
+|
+|t:|1773170648
+|switch|p1a: Tapu Koko|Tapu Koko|100/100|[from] Flip Turn
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p1a: Tapu Koko
+|
+|-heal|p2a: Gliscor|93/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|38
+|
+|t:|1773170653
+|move|p2a: Gliscor|Protect|p2a: Gliscor
+|-singleturn|p2a: Gliscor|Protect
+|move|p1a: Tapu Koko|Hidden Power|p2a: Gliscor
+|-activate|p2a: Gliscor|move: Protect
+|
+|-heal|p2a: Gliscor|100/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|39
+|
+|t:|1773170662
+|switch|p2a: Clodsire|Clodsire, M|100/100
+|move|p1a: Tapu Koko|Hidden Power|p2a: Clodsire
+|-supereffective|p2a: Clodsire
+|-damage|p2a: Clodsire|73/100
+|
+|upkeep
+|turn|40
+|l| elmocapalot
+|
+|t:|1773170680
+|switch|p1a: Stunfisk|Stunfisk-Galar, F|42/100
+|switch|p2a: Alomomola|Alomomola, M|100/100
+|-damage|p2a: Alomomola|88/100|[from] Stealth Rock
+|
+|upkeep
+|turn|41
+|c|☆ImagineHD|so much DAHmige
+|
+|t:|1773170695
+|move|p2a: Alomomola|Flip Turn|p1a: Stunfisk
+|-supereffective|p1a: Stunfisk
+|-damage|p1a: Stunfisk|16/100
+|c|☆neo|why does ur recover say 23.6/25.6
+|c|☆ImagineHD|urs say the same thing
+|
+|t:|1773170707
+|switch|p2a: Gliscor|Gliscor, F, shiny|100/100 tox|[from] Flip Turn
+|-damage|p2a: Gliscor|88/100 tox|[from] Stealth Rock
+|move|p1a: Stunfisk|Scorching Sands|p2a: Gliscor
+|-immune|p2a: Gliscor
+|
+|-heal|p2a: Gliscor|100/100 tox|[from] ability: Poison Heal
+|-fieldend|move: Electric Terrain
+|upkeep
+|turn|42
+|c|☆ImagineHD|funny bug
+|
+|t:|1773170713
+|switch|p1a: Tapu Koko|Tapu Koko|100/100
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p1a: Tapu Koko
+|move|p2a: Gliscor|Knock Off|p1a: Tapu Koko
+|-resisted|p1a: Tapu Koko
+|-damage|p1a: Tapu Koko|86/100
+|-enditem|p1a: Tapu Koko|Choice Specs|[from] move: Knock Off|[of] p2a: Gliscor
+|
+|upkeep
+|turn|43
+|c|☆ImagineHD|uh
+|c|☆neo|noooo
+|c|☆neo|anyways might actually be good for me
+|c|☆neo|clod nnot taking 27 nm
+|
+|t:|1773170742
+|switch|p1a: Rillaboom|Rillaboom, F|41/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Rillaboom
+|move|p2a: Gliscor|Protect||[still]
+|-fail|p2a: Gliscor
+|
+|-heal|p1a: Rillaboom|47/100|[from] Grassy Terrain
+|upkeep
+|turn|44
+|c|☆ImagineHD|bro 27 is NOTHING
+|
+|t:|1773170755
+|switch|p2a: Corviknight|Corviknight, F, shiny|74/100
+|-damage|p2a: Corviknight|62/100|[from] Stealth Rock
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Rillaboom|U-turn|p2a: Corviknight
+|-resisted|p2a: Corviknight
+|-damage|p2a: Corviknight|58/100
+|c|☆neo|with 8 recover 
+|
+|t:|1773170766
+|switch|p1a: Decidueye|Decidueye, M|53/100 tox|[from] U-turn
+|
+|-heal|p1a: Decidueye|59/100 tox|[from] Grassy Terrain
+|-damage|p1a: Decidueye|53/100 tox|[from] psn
+|upkeep
+|turn|45
+|
+|t:|1773170774
+|move|p1a: Decidueye|Swords Dance|p1a: Decidueye
+|-boost|p1a: Decidueye|atk|2
+|move|p2a: Corviknight|Roost|p2a: Corviknight
+|-heal|p2a: Corviknight|100/100
+|-singleturn|p2a: Corviknight|move: Roost
+|
+|-heal|p1a: Decidueye|59/100 tox|[from] Grassy Terrain
+|-damage|p1a: Decidueye|47/100 tox|[from] psn
+|upkeep
+|turn|46
+|
+|t:|1773170783
+|move|p1a: Decidueye|Close Combat|p2a: Corviknight
+|-damage|p2a: Corviknight|43/100
+|-unboost|p1a: Decidueye|def|1
+|-unboost|p1a: Decidueye|spd|1
+|move|p2a: Corviknight|Iron Defense|p2a: Corviknight
+|-boost|p2a: Corviknight|def|2
+|
+|-heal|p1a: Decidueye|53/100 tox|[from] Grassy Terrain
+|-damage|p1a: Decidueye|35/100 tox|[from] psn
+|upkeep
+|turn|47
+|c|☆ImagineHD|holy tickle
+|
+|t:|1773170795
+|switch|p1a: Tapu Koko|Tapu Koko|86/100
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p1a: Tapu Koko
+|move|p2a: Corviknight|Roost|p2a: Corviknight
+|-heal|p2a: Corviknight|94/100
+|-singleturn|p2a: Corviknight|move: Roost
+|
+|upkeep
+|turn|48
+|c|☆neo|im not even full phydef
+|c|☆ImagineHD|see deci is balanced
+|c|☆neo|200/188
+|
+|t:|1773170816
+|switch|p2a: Clodsire|Clodsire, M|73/100
+|move|p1a: Tapu Koko|Hidden Power|p2a: Clodsire
+|-supereffective|p2a: Clodsire
+|-damage|p2a: Clodsire|57/100
+|
+|upkeep
+|turn|49
+|
+|t:|1773170827
+|switch|p1a: Stunfisk|Stunfisk-Galar, F|16/100
+|move|p2a: Clodsire|Recover|p2a: Clodsire
+|-heal|p2a: Clodsire|100/100
+|
+|upkeep
+|turn|50
+|
+|t:|1773170832
+|switch|p2a: Corviknight|Corviknight, F, shiny|94/100
+|-damage|p2a: Corviknight|81/100|[from] Stealth Rock
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Stunfisk|Recover|p1a: Stunfisk
+|-heal|p1a: Stunfisk|66/100
+|
+|upkeep
+|turn|51
+|
+|t:|1773170840
+|switch|p1a: Turtonator|Turtonator, F|84/100
+|move|p2a: Corviknight|Defog|p1a: Turtonator
+|-unboost|p1a: Turtonator|evasion|1
+|-sideend|p2: neo|Stealth Rock|[from] move: Defog|[of] p2a: Corviknight
+|-fieldend|move: Electric Terrain
+|
+|upkeep
+|turn|52
+|
+|t:|1773170853
+|switch|p2a: Gliscor|Gliscor, F, shiny|100/100 tox
+|move|p1a: Turtonator|Flamethrower|p2a: Gliscor
+|-damage|p2a: Gliscor|78/100 tox
+|
+|-heal|p2a: Gliscor|91/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|53
+|
+|t:|1773170867
+|switch|p1a: Alomomola|Alomomola, M|100/100
+|move|p2a: Gliscor|Facade|p1a: Alomomola
+|-damage|p1a: Alomomola|79/100
+|
+|-heal|p2a: Gliscor|100/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|54
+|
+|t:|1773170875
+|move|p2a: Gliscor|Knock Off|p1a: Alomomola
+|-damage|p1a: Alomomola|65/100
+|-enditem|p1a: Alomomola|Assault Vest|[from] move: Knock Off|[of] p2a: Gliscor
+|move|p1a: Alomomola|Scald|p2a: Gliscor
+|-supereffective|p2a: Gliscor
+|-damage|p2a: Gliscor|76/100 tox
+|
+|-heal|p2a: Gliscor|89/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|55
+|
+|t:|1773170881
+|move|p2a: Gliscor|Swords Dance|p2a: Gliscor
+|-boost|p2a: Gliscor|atk|2
+|move|p1a: Alomomola|Scald|p2a: Gliscor
+|-supereffective|p2a: Gliscor
+|-damage|p2a: Gliscor|66/100 tox
+|
+|-heal|p2a: Gliscor|78/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|56
+|
+|t:|1773170887
+|move|p2a: Gliscor|Facade|p1a: Alomomola
+|-damage|p1a: Alomomola|23/100
+|move|p1a: Alomomola|Flip Turn|p2a: Gliscor
+|-supereffective|p2a: Gliscor
+|-damage|p2a: Gliscor|49/100 tox
+|
+|t:|1773170893
+|switch|p1a: Tapu Koko|Tapu Koko|86/100|[from] Flip Turn
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p1a: Tapu Koko
+|
+|-heal|p2a: Gliscor|62/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|57
+|
+|t:|1773170895
+|move|p2a: Gliscor|Protect|p2a: Gliscor
+|-singleturn|p2a: Gliscor|Protect
+|move|p1a: Tapu Koko|Hidden Power|p2a: Gliscor
+|-activate|p2a: Gliscor|move: Protect
+|
+|-heal|p2a: Gliscor|74/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|58
+|
+|t:|1773170904
+|switch|p1a: Decidueye|Decidueye, M|35/100 tox
+|switch|p2a: Clodsire|Clodsire, M|100/100
+|
+|-damage|p1a: Decidueye|29/100 tox|[from] psn
+|upkeep
+|turn|59
+|
+|t:|1773170912
+|switch|p2a: Corviknight|Corviknight, F, shiny|81/100
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Decidueye|Poltergeist||[still]
+|-fail|p1a: Decidueye
+|
+|-damage|p1a: Decidueye|17/100 tox|[from] psn
+|upkeep
+|turn|60
+|
+|t:|1773170917
+|switch|p1a: Rillaboom|Rillaboom, F|47/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Rillaboom
+|move|p2a: Corviknight|Iron Defense|p2a: Corviknight
+|-boost|p2a: Corviknight|def|2
+|
+|-heal|p1a: Rillaboom|53/100|[from] Grassy Terrain
+|upkeep
+|turn|61
+|
+|t:|1773170921
+|move|p1a: Rillaboom|U-turn|p2a: Corviknight
+|-resisted|p2a: Corviknight
+|-damage|p2a: Corviknight|79/100
+|
+|t:|1773170923
+|switch|p1a: Turtonator|Turtonator, F|84/100|[from] U-turn
+|move|p2a: Corviknight|Body Press|p1a: Turtonator
+|-damage|p1a: Turtonator|57/100
+|
+|-heal|p1a: Turtonator|63/100|[from] Grassy Terrain
+|upkeep
+|turn|62
+|
+|t:|1773170931
+|switch|p2a: Gliscor|Gliscor, F, shiny|74/100 tox
+|move|p1a: Turtonator|Draco Meteor|p2a: Gliscor
+|-damage|p2a: Gliscor|37/100 tox
+|-unboost|p1a: Turtonator|spa|2
+|
+|-heal|p1a: Turtonator|69/100|[from] Grassy Terrain
+|-heal|p2a: Gliscor|49/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|63
+|
+|t:|1773170937
+|switch|p1a: Tapu Koko|Tapu Koko|86/100
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p1a: Tapu Koko
+|move|p2a: Gliscor|Facade|p1a: Tapu Koko
+|-damage|p1a: Tapu Koko|44/100
+|
+|-heal|p2a: Gliscor|62/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|64
+|c|☆ImagineHD|broo im getting impatient
+|
+|t:|1773170944
+|move|p2a: Gliscor|Protect|p2a: Gliscor
+|-singleturn|p2a: Gliscor|Protect
+|move|p1a: Tapu Koko|Hidden Power|p2a: Gliscor
+|-activate|p2a: Gliscor|move: Protect
+|
+|-heal|p2a: Gliscor|74/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|65
+|c|☆ImagineHD|but like
+|c|☆ImagineHD|this team cant break without deci
+|c|☆ImagineHD|no future sight
+|c|☆ImagineHD|:sob:
+|c|☆neo|THE WAY I ALMOST CLICKED CORV
+|c|☆neo|also yeah
+|c|☆ImagineHD|ur making me dream
+|inactive|ImagineHD has 120 seconds left.
+|
+|t:|1773170974
+|switch|p2a: Clodsire|Clodsire, M|100/100
+|move|p1a: Tapu Koko|Hidden Power|p2a: Clodsire
+|-supereffective|p2a: Clodsire
+|-damage|p2a: Clodsire|82/100
+|
+|upkeep
+|turn|66
+|inactive|ImagineHD has 120 seconds left.
+|c|☆neo|ur team does kinda struggle vs stall w/o that bird guy
+|
+|t:|1773171012
+|switch|p1a: Stunfisk|Stunfisk-Galar, F|66/100
+|move|p2a: Clodsire|Spikes|p1a: Stunfisk
+|-sidestart|p1: ImagineHD|Spikes
+|
+|upkeep
+|turn|67
+|c|☆neo|mind u im playin like this cause 8 pp healing
+|c|☆neo|i couldve been way more aggressive
+|inactive|ImagineHD has 90 seconds left.
+|c|☆ImagineHD|im playing like this because i have NO CHOICE
+|c|☆ImagineHD|I HAVE NO OTHER PLAYSS
+|c|☆ImagineHD|other than recover stall
+|c|☆ImagineHD|:sob:
+|c|☆neo|:sob:
+|c|☆ImagineHD|TWINS
+|
+|t:|1773171047
+|switch|p2a: Corviknight|Corviknight, F, shiny|79/100
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Stunfisk|Scorching Sands|p2a: Corviknight
+|-immune|p2a: Corviknight
+|
+|-fieldend|move: Electric Terrain
+|upkeep
+|turn|68
+|c|☆neo|bro why is there only vgc tours
+|
+|t:|1773171055
+|move|p2a: Corviknight|Body Press|p1a: Stunfisk
+|-supereffective|p1a: Stunfisk
+|-damage|p1a: Stunfisk|30/100
+|move|p1a: Stunfisk|Flip Turn|p2a: Corviknight
+|-damage|p2a: Corviknight|71/100
+|c|☆ImagineHD|nah fr tho
+|
+|t:|1773171062
+|switch|p1a: Turtonator|Turtonator, F|69/100|[from] Flip Turn
+|-damage|p1a: Turtonator|57/100|[from] Spikes
+|
+|upkeep
+|turn|69
+|
+|t:|1773171068
+|switch|p2a: Gliscor|Gliscor, F, shiny|74/100 tox
+|move|p1a: Turtonator|Rapid Spin|p2a: Gliscor
+|-damage|p2a: Gliscor|69/100 tox
+|-boost|p1a: Turtonator|spe|1
+|-sideend|p1: ImagineHD|Spikes|[from] move: Rapid Spin|[of] p1a: Turtonator
+|
+|-heal|p2a: Gliscor|82/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|70
+|inactive|ImagineHD has 90 seconds left.
+|
+|t:|1773171082
+|switch|p1a: Alomomola|Alomomola, M|57/100
+|move|p2a: Gliscor|Facade|p1a: Alomomola
+|-damage|p1a: Alomomola|35/100
+|
+|-heal|p2a: Gliscor|94/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|71
+|
+|t:|1773171089
+|move|p2a: Gliscor|Facade|p1a: Alomomola
+|-damage|p1a: Alomomola|14/100
+|move|p1a: Alomomola|Flip Turn|p2a: Gliscor
+|-supereffective|p2a: Gliscor
+|-damage|p2a: Gliscor|70/100 tox
+|
+|t:|1773171096
+|switch|p1a: Tapu Koko|Tapu Koko|44/100|[from] Flip Turn
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p1a: Tapu Koko
+|
+|-heal|p2a: Gliscor|82/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|72
+|c|☆neo|this specific gliscor set also kinda fcks u over
+|
+|t:|1773171109
+|move|p2a: Gliscor|Protect|p2a: Gliscor
+|-singleturn|p2a: Gliscor|Protect
+|move|p1a: Tapu Koko|Dazzling Gleam|p2a: Gliscor
+|-activate|p2a: Gliscor|move: Protect
+|
+|-heal|p2a: Gliscor|95/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|73
+|c|☆ImagineHD|nah on gibidi tho
+|
+|t:|1773171119
+|switch|p2a: Clodsire|Clodsire, M|82/100
+|move|p1a: Tapu Koko|Dazzling Gleam|p2a: Clodsire
+|-resisted|p2a: Clodsire
+|-damage|p2a: Clodsire|72/100
+|
+|upkeep
+|turn|74
+|c|☆ImagineHD|so
+|c|☆ImagineHD|b03?
+|c|☆ImagineHD|:uwu:
+|c|☆neo|heheheheheh
+|
+|t:|1773171141
+|switch|p1a: Rillaboom|Rillaboom, F|53/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Rillaboom
+|move|p2a: Clodsire|Spikes|p1a: Rillaboom
+|-sidestart|p1: ImagineHD|Spikes
+|
+|-heal|p1a: Rillaboom|60/100|[from] Grassy Terrain
+|-heal|p2a: Clodsire|79/100|[from] Grassy Terrain
+|upkeep
+|turn|75
+|
+|t:|1773171149
+|switch|p2a: Corviknight|Corviknight, F, shiny|71/100
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Rillaboom|Superpower|p2a: Corviknight
+|-damage|p2a: Corviknight|43/100
+|-unboost|p1a: Rillaboom|atk|1
+|-unboost|p1a: Rillaboom|def|1
+|
+|-heal|p1a: Rillaboom|66/100|[from] Grassy Terrain
+|upkeep
+|turn|76
+|c|☆ImagineHD|why am i not sd on ts
+|
+|t:|1773171158
+|move|p1a: Rillaboom|U-turn|p2a: Corviknight
+|-resisted|p2a: Corviknight
+|-damage|p2a: Corviknight|40/100
+|c|☆neo|ARE U NOT BAND
+|c|☆ImagineHD|theres negative breaking power
+|c|☆ImagineHD|no
+|c|☆neo|AV?
+|c|☆neo|WTH
+|c|☆ImagineHD|terrain extender
+|c|☆ImagineHD|for glide
+|inactive|ImagineHD has 90 seconds left.
+|c|☆neo|wood hammer? or knock
+|j| elmocapalot
+|c|☆ImagineHD|gulp
+|c|☆ImagineHD|high horse power
+|c|☆neo|feel like u should be knock on this
+|c|☆ImagineHD|i didnt wanna be knock
+|c|☆neo|HIGH
+|c|☆ImagineHD|cuz
+|c|☆neo|HORSE
+|c|☆neo|POWER
+|c|☆ImagineHD|NEO
+|c|☆ImagineHD|POLTERGEIST
+|c|☆neo|:sob:
+|inactive|ImagineHD has 60 seconds left.
+|
+|t:|1773171211
+|switch|p1a: Turtonator|Turtonator, F|57/100|[from] U-turn
+|-damage|p1a: Turtonator|45/100|[from] Spikes
+|move|p2a: Corviknight|Roost|p2a: Corviknight
+|-heal|p2a: Corviknight|90/100
+|-singleturn|p2a: Corviknight|move: Roost
+|
+|-heal|p2a: Corviknight|96/100|[from] Grassy Terrain
+|-heal|p1a: Turtonator|51/100|[from] Grassy Terrain
+|upkeep
+|turn|77
+|
+|t:|1773171218
+|switch|p2a: Gliscor|Gliscor, F, shiny|95/100 tox
+|move|p1a: Turtonator|Rapid Spin|p2a: Gliscor
+|-damage|p2a: Gliscor|90/100 tox
+|-boost|p1a: Turtonator|spe|1
+|-sideend|p1: ImagineHD|Spikes|[from] move: Rapid Spin|[of] p1a: Turtonator
+|
+|-heal|p1a: Turtonator|57/100|[from] Grassy Terrain
+|-heal|p2a: Gliscor|100/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|78
+|
+|t:|1773171224
+|move|p2a: Gliscor|Swords Dance|p2a: Gliscor
+|-boost|p2a: Gliscor|atk|2
+|move|p1a: Turtonator|Draco Meteor|p2a: Gliscor
+|-damage|p2a: Gliscor|63/100 tox
+|-unboost|p1a: Turtonator|spa|2
+|
+|-heal|p1a: Turtonator|63/100|[from] Grassy Terrain
+|-heal|p2a: Gliscor|75/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|79
+|c|☆ImagineHD|ELMO
+|c|☆ImagineHD|HELP
+|c|☆ImagineHD|MY LIFE
+|c|☆ImagineHD|DEPENDS
+|c|☆ImagineHD|ON THIS
+|inactive|ImagineHD has 60 seconds left.
+|c| elmocapalot|uhm
+|c| elmocapalot|bye
+|l| elmocapalot
+|c|☆ImagineHD|wtfff
+|c|☆ImagineHD|ah hell nah
+|c|☆ImagineHD|you got that
+|-message|ImagineHD forfeited.
+|
+|win|neo
+|raw|ImagineHD's rating: 1240 &rarr; <strong>1217</strong><br />(-23 for losing)
+|raw|neo's rating: 1081 &rarr; <strong>1134</strong><br />(+53 for winning)
+|c|☆neo|:sob:
+|c|☆ImagineHD|yo
+|c|☆ImagineHD|run back
+|c|☆neo|ermmmmmmmmm
+|c|☆ImagineHD|i wont run ghold
+|c|☆ImagineHD|chill
+|c|☆neo|ima think on it
+|l|☆ImagineHD
+|player|p1|
+|c|☆neo|ima use bathroom
+|c|☆neo|rq
