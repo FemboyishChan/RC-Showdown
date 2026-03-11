@@ -232,7 +232,7 @@ function toId() {
 			if (isLocal) {
 				return 'http://localhost:3000/action.php';
 			}
-			var ret = 'https://play.pokemonshowdown.com/~~rcshowdown/action.php';
+			var ret = 'https://play.pbblegacy.com/~~rcshowdown/action.php';
 			return (this.getActionPHP = function () {
 				return ret;
 			})();
@@ -430,7 +430,10 @@ function toId() {
 						});
 					}
 					self.finishRename(data.username, data.assertion);
-				}), 'text');
+				}), 'text').fail(function () {
+					self.loaded = true;
+					app.topbar.updateUserbar();
+				});
 			}
 		},
 		/**
