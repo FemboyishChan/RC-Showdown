@@ -143,7 +143,7 @@
 		addNews: function () {
 			var self = this;
 			$.ajax({
-				url: location.protocol + "//" + Config.routes.root + "/news.json",
+				url: '/news.json',
 				dataType: "json",
 				success: function (data) {
 					var html = '';
