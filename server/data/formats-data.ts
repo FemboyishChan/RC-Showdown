@@ -265,7 +265,7 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	raichumegay: {
 		tier: "Uber",
-		natDexTier: "UU",
+		natDexTier: "Uber",
 	},
 	sandshrew: {
 		tier: "LC",

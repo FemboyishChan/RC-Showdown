@@ -345,6 +345,19 @@ function clearTimer(room: BasicRoom) {
 	}
 }
 
+/**
+ * Force-ends any tournament currently in its signup phase (not yet started).
+ * Called when auto-tours are disabled mid-signup.
+ */
+function clearSignupTimer(room: BasicRoom) {
+	const game = (room as any).game;
+	if (game && typeof game.forceEnd === 'function' && !game.started) {
+		try {
+			game.forceEnd();
+		} catch {}
+	}
+}
+
 function startAutoTours(room: BasicRoom) {
 	const s = getState(room);
 	s.enabled = true;

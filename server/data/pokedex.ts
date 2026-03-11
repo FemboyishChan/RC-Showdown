@@ -30130,7 +30130,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "spe": 118
     },
     "abilities": {
-      "0": "Luchador's Pride"
+      "0": "Mold Breaker"
     },
     "heightm": 1,
     "weightkg": 25,
@@ -31336,7 +31336,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     },
     "abilities": {
       "0": "Overgrow",
-      "1": "Tinted Lens",
+      "1": "Wind Rider",
       "H": "Long Reach"
     },
     "heightm": 0.3,
@@ -31371,7 +31371,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     },
     "abilities": {
       "0": "Overgrow",
-      "1": "Tinted Lens",
+      "1": "Wind Rider",
       "H": "Long Reach"
     },
     "heightm": 0.7,
@@ -31409,7 +31409,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     },
     "abilities": {
       "0": "Overgrow",
-      "1": "Tinted Lens",
+      "1": "Wind Rider",
       "H": "Long Reach"
     },
     "heightm": 1.6,
@@ -31452,7 +31452,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     },
     "abilities": {
       "0": "Overgrow",
-      "1": "Tinted Lens",
+      "1": "Big Pecks",
       "H": "Scrappy"
     },
     "heightm": 1.6,
