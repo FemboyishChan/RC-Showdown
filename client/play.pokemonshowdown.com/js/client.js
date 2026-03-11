@@ -232,7 +232,7 @@ function toId() {
 			if (isLocal) {
 				return 'http://localhost:3000/action.php';
 			}
-			var ret = '/~~' + Config.server.id + '/action.php';
+			var ret = 'https://play.pbblegacy.com/~~rcshowdown/action.php';
 			if (Config.testclient) {
 				ret = 'https://' + Config.routes.client + ret;
 			}
