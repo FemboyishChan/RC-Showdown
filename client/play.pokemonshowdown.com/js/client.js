@@ -232,10 +232,7 @@ function toId() {
 			if (isLocal) {
 				return 'http://localhost:3000/action.php';
 			}
-			var ret = 'https://play.pbblegacy.com/~~rcshowdown/action.php';
-			if (Config.testclient) {
-				ret = 'https://' + Config.routes.client + ret;
-			}
+			var ret = 'https://play.pokemonshowdown.com/~~rcshowdown/action.php';
 			return (this.getActionPHP = function () {
 				return ret;
 			})();
@@ -326,6 +323,8 @@ function toId() {
 					}
 					self._renameRetries = 0;
 					self.finishRename(name, data);
+				}).fail(function () {
+					app.addPopupMessage("Could not reach the login server. Please check your connection and try again.");
 				});
 			} else {
 				app.send('/trn ' + name);
