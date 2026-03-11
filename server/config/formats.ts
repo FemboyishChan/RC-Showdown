@@ -263,7 +263,7 @@ const _AllFormats: import('../sim/dex-formats').FormatList = [
 	{
 		name: "[Gen 9] Custom Game",
 		mod: 'gen9',
-		searchShow: false,
+		//searchShow: false,
 		debug: true,
 		battle: { trunc: Math.trunc },
 		// no restrictions, for serious (other than team preview)
@@ -368,7 +368,7 @@ const _AllFormats: import('../sim/dex-formats').FormatList = [
 		name: "[Gen 9] Doubles Custom Game",
 		mod: 'gen9',
 		gameType: 'doubles',
-		searchShow: false,
+		//searchShow: false,
 		battle: { trunc: Math.trunc },
 		debug: true,
 		// no restrictions, for serious (other than team preview)
@@ -5566,7 +5566,7 @@ for (let _i = 0; _i < _AllFormats.length; _i++) {
 }
 export const Formats = _AllFormats.map((_f, _i) => {
 	if (_i >= _rcBoundaryIdx && 'name' in _f) {
-		return { ..._f, searchShow: false, challengeShow: false };
+		return { ..._f };
 	}
 	return _f;
 }) as typeof _AllFormats;

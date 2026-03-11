@@ -443,7 +443,7 @@ class FormatDropdownPanel extends PSRoomPanel {
 			if (selectType === 'search' && format.searchShow === false) return false;
 			if (selectType === 'tournament' && format.tournamentShow === false) return false;
 			if (selectType === 'teambuilder' && format.team) return false;
-			if (selectType === 'teambuilder' && format.challengeShow === false && format.searchShow === false) return false;
+			//if (selectType === 'teambuilder' && format.challengeShow === false && format.searchShow === false) return false;
 			return true;
 		});
 
@@ -509,7 +509,7 @@ class FormatDropdownPanel extends PSRoomPanel {
 						if (selectType === 'challenge' && format.challengeShow === false) return null;
 						if (selectType === 'search' && format.searchShow === false) return null;
 						if (selectType === 'teambuilder' && format.team) return null;
-						if (selectType === 'teambuilder' && format.challengeShow === false && format.searchShow === false) return null;
+						//if (selectType === 'teambuilder' && format.challengeShow === false && format.searchShow === false) return null;
 						return <li><button value={format.name} class={`option${curFormat === format.id ? ' cur' : ''}`}>
 							{format.name.replace('[Gen 8 ', '[').replace('[Gen 9] ', '').replace('[Gen 7 ', '[')}
 							{format.section === 'No Format' && <em> (uncategorized)</em>}
