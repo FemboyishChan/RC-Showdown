@@ -232,7 +232,7 @@ function toId() {
 			if (isLocal) {
 				return 'http://localhost:3000/action.php';
 			}
-			var ret = 'https://play.pbblegacy.com/~~rcshowdown/action.php';
+			var ret = 'https://play.pbblegacy.com/action.php';
 			return (this.getActionPHP = function () {
 				return ret;
 			})();
@@ -272,6 +272,7 @@ function toId() {
 				app.addPopupMessage("Something is interfering with our connection to the login server.");
 			} else {
 				app.trigger('loggedin');
+				this.setPersistentName(name);
 				app.send('/trn ' + name + ',0,' + assertion);
 			}
 		},
@@ -409,11 +410,19 @@ function toId() {
 					return;
 				}
 
-				var self = this;
-				$.post(this.getActionPHP(), {
+			var self = this;
+			$.ajax({
+				url: this.getActionPHP(),
+				type: 'POST',
+				data: {
 					act: 'upkeep',
 					challstr: this.challstr
-				}, Storage.safeJSON(function (data) {
+				},
+				xhrFields: {
+					withCredentials: true
+				},
+				dataType: 'text',
+				success: Storage.safeJSON(function (data) {
 					self.loaded = true;
 					if (!data.username) {
 						app.topbar.updateUserbar();
@@ -429,11 +438,15 @@ function toId() {
 							userid: toUserid(data.username)
 						});
 					}
+
 					self.finishRename(data.username, data.assertion);
-				}), 'text').fail(function () {
+				}),
+				error: function () {
 					self.loaded = true;
 					app.topbar.updateUserbar();
-				});
+				}
+			});
+
 			}
 		},
 		/**
@@ -452,8 +465,14 @@ function toId() {
 		},
 		setPersistentName: function (name) {
 			if (location.host !== Config.routes.client) return;
-			$.cookie('showdown_username', (name !== undefined) ? name : this.get('name'), {
-				expires: 14
+
+			name = name !== undefined ? name : this.get('name');
+			if (!name || name === 'Guest') return;
+
+			$.cookie('showdown_username', name, {
+				expires: 14,
+				path: '/',
+				domain: '.pbblegacy.com'
 			});
 		}
 	});

@@ -294,7 +294,7 @@ class NTBBSession {
 
 		// setcookie('sid', $this->scookie, ['expires' => time() + (363)*24*60*60, 'path' => '/', 'domain' => $psconfig['routes']['root'], 'secure' => true, 'httponly' => true, 'samesite' => 'None']);
 		$encodedcookie = rawurlencode($this->scookie);
-		header("Set-Cookie: sid=$encodedcookie; Max-Age=31363200; Domain={$psconfig['routes']['root']}; Path=/; Secure; SameSite=None");
+		header("Set-Cookie: sid=$encodedcookie; Max-Age=31363200; Domain={$psconfig['routes']['root']}; Path=/; Secure; SameSite=Lax");
 
 		return $curuser;
 	}
@@ -306,7 +306,7 @@ class NTBBSession {
 			$this->scookie = ',,' . $this->sid;
 			// setcookie('sid', $this->scookie, ['expires' => time() + (363)*24*60*60, 'path' => '/', 'domain' => $psconfig['routes']['root'], 'secure' => true, 'httponly' => true, 'samesite' => 'None']);
 			$encodedcookie = rawurlencode($this->scookie);
-			header("Set-Cookie: sid=$encodedcookie; Max-Age=31363200; Domain={$psconfig['routes']['root']}; Path=/; Secure; SameSite=None");
+			header("Set-Cookie: sid=$encodedcookie; Max-Age=31363200; Domain={$psconfig['routes']['root']}; Path=/; Secure; SameSite=Lax");
 		}
 	}
 	function killCookie() {
@@ -315,10 +315,10 @@ class NTBBSession {
 			$this->scookie = ',,' . $this->sid;
 			// setcookie('sid', $this->scookie, ['expires' => time() + (363)*24*60*60, 'path' => '/', 'domain' => $psconfig['routes']['root'], 'secure' => true, 'httponly' => true, 'samesite' => 'None']);
 			$encodedcookie = rawurlencode($this->scookie);
-			header("Set-Cookie: sid=$encodedcookie; Max-Age=31363200; Domain={$psconfig['routes']['root']}; Path=/; Secure; SameSite=None");
+			header("Set-Cookie: sid=$encodedcookie; Max-Age=31363200; Domain={$psconfig['routes']['root']}; Path=/; Secure; SameSite=Lax");
 		} else {
 			// setcookie('sid', '', ['expires' => time() - 60*60*24*2, 'path' => '/', 'domain' => $psconfig['routes']['root'], 'secure' => true, 'httponly' => true, 'samesite' => 'None']);
-			header("Set-Cookie: sid=; Max-Age=0; Domain={$psconfig['routes']['root']}; Path=/; Secure; SameSite=None");
+			header("Set-Cookie: sid=; Max-Age=0; Domain={$psconfig['routes']['root']}; Path=/; Secure; SameSite=Lax");
 		}
 	}
 
