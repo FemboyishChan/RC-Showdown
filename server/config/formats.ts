@@ -5564,9 +5564,4 @@ for (let _i = 0; _i < _AllFormats.length; _i++) {
 		_passedFirstSection = true;
 	}
 }
-export const Formats = _AllFormats.map((_f, _i) => {
-	if (_i >= _rcBoundaryIdx && 'name' in _f) {
-		return { ..._f, searchShow: false, tournamentShow: false, challengeShow: false };
-	}
-	return _f;
-}) as typeof _AllFormats;
+export const Formats = _AllFormats;
