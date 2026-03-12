@@ -355,14 +355,14 @@ class RecommendationsInterface {
 			buf += Utils.html`<button class="button" name="send" value="/msgroom thestudio,/denysuggestion ${rec.userData.name}|${rec.artist}|${rec.title}">Deny</button>`;
 		} else {
 			buf += Utils.html`<button class="button" name="send" value="/msgroom thestudio,/likerec ${rec.artist}|${rec.title}" style="float:right;display:inline;padding:3px 5px;font-size:8pt;">`;
-			buf += `<img src="https://${Config.routes.client}/sprites/bwicons/441.png" style="margin:-9px 0 -6px -7px;" width="32" height="32" />`;
+			buf += `<img src="https://play.pokemonshowdown.com/sprites/bwicons/441.png" style="margin:-9px 0 -6px -7px;" width="32" height="32" />`;
 			buf += `<span style="position:relative;bottom:2.6px;">Upvote</span></button>`;
 		}
 		buf += `</td>`;
 		if (rec.userData.avatar) {
 			buf += `<td style="text-align:center;width:110px;background:rgba(255,255,255,0.4);border-radius:15px;">`;
 			const isCustom = rec.userData.avatar.startsWith('#');
-			buf += `<img style="margin-bottom:-38px;" src="https://${Config.routes.client}/sprites/trainers${isCustom ? '-custom' : ''}/${isCustom ? rec.userData.avatar.slice(1) : rec.userData.avatar}.png" width="80" height="80" />`;
+			buf += `<img style="margin-bottom:-38px;" src="https://play.pokemonshowdown.com/sprites/trainers${isCustom ? '-custom' : ''}/${isCustom ? rec.userData.avatar.slice(1) : rec.userData.avatar}.png" width="80" height="80" />`;
 			buf += `<br /><span style="background:rgba(0,0,0,0.5);padding:1.5px 4px;color:white;font-size:7pt;">Recommended by:`;
 			buf += `<br /><strong>${rec.userData.name}</strong></span></td>`;
 		} else {
