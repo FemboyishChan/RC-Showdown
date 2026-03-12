@@ -483,7 +483,19 @@ export class ServerStream extends Streams.ObjectReadWriteStream<string> {
 		const socketid = `${++this.socketCounter}`;
 		this.sockets.set(socketid, socket);
 
-		let socketip = socket.remoteAddress;
+		let socketip =
+			socket.headers['cf-connecting-ip'] ||
+			socket.headers['x-forwarded-for'] ||
+			socket.remoteAddress;
+
+		if (typeof socketip === 'string') {
+			socketip = socketip.split(',')[0].trim();
+		}
+
+		if (socketip.includes(':') && !socketip.includes('.')) {
+			socketip = '0.0.0.0';
+		}
+		
 		if (this.isTrustedProxyIp(socketip)) {
 			const ips = (socket.headers['x-forwarded-for'] || '').split(',').reverse();
 			for (const ip of ips) {

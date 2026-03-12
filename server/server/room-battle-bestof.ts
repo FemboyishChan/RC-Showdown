@@ -18,7 +18,7 @@ export class BestOfPlayer extends RoomGamePlayer<BestOfGame> {
 		let avatar = Users.get(this.id)?.avatar;
 		if (!avatar || typeof avatar === 'number') avatar = 'unknownf';
 		const url = Chat.plugins.avatars?.Avatars.src(avatar) ||
-			`https://${Config.routes.client}/sprites/trainers/${avatar}.png`;
+			`https://play.pokemonshowdown.com/sprites/trainers/${avatar}.png`;
 		return url;
 	}
 	updateReadyButton() {

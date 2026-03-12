@@ -77,6 +77,7 @@
 
 			this.$activityMenu = this.$('.activitymenu');
 			this.$pmBox = this.$activityMenu.find('.pmbox');
+			this.loadNews();
 
 			app.on('init:formats', this.updateFormats, this);
 			this.updateFormats();
@@ -139,14 +140,46 @@
 		},
 
 		// news
+		loadNews: function () {
+			var self = this;
+
+			$.ajax({
+				url: "https://" + Config.routes.client + "/news.json",
+				dataType: "json",
+				success: function (data) {
+					var html = '';
+
+					for (var i = 0; i < Math.min(2, data.length); i++) {
+						var post = data[i];
+						var hasRead = post.id && Dex.prefs('readnews') === '' + post.id;
+
+						html += '<div class="newsentry' + '">';
+						if (post.title) html += '<h4>' + post.title + '</h4>';
+						if (post.summaryHTML) html += post.summaryHTML;
+						html += '<p>';
+						if (post.author) html += '—<strong>' + post.author + '</strong>';
+						if (post.date) {
+							html += '<small class="date"> on ' + new Date(post.date * 1000).toDateString() + '</small>';
+						}
+						html += '</p></div>';
+					}
+
+					var $news = self.$('.news-embed');
+					$news.find('.pm-log').html(html);
+					$news.find('.pm-log').css('display', 'block');
+					$news.attr('data-newsid', data[0]?.id || '1990');
+				}
+			});
+		},
 
 		addNews: function () {
 			var self = this;
 			$.ajax({
-				url: '/news.json',
+				url: "https://" + Config.routes.client + "/news.json",
 				dataType: "json",
 				success: function (data) {
 					var html = '';
+					//console.log("NEWS DATA:", data);
 					for (var i = 0; i < Math.min(2, data.length); i++) {
 						var post = data[i];
 						var hasRead = data[i].id && Dex.prefs('readnews') === '' + data[i].id;
