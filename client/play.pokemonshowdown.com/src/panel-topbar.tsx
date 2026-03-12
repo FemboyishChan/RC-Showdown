@@ -225,7 +225,7 @@ export class PSHeader extends preact.Component {
 			<div class="scrollable-part">
 				<img
 					class="logo"
-					src={`https://${Config.routes.client}/favicon-256.png`}
+					src={`https://${Config.routes.client}/RC_favicon512.png`}
 					alt="Pokémon Showdown! (beta)"
 					width="50" height="50"
 				/>
@@ -266,7 +266,7 @@ export class PSHeader extends preact.Component {
 					<li>
 						<img
 							class="logo"
-							src={`https://${Config.routes.client}/favicon-256.png`}
+							src={`https://${Config.routes.client}/RC_favicon512.png`}
 							alt="Pokémon Showdown! (beta)"
 							width="48" height="48"
 						/>

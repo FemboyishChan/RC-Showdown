@@ -43,7 +43,7 @@ export const tours: Record<string, TourTable> = {
 	},
 	ps: {
 		title: "Pokémon Showdown!",
-		icon: ['https://play.pokemonshowdown.com/favicon-256.png', 196, 196],
+		icon: ['https://play.pbblegacy.com/RC_favicon512.png', 196, 196],
 		tours: [],
 		desc: "Tournaments run by the rooms of Pokemon Showdown.",
 	},
