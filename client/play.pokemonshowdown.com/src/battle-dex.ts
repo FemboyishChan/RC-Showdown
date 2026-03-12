@@ -231,7 +231,7 @@ export const Dex = new class implements ModdedDex {
 
 	// Always use play.pokemonshowdown.com for sprites and effects (they're not included locally)
 	resourcePrefix = 'https://play.pokemonshowdown.com/';
-	rootPrefix = 'https://play.pbblegacy.com';
+	rootPrefix = 'https://play.pbblegacy.com/';
 	fxPrefix = 'https://play.pokemonshowdown.com/fx/';
 
 	loadedSpriteData = { xy: 1, bw: 0 };
