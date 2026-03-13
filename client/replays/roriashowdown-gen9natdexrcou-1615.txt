@@ -1,0 +1,359 @@
+|j|☆dreaddevz
+|j|☆razberchan
+|t:|1772910031
+|gametype|singles
+|player|p1|dreaddevz|bellelba|
+|player|p2|razberchan|skierf|
+|gen|9
+|tier|[Gen 9] NatDex RC OU
+|rated|Tournament battle
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Clause: Evasion abilities, items, and moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Terastal Clause: You cannot Terastallize
+|raw|<div class="infobox"><details class="readmore" open><summary><strong>1 custom rule:</strong></summary> force select = glastrier</details></div>
+|clearpoke
+|poke|p1|Glastrier|
+|poke|p1|Cresselia, F|
+|poke|p1|Melmetal|
+|poke|p1|Hatterene, F|
+|poke|p1|Moltres|
+|poke|p1|Ampharos, F|
+|poke|p2|Glastrier|
+|poke|p2|Ninetales-Alola, F|
+|poke|p2|Gholdengo|
+|poke|p2|Rillaboom, M|
+|poke|p2|Archaludon, F|
+|poke|p2|Blaziken, F|
+|teampreview
+|j| drumstix
+|c|☆dreaddevz|ofc im fighting you bro
+|c|☆dreaddevz|im so cooked
+|c|☆razberchan|ofc bro
+|c|☆dreaddevz|glhf
+|c|☆razberchan|glhf
+|
+|t:|1772910059
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Melmetal|Melmetal, shiny|100/100
+|switch|p2a: Ninetales|Ninetales-Alola, F|100/100
+|-weather|Snowscape|[from] ability: Snow Warning|[of] p2a: Ninetales
+|turn|1
+|
+|t:|1772910065
+|move|p2a: Ninetales|Aurora Veil|p2a: Ninetales
+|-sidestart|p2: razberchan|move: Aurora Veil
+|move|p1a: Melmetal|Double Iron Bash|p2a: Ninetales
+|-supereffective|p2a: Ninetales
+|-damage|p2a: Ninetales|0 fnt
+|faint|p2a: Ninetales
+|-hitcount|p2: Ninetales|1
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|
+|t:|1772910069
+|switch|p2a: Blaziken|Blaziken, F|100/100
+|turn|2
+|l| drumstix
+|
+|t:|1772910077
+|switch|p2a: Archaludon|Archaludon, F|100/100
+|switch|p1a: Moltres|Moltres, shiny|100/100
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|3
+|
+|t:|1772910083
+|switch|p1a: Ampharos|Ampharos, F, shiny|100/100
+|move|p2a: Archaludon|Electro Shot||[still]
+|-prepare|p2a: Archaludon|Electro Shot
+|-boost|p2a: Archaludon|spa|1
+|-enditem|p2a: Archaludon|Power Herb
+|-anim|p2a: Archaludon|Electro Shot|p1a: Ampharos
+|-resisted|p1a: Ampharos
+|-damage|p1a: Ampharos|73/100
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|4
+|
+|t:|1772910097
+|detailschange|p1a: Ampharos|Ampharos-Mega, F, shiny
+|-mega|p1a: Ampharos|Ampharos|Ampharosite
+|move|p2a: Archaludon|Dragon Pulse|p1a: Ampharos
+|-supereffective|p1a: Ampharos
+|-damage|p1a: Ampharos|0 fnt
+|faint|p1a: Ampharos
+|detailschange|p1: Ampharos|Ampharos, F, shiny|[silent]
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|
+|t:|1772910105
+|switch|p1a: Cresselia|Cresselia, F, shiny|100/100
+|turn|5
+|
+|t:|1772910109
+|move|p2a: Archaludon|Flash Cannon|p1a: Cresselia
+|-damage|p1a: Cresselia|70/100
+|move|p1a: Cresselia|Trick Room|p1a: Cresselia
+|-fieldstart|move: Trick Room|[of] p1a: Cresselia
+|
+|-weather|none
+|upkeep
+|turn|6
+|
+|t:|1772910125
+|move|p1a: Cresselia|Moonlight|p1a: Cresselia
+|-heal|p1a: Cresselia|100/100
+|move|p2a: Archaludon|Stealth Rock|p1a: Cresselia
+|-sidestart|p1: dreaddevz|move: Stealth Rock
+|
+|upkeep
+|turn|7
+|
+|t:|1772910131
+|switch|p1a: Melmetal|Melmetal, shiny|100/100
+|-damage|p1a: Melmetal|94/100|[from] Stealth Rock
+|move|p2a: Archaludon|Dragon Pulse|p1a: Melmetal
+|-resisted|p1a: Melmetal
+|-damage|p1a: Melmetal|70/100
+|
+|upkeep
+|turn|8
+|
+|t:|1772910139
+|switch|p2a: Rillaboom|Rillaboom, M|100/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Rillaboom
+|-enditem|p2a: Rillaboom|Grassy Seed
+|-boost|p2a: Rillaboom|def|1|[from] item: Grassy Seed
+|move|p1a: Melmetal|Superpower|p2a: Rillaboom
+|-damage|p2a: Rillaboom|75/100
+|-unboost|p1a: Melmetal|atk|1
+|-unboost|p1a: Melmetal|def|1
+|
+|-heal|p1a: Melmetal|76/100|[from] Grassy Terrain
+|-heal|p2a: Rillaboom|81/100|[from] Grassy Terrain
+|-sideend|p2: razberchan|move: Aurora Veil
+|upkeep
+|turn|9
+|
+|t:|1772910154
+|switch|p1a: Glastrier|Glastrier|100/100
+|-damage|p1a: Glastrier|88/100|[from] Stealth Rock
+|move|p2a: Rillaboom|Drain Punch|p1a: Glastrier
+|-supereffective|p1a: Glastrier
+|-damage|p1a: Glastrier|55/100
+|-heal|p2a: Rillaboom|99/100|[from] drain|[of] p1a: Glastrier
+|
+|-heal|p1a: Glastrier|62/100|[from] Grassy Terrain
+|-heal|p1a: Glastrier|68/100|[from] item: Leftovers
+|-heal|p2a: Rillaboom|100/100|[from] Grassy Terrain
+|-fieldend|move: Trick Room
+|upkeep
+|turn|10
+|
+|t:|1772910166
+|move|p2a: Rillaboom|Wood Hammer|p1a: Glastrier
+|-supereffective|p1a: Glastrier
+|-damage|p1a: Glastrier|0 fnt
+|faint|p1a: Glastrier
+|-damage|p2a: Rillaboom|76/100|[from] Recoil
+|
+|-heal|p2a: Rillaboom|82/100|[from] Grassy Terrain
+|upkeep
+|c|☆dreaddevz|fahh
+|
+|t:|1772910174
+|switch|p1a: Moltres|Moltres, shiny|100/100
+|turn|11
+|c|☆razberchan|ofc we sacrifice the feature mon
+|
+|t:|1772910193
+|switch|p2a: Archaludon|Archaludon, F|100/100
+|move|p1a: Moltres|Mystical Fire|p2a: Archaludon
+|-damage|p2a: Archaludon|71/100
+|-unboost|p2a: Archaludon|spa|1
+|-ability|p2a: Archaludon|Stamina|boost
+|-boost|p2a: Archaludon|def|1
+|
+|-heal|p2a: Archaludon|77/100|[from] Grassy Terrain
+|upkeep
+|turn|12
+|c|☆dreaddevz|ok well ithought hed tank it better
+|
+|t:|1772910202
+|move|p2a: Archaludon|Dragon Pulse|p1a: Moltres
+|-damage|p1a: Moltres|81/100
+|move|p1a: Moltres|Mystical Fire|p2a: Archaludon
+|-damage|p2a: Archaludon|45/100
+|-unboost|p2a: Archaludon|spa|1
+|-ability|p2a: Archaludon|Stamina|boost
+|-boost|p2a: Archaludon|def|1
+|
+|-heal|p2a: Archaludon|51/100|[from] Grassy Terrain
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|13
+|
+|t:|1772910216
+|move|p2a: Archaludon|Dragon Pulse|p1a: Moltres
+|-damage|p1a: Moltres|66/100
+|move|p1a: Moltres|Mystical Fire|p2a: Archaludon
+|-damage|p2a: Archaludon|23/100
+|-unboost|p2a: Archaludon|spa|1
+|-ability|p2a: Archaludon|Stamina|boost
+|-boost|p2a: Archaludon|def|1
+|
+|upkeep
+|turn|14
+|c|☆razberchan|son
+|
+|t:|1772910225
+|move|p2a: Archaludon|Dragon Pulse|p1a: Moltres
+|-damage|p1a: Moltres|54/100
+|move|p1a: Moltres|Defog|p2a: Archaludon
+|-unboost|p2a: Archaludon|evasion|1
+|-sideend|p1: dreaddevz|Stealth Rock|[from] move: Defog|[of] p1a: Moltres
+|
+|upkeep
+|turn|15
+|
+|t:|1772910230
+|move|p2a: Archaludon|Stealth Rock|p1a: Moltres
+|-sidestart|p1: dreaddevz|move: Stealth Rock
+|move|p1a: Moltres|Mystical Fire|p2a: Archaludon
+|-damage|p2a: Archaludon|0 fnt
+|faint|p2a: Archaludon
+|
+|upkeep
+|
+|t:|1772910241
+|switch|p2a: Gholdengo|Gholdengo|100/100
+|-item|p2a: Gholdengo|Air Balloon
+|turn|16
+|
+|t:|1772910248
+|move|p2a: Gholdengo|Shadow Ball|p1a: Moltres
+|-damage|p1a: Moltres|25/100
+|-unboost|p1a: Moltres|spd|1
+|move|p1a: Moltres|Mystical Fire|p2a: Gholdengo
+|-supereffective|p2a: Gholdengo
+|-crit|p2a: Gholdengo
+|-damage|p2a: Gholdengo|0 fnt
+|-enditem|p2a: Gholdengo|Air Balloon
+|faint|p2a: Gholdengo
+|
+|upkeep
+|
+|t:|1772910255
+|switch|p2a: Glastrier|Glastrier|100/100
+|turn|17
+|c|☆dreaddevz|holy fucking snipe
+|c|☆razberchan|that should not ko gng
+|
+|t:|1772910270
+|move|p2a: Glastrier|Ice Shard|p1a: Moltres
+|-damage|p1a: Moltres|0 fnt
+|faint|p1a: Moltres
+|-ability|p2a: Glastrier|Chilling Neigh|boost
+|-boost|p2a: Glastrier|atk|1
+|
+|upkeep
+|
+|t:|1772910277
+|switch|p1a: Cresselia|Cresselia, F, shiny|100/100
+|-damage|p1a: Cresselia|88/100|[from] Stealth Rock
+|turn|18
+|
+|t:|1772910288
+|move|p1a: Cresselia|Moonblast|p2a: Glastrier
+|-damage|p2a: Glastrier|88/100
+|move|p2a: Glastrier|Ice Spinner|p1a: Cresselia
+|-damage|p1a: Cresselia|43/100
+|
+|upkeep
+|turn|19
+|j| GamingDzha
+|l| GamingDzha
+|
+|t:|1772910310
+|move|p1a: Cresselia|Lunar Dance|p1a: Cresselia
+|faint|p1a: Cresselia
+|move|p2a: Glastrier|Swords Dance|p2a: Glastrier
+|-boost|p2a: Glastrier|atk|2
+|
+|upkeep
+|
+|t:|1772910314
+|switch|p1a: Melmetal|Melmetal, shiny|76/100
+|-heal|p1a: Melmetal|100/100|[from] move: Lunar Dance
+|-damage|p1a: Melmetal|94/100|[from] Stealth Rock
+|turn|20
+|
+|t:|1772910319
+|move|p1a: Melmetal|Double Iron Bash|p2a: Glastrier
+|-supereffective|p2a: Glastrier
+|-damage|p2a: Glastrier|0 fnt
+|faint|p2a: Glastrier
+|-hitcount|p2: Glastrier|1
+|
+|upkeep
+|
+|t:|1772910322
+|switch|p2a: Blaziken|Blaziken, F|100/100
+|turn|21
+|
+|t:|1772910326
+|-zpower|p2a: Blaziken
+|move|p2a: Blaziken|Inferno Overdrive|p1a: Melmetal|[zeffect]
+|-supereffective|p1a: Melmetal
+|-damage|p1a: Melmetal|0 fnt
+|faint|p1a: Melmetal
+|
+|-ability|p2a: Blaziken|Speed Boost|boost
+|-boost|p2a: Blaziken|spe|1
+|upkeep
+|
+|t:|1772910335
+|switch|p1a: Hatterene|Hatterene, F, shiny|100/100
+|-damage|p1a: Hatterene|88/100|[from] Stealth Rock
+|turn|22
+|
+|t:|1772910341
+|move|p2a: Blaziken|Flare Blitz|p1a: Hatterene
+|-damage|p1a: Hatterene|24/100
+|-damage|p2a: Blaziken|78/100|[from] Recoil
+|move|p1a: Hatterene|Psychic Noise|p2a: Blaziken
+|-supereffective|p2a: Blaziken
+|-damage|p2a: Blaziken|0 fnt
+|faint|p2a: Blaziken
+|
+|upkeep
+|
+|t:|1772910344
+|switch|p2a: Rillaboom|Rillaboom, M|82/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Rillaboom
+|turn|23
+|c|☆razberchan|ggwp
+|
+|t:|1772910353
+|move|p2a: Rillaboom|Wood Hammer|p1a: Hatterene
+|-damage|p1a: Hatterene|0 fnt
+|faint|p1a: Hatterene
+|-damage|p2a: Rillaboom|75/100|[from] Recoil
+|
+|win|razberchan
+|n|☆dreaddevz|dreaddevz
+|n|☆razberchan|razberchan
+|c|☆dreaddevz|ggwp

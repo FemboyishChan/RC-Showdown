@@ -1,0 +1,214 @@
+|j|☆ceiiardoor
+|j|☆KK
+|t:|1773090586
+|gametype|singles
+|player|p1|ceiiardoor|olivia|1377
+|player|p2|KK|265|1053
+|gen|9
+|tier|[Gen 9] NatDex RC OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Clause: Evasion abilities, items, and moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Terastal Clause: You cannot Terastallize
+|clearpoke
+|poke|p1|Diancie|
+|poke|p1|Ceruledge, M|
+|poke|p1|Great Tusk|
+|poke|p1|Gholdengo|
+|poke|p1|Dragonite, F|
+|poke|p1|Kingambit, F|
+|poke|p2|Toxapex, M|
+|poke|p2|Eelektross, M|
+|poke|p2|Kingambit, M|
+|poke|p2|Volcarona, M|
+|poke|p2|Gholdengo|
+|poke|p2|Great Tusk|
+|teampreview
+|
+|t:|1773090594
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Diancie|Diancie|100/100
+|switch|p2a: Eelektross|Eelektross, M|100/100
+|turn|1
+|
+|t:|1773090598
+|detailschange|p2a: Eelektross|Eelektross-Mega, M
+|-mega|p2a: Eelektross|Eelektross|Eelektrossite
+|detailschange|p1a: Diancie|Diancie-Mega
+|-mega|p1a: Diancie|Diancie|Diancite
+|move|p1a: Diancie|Substitute|p1a: Diancie
+|-start|p1a: Diancie|Substitute
+|-damage|p1a: Diancie|76/100
+|move|p2a: Eelektross|Power-Up Punch|p1a: Diancie
+|-activate|p1a: Diancie|move: Substitute|[damage]
+|-boost|p2a: Eelektross|atk|1
+|
+|upkeep
+|turn|2
+|
+|t:|1773090606
+|move|p1a: Diancie|Moonblast|p2a: Eelektross
+|-damage|p2a: Eelektross|44/100
+|-unboost|p2a: Eelektross|spa|1
+|move|p2a: Eelektross|Liquidation|p1a: Diancie
+|-supereffective|p1a: Diancie
+|-end|p1a: Diancie|Substitute
+|
+|upkeep
+|turn|3
+|
+|t:|1773090614
+|move|p1a: Diancie|Moonblast|p2a: Eelektross
+|-damage|p2a: Eelektross|0 fnt
+|faint|p2a: Eelektross
+|detailschange|p2: Eelektross|Eelektross, M|[silent]
+|
+|upkeep
+|
+|t:|1773090622
+|switch|p2a: Gholdengo|Gholdengo|100/100
+|-item|p2a: Gholdengo|Air Balloon
+|turn|4
+|
+|t:|1773090638
+|switch|p2a: Great Tusk|Great Tusk|100/100
+|move|p1a: Diancie|Moonblast|p2a: Great Tusk
+|-supereffective|p2a: Great Tusk
+|-damage|p2a: Great Tusk|0 fnt
+|faint|p2a: Great Tusk
+|-end|p2a: Great Tusk|Protosynthesis|[silent]
+|
+|upkeep
+|
+|t:|1773090644
+|switch|p2a: Gholdengo|Gholdengo|100/100
+|-item|p2a: Gholdengo|Air Balloon
+|turn|5
+|
+|t:|1773090647
+|move|p1a: Diancie|Moonblast|p2a: Gholdengo
+|-resisted|p2a: Gholdengo
+|-damage|p2a: Gholdengo|74/100
+|-enditem|p2a: Gholdengo|Air Balloon
+|move|p2a: Gholdengo|Make It Rain|p1a: Diancie
+|-supereffective|p1a: Diancie
+|-damage|p1a: Diancie|0 fnt
+|-unboost|p2a: Gholdengo|spa|1
+|faint|p1a: Diancie
+|detailschange|p1: Diancie|Diancie|[silent]
+|
+|upkeep
+|
+|t:|1773090650
+|switch|p1a: Dragonite|Dragonite, F|100/100
+|turn|6
+|
+|t:|1773090653
+|switch|p2a: Toxapex|Toxapex, M|100/100
+|move|p1a: Dragonite|Dragon Dance|p1a: Dragonite
+|-boost|p1a: Dragonite|atk|1
+|-boost|p1a: Dragonite|spe|1
+|
+|upkeep
+|turn|7
+|
+|t:|1773090656
+|move|p1a: Dragonite|Substitute|p1a: Dragonite
+|-start|p1a: Dragonite|Substitute
+|-damage|p1a: Dragonite|76/100
+|move|p2a: Toxapex|Haze|p2a: Toxapex
+|-clearallboost
+|
+|upkeep
+|turn|8
+|
+|t:|1773090659
+|move|p1a: Dragonite|Scale Shot|p2a: Toxapex
+|-damage|p2a: Toxapex|90/100
+|-damage|p2a: Toxapex|79/100
+|-damage|p2a: Toxapex|69/100
+|-damage|p2a: Toxapex|59/100
+|-hitcount|p2a: Toxapex|4
+|-unboost|p1a: Dragonite|def|1
+|-boost|p1a: Dragonite|spe|1
+|move|p2a: Toxapex|Scald|p1a: Dragonite
+|-resisted|p1a: Dragonite
+|-crit|p1a: Dragonite
+|-activate|p1a: Dragonite|move: Substitute|[damage]
+|
+|upkeep
+|turn|9
+|
+|t:|1773090668
+|move|p1a: Dragonite|Scale Shot|p2a: Toxapex
+|-damage|p2a: Toxapex|48/100
+|-damage|p2a: Toxapex|38/100
+|-damage|p2a: Toxapex|27/100
+|-damage|p2a: Toxapex|16/100
+|-hitcount|p2a: Toxapex|4
+|-unboost|p1a: Dragonite|def|1
+|-boost|p1a: Dragonite|spe|1
+|move|p2a: Toxapex|Scald|p1a: Dragonite
+|-resisted|p1a: Dragonite
+|-activate|p1a: Dragonite|move: Substitute|[damage]
+|
+|upkeep
+|turn|10
+|
+|t:|1773090677
+|switch|p2a: Gholdengo|Gholdengo|74/100
+|move|p1a: Dragonite|Dragon Dance|p1a: Dragonite
+|-boost|p1a: Dragonite|atk|1
+|-boost|p1a: Dragonite|spe|1
+|
+|upkeep
+|turn|11
+|
+|t:|1773090682
+|move|p1a: Dragonite|Fire Punch|p2a: Gholdengo
+|-supereffective|p2a: Gholdengo
+|-damage|p2a: Gholdengo|0 fnt
+|faint|p2a: Gholdengo
+|
+|upkeep
+|
+|t:|1773090685
+|switch|p2a: Kingambit|Kingambit, M|100/100
+|-activate|p2a: Kingambit|ability: Supreme Overlord
+|-start|p2a: Kingambit|fallen3|[silent]
+|turn|12
+|
+|t:|1773090690
+|move|p2a: Kingambit|Sucker Punch|p1a: Dragonite
+|-end|p1a: Dragonite|Substitute
+|move|p1a: Dragonite|Fire Punch|p2a: Kingambit
+|-supereffective|p2a: Kingambit
+|-damage|p2a: Kingambit|33/100
+|
+|upkeep
+|turn|13
+|
+|t:|1773090695
+|move|p1a: Dragonite|Fire Punch|p2a: Kingambit
+|-supereffective|p2a: Kingambit
+|-damage|p2a: Kingambit|0 fnt
+|faint|p2a: Kingambit
+|-end|p2a: Kingambit|fallen3|[silent]
+|
+|upkeep
+|-message|KK forfeited.
+|
+|win|ceiiardoor
+|raw|ceiiardoor's rating: 1377 &rarr; <strong>1383</strong><br />(+6 for winning)
+|raw|KK's rating: 1053 &rarr; <strong>1051</strong><br />(-2 for losing)
+|l|☆KK
+|player|p2|

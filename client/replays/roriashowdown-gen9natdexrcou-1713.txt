@@ -1,0 +1,248 @@
+|j|☆StaticBilbo
+|j|☆amber_whr
+|t:|1772915919
+|gametype|singles
+|player|p1|StaticBilbo|101|1000
+|player|p2|amber_whr|caitlin|1000
+|gen|9
+|tier|[Gen 9] NatDex RC OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Clause: Evasion abilities, items, and moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Terastal Clause: You cannot Terastallize
+|clearpoke
+|poke|p1|Meganium, M|
+|poke|p1|Ninetales-Alola, M|
+|poke|p1|Galvantula, M|
+|poke|p1|Stunfisk-Galar, M|
+|poke|p1|Espeon, M|
+|poke|p1|Guzzlord|
+|poke|p2|Froslass, F|
+|poke|p2|Gliscor, F|
+|poke|p2|Kingambit, F|
+|poke|p2|Tyranitar, F|
+|poke|p2|Chandelure, F|
+|poke|p2|Iron Crown|
+|teampreview
+|
+|t:|1772915935
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Ninetales|Ninetales-Alola, M|100/100
+|switch|p2a: Froslass|Froslass, F, shiny|100/100
+|-weather|Snowscape|[from] ability: Snow Warning|[of] p1a: Ninetales
+|turn|1
+|
+|t:|1772915944
+|move|p2a: Froslass|Aurora Veil|p2a: Froslass
+|-sidestart|p2: amber_whr|move: Aurora Veil
+|move|p1a: Ninetales|Aurora Veil|p1a: Ninetales
+|-sidestart|p1: StaticBilbo|move: Aurora Veil
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|2
+|
+|t:|1772915949
+|detailschange|p2a: Froslass|Froslass-Mega, F, shiny
+|-mega|p2a: Froslass|Froslass|Froslassite
+|move|p2a: Froslass|Blizzard|p1a: Ninetales
+|-resisted|p1a: Ninetales
+|-damage|p1a: Ninetales|84/100
+|move|p1a: Ninetales|Nasty Plot|p1a: Ninetales
+|-boost|p1a: Ninetales|spa|2
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|3
+|
+|t:|1772915959
+|move|p2a: Froslass|Sucker Punch||[still]
+|-fail|p2a: Froslass
+|move|p1a: Ninetales|Nasty Plot|p1a: Ninetales
+|-boost|p1a: Ninetales|spa|2
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|4
+|
+|t:|1772915965
+|move|p2a: Froslass|Ice Beam|p1a: Ninetales
+|-resisted|p1a: Ninetales
+|-damage|p1a: Ninetales|70/100
+|move|p1a: Ninetales|Moonblast|p2a: Froslass
+|-damage|p2a: Froslass|25/100
+|-unboost|p2a: Froslass|spa|1
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|5
+|
+|t:|1772915972
+|move|p2a: Froslass|Sucker Punch|p1a: Ninetales
+|-resisted|p1a: Ninetales
+|-damage|p1a: Ninetales|67/100
+|move|p1a: Ninetales|Moonblast|p2a: Froslass
+|-damage|p2a: Froslass|0 fnt
+|faint|p2a: Froslass
+|detailschange|p2: Froslass|Froslass, F, shiny|[silent]
+|
+|-weather|none
+|-sideend|p1: StaticBilbo|move: Aurora Veil
+|-sideend|p2: amber_whr|move: Aurora Veil
+|upkeep
+|
+|t:|1772915981
+|switch|p2a: Gliscor|Gliscor, F|100/100
+|turn|6
+|
+|t:|1772915986
+|move|p1a: Ninetales|Blizzard|p2a: Gliscor|[miss]
+|-miss|p1a: Ninetales|p2a: Gliscor
+|move|p2a: Gliscor|Spikes|p1a: Ninetales
+|-sidestart|p1: StaticBilbo|Spikes
+|
+|-status|p2a: Gliscor|tox|[from] item: Toxic Orb
+|upkeep
+|turn|7
+|
+|t:|1772915992
+|move|p1a: Ninetales|Blizzard|p2a: Gliscor
+|-supereffective|p2a: Gliscor
+|-damage|p2a: Gliscor|0 fnt
+|faint|p2a: Gliscor
+|
+|upkeep
+|
+|t:|1772915997
+|switch|p2a: Tyranitar|Tyranitar, F, shiny|100/100
+|-ability|p2a: Tyranitar|Intimidate|boost
+|-unboost|p1a: Ninetales|atk|1
+|-item|p2a: Tyranitar|Air Balloon
+|turn|8
+|
+|t:|1772916003
+|move|p1a: Ninetales|Moonblast|p2a: Tyranitar
+|-supereffective|p2a: Tyranitar
+|-damage|p2a: Tyranitar|0 fnt
+|-enditem|p2a: Tyranitar|Air Balloon
+|faint|p2a: Tyranitar
+|
+|upkeep
+|
+|t:|1772916010
+|switch|p2a: Kingambit|Kingambit, F|100/100
+|-activate|p2a: Kingambit|ability: Supreme Overlord
+|-start|p2a: Kingambit|fallen3|[silent]
+|turn|9
+|
+|t:|1772916016
+|move|p1a: Ninetales|Moonblast|p2a: Kingambit
+|-damage|p2a: Kingambit|0 fnt
+|faint|p2a: Kingambit
+|-end|p2a: Kingambit|fallen3|[silent]
+|
+|upkeep
+|
+|t:|1772916023
+|switch|p2a: Chandelure|Chandelure, F|100/100
+|turn|10
+|
+|t:|1772916026
+|move|p1a: Ninetales|Moonblast|p2a: Chandelure
+|-resisted|p2a: Chandelure
+|-damage|p2a: Chandelure|6/100
+|move|p2a: Chandelure|Clear Smog|p1a: Ninetales
+|-supereffective|p1a: Ninetales
+|-damage|p1a: Ninetales|23/100
+|-clearboost|p1a: Ninetales
+|
+|-heal|p2a: Chandelure|12/100|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1772916036
+|move|p1a: Ninetales|Moonblast|p2a: Chandelure
+|-resisted|p2a: Chandelure
+|-damage|p2a: Chandelure|0 fnt
+|faint|p2a: Chandelure
+|
+|upkeep
+|
+|t:|1772916040
+|switch|p2a: Iron Crown|Iron Crown|100/100
+|-enditem|p2a: Iron Crown|Booster Energy
+|-activate|p2a: Iron Crown|ability: Quark Drive|[fromitem]
+|-start|p2a: Iron Crown|quarkdrivespa
+|turn|12
+|
+|t:|1772916061
+|switch|p1a: Stunfisk|Stunfisk-Galar, M|100/100
+|-damage|p1a: Stunfisk|88/100|[from] Spikes
+|move|p2a: Iron Crown|Psychic|p1a: Stunfisk
+|-resisted|p1a: Stunfisk
+|-damage|p1a: Stunfisk|72/100
+|
+|upkeep
+|turn|13
+|
+|t:|1772916074
+|move|p2a: Iron Crown|Calm Mind|p2a: Iron Crown
+|-boost|p2a: Iron Crown|spa|1
+|-boost|p2a: Iron Crown|spd|1
+|move|p1a: Stunfisk|Snap Trap|p2a: Iron Crown
+|-resisted|p2a: Iron Crown
+|-crit|p2a: Iron Crown
+|-damage|p2a: Iron Crown|83/100
+|-activate|p2a: Iron Crown|move: Snap Trap|[of] p1a: Stunfisk
+|
+|-damage|p2a: Iron Crown|66/100|[from] move: Snap Trap|[partiallytrapped]
+|upkeep
+|turn|14
+|
+|t:|1772916082
+|move|p2a: Iron Crown|Calm Mind|p2a: Iron Crown
+|-boost|p2a: Iron Crown|spa|1
+|-boost|p2a: Iron Crown|spd|1
+|move|p1a: Stunfisk|Recover|p1a: Stunfisk
+|-heal|p1a: Stunfisk|100/100
+|
+|-damage|p2a: Iron Crown|50/100|[from] move: Snap Trap|[partiallytrapped]
+|upkeep
+|turn|15
+|
+|t:|1772916090
+|move|p1a: Stunfisk|Protect|p1a: Stunfisk
+|-singleturn|p1a: Stunfisk|Protect
+|move|p2a: Iron Crown|Flash Cannon|p1a: Stunfisk
+|-activate|p1a: Stunfisk|move: Protect
+|
+|-damage|p2a: Iron Crown|33/100|[from] move: Snap Trap|[partiallytrapped]
+|upkeep
+|turn|16
+|
+|t:|1772916096
+|move|p2a: Iron Crown|Flash Cannon|p1a: Stunfisk
+|-resisted|p1a: Stunfisk
+|-damage|p1a: Stunfisk|68/100
+|move|p1a: Stunfisk|Recover|p1a: Stunfisk
+|-heal|p1a: Stunfisk|100/100
+|
+|-damage|p2a: Iron Crown|17/100|[from] move: Snap Trap|[partiallytrapped]
+|upkeep
+|turn|17
+|-message|amber_whr forfeited.
+|
+|win|StaticBilbo
+|raw|StaticBilbo's rating: 1000 &rarr; <strong>1045</strong><br />(+45 for winning)
+|raw|amber_whr's rating: 1000 &rarr; <strong>1000</strong><br />(+0 for losing)
+|l|☆amber_whr
+|player|p2|

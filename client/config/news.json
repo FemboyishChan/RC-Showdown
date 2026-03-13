@@ -1,0 +1,18 @@
+[
+  {
+    "id": "1",
+    "title": "Welcome to RC Showdown!",
+    "author": "Roria Team",
+    "date": 1741651200,
+    "summaryHTML": "<p>Welcome to <strong>RC Showdown</strong> — the home of custom RC formats! Battle in RC OU, RC UU, RC Ubers, RC Doubles, and VGC. Hourly auto-tournaments run in the Lobby with Avalugg Token prizes for winners. Good luck!</p>",
+    "detailsHTML": null
+  },
+  {
+    "id": "2",
+    "title": "Hourly Auto-Tournaments Now Live",
+    "author": "Roria Team",
+    "date": 1741651200,
+    "summaryHTML": "<p>Automatic round-robin tournaments run every hour in the Lobby, rotating through RC OU, RC UU, RC Ubers, and RC VGC formats. Winners earn <strong>Avalugg Tokens</strong>! Use <code>/avalugg</code> to check your balance and <code>/avalugg top</code> for the leaderboard.</p>",
+    "detailsHTML": null
+  }
+]

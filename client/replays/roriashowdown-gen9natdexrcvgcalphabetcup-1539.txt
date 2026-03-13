@@ -1,0 +1,197 @@
+|j|☆squib
+|j|☆Antboy12
+|t:|1772904483
+|gametype|doubles
+|player|p1|squib|169|
+|player|p2|Antboy12|2|
+|gen|9
+|tier|[Gen 9] NatDex RC VGC Alphabet Cup
+|rule|Species Clause: Limit one of each Pokémon
+|rule|Item Clause: Limit 1 of each item
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Terastal Clause: You cannot Terastallize
+|clearpoke
+|poke|p1|Metagross, L50|
+|poke|p1|Meowstic, L50, M|
+|poke|p1|Milotic, L50, M|
+|poke|p1|Marowak-Alola, L50, M|
+|poke|p1|Meowscarada, L50, F|
+|poke|p1|Mamoswine, L50, F|
+|poke|p2|Landorus, L50, M|
+|poke|p2|Latios, L50, M|
+|poke|p2|Ludicolo, L50, F|
+|poke|p2|Lilligant, L50, F|
+|poke|p2|Lycanroc-Dusk, L50, F|
+|poke|p2|Lucario, L50, M|
+|teampreview|4
+|showteam|p1|Metagross||Metagrossite|ClearBody|HeavySlam,PsychicFangs,Protect,ShiftGear||||||50|]Meowstic||PsychicSeed|PsychicSurge|FollowMe,ExpandingForce,TrickRoom,HelpingHand|||M|||50|]Milotic||Leftovers|Competitive|MuddyWater,Moonblast,Protect,Recover|||M|||50|]Marowak-Alola||ThickClub|LightningRod|FlareBlitz,ShadowBone,Protect,Bonemerang|||M|||50|]Meowscarada||ChoiceBand|Protean|FlowerTrick,KnockOff,Uturn,PlayRough|||F|||50|]Mamoswine||LoadedDice|Intimidate|HighHorsepower,IcicleSpear,Protect,RockBlast|||F|||50|
+|showteam|p2|Landorus||LifeOrb|SheerForce|EarthPower,SludgeBomb,Substitute,Protect|||M|||50|]Latios||SoulDew|Levitate|DracoMeteor,LusterPurge,AuraSphere,Protect|||M|||50|]Ludicolo||AssaultVest|Dancer|FakeOut,MuddyWater,GigaDrain,IceBeam|||F|||50|]Lilligant||FocusSash|Chlorophyll|GigaDrain,Moonblast,QuiverDance,SunnyDay|||F|||50|]Lycanroc-Dusk||SafetyGoggles|ToughClaws|Accelerock,RockSlide,CloseCombat,ThroatChop|||F|||50|]Lucario||LucarioniteZ|Steadfast|AuraSphere,FlashCannon,WaterPulse,Detect|||M|||50|
+|
+|t:|1772904543
+|teamsize|p1|4
+|teamsize|p2|4
+|start
+|switch|p1a: Skibidi Toilet|Metagross, L50|100/100
+|switch|p1b: Jakitty|Meowstic, L50, M|100/100
+|switch|p2a: Lucario|Lucario, L50, M|100/100
+|switch|p2b: Landorus|Landorus, L50, M|100/100
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p1b: Jakitty
+|-enditem|p1b: Jakitty|Psychic Seed
+|-boost|p1b: Jakitty|spd|1|[from] item: Psychic Seed
+|turn|1
+|
+|t:|1772904591
+|detailschange|p2a: Lucario|Lucario-Mega-Z, L50, M
+|-mega|p2a: Lucario|Lucario|Lucarionite Z
+|detailschange|p1a: Skibidi Toilet|Metagross-Mega, L50
+|-mega|p1a: Skibidi Toilet|Metagross|Metagrossite
+|move|p1b: Jakitty|Follow Me|p1b: Jakitty
+|-singleturn|p1b: Jakitty|move: Follow Me
+|move|p2a: Lucario|Flash Cannon|p1b: Jakitty
+|-damage|p1b: Jakitty|54/100
+|move|p1a: Skibidi Toilet|Psychic Fangs|p2a: Lucario
+|-damage|p2a: Lucario|0 fnt
+|faint|p2a: Lucario
+|detailschange|p2: Lucario|Lucario, L50, M|[silent]
+|move|p2b: Landorus|Earth Power|p1b: Jakitty
+|-damage|p1b: Jakitty|0 fnt
+|faint|p1b: Jakitty
+|
+|upkeep
+|
+|t:|1772904613
+|switch|p2a: Ludicolo|Ludicolo, L50, F|100/100
+|switch|p1b: Hinaticc|Milotic, L50, M|100/100
+|turn|2
+|
+|t:|1772904645
+|move|p1b: Hinaticc|Protect|p1b: Hinaticc
+|-singleturn|p1b: Hinaticc|Protect
+|move|p2a: Ludicolo|Fake Out|p1a: Skibidi Toilet
+|-activate|p1a: Skibidi Toilet|move: Psychic Terrain
+|move|p1a: Skibidi Toilet|Psychic Fangs|p2a: Ludicolo
+|-damage|p2a: Ludicolo|18/100
+|move|p2b: Landorus|Earth Power|p1a: Skibidi Toilet
+|-supereffective|p1a: Skibidi Toilet
+|-damage|p1a: Skibidi Toilet|0 fnt
+|faint|p1a: Skibidi Toilet
+|detailschange|p1: Skibidi Toilet|Metagross, L50|[silent]
+|
+|upkeep
+|
+|t:|1772904653
+|switch|p1a: Return of Lando|Mamoswine, L50, F|100/100
+|-ability|p1a: Return of Lando|Intimidate|boost
+|-unboost|p2a: Ludicolo|atk|1
+|-unboost|p2b: Landorus|atk|1
+|turn|3
+|
+|t:|1772904662
+|move|p2b: Landorus|Protect|p2b: Landorus
+|-singleturn|p2b: Landorus|Protect
+|move|p1a: Return of Lando|Protect|p1a: Return of Lando
+|-singleturn|p1a: Return of Lando|Protect
+|move|p1b: Hinaticc|Muddy Water|p2a: Ludicolo|[spread] p2a
+|-activate|p2b: Landorus|move: Protect
+|-resisted|p2a: Ludicolo
+|-damage|p2a: Ludicolo|14/100
+|move|p2a: Ludicolo|Giga Drain|p1b: Hinaticc
+|-supereffective|p1b: Hinaticc
+|-damage|p1b: Hinaticc|53/100
+|-heal|p2a: Ludicolo|39/100|[from] drain|[of] p1b: Hinaticc
+|
+|-heal|p1b: Hinaticc|59/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|c|☆squib|thats one bulky ludicolo
+|j| louxse
+|l| louxse
+|
+|t:|1772904682
+|move|p2b: Landorus|Earth Power|p1b: Hinaticc
+|-damage|p1b: Hinaticc|10/100
+|move|p1a: Return of Lando|Icicle Spear|p2b: Landorus
+|-supereffective|p2b: Landorus
+|-damage|p2b: Landorus|32/100
+|-supereffective|p2b: Landorus
+|-damage|p2b: Landorus|0 fnt
+|faint|p2b: Landorus
+|-hitcount|p2: Landorus|2
+|move|p1b: Hinaticc|Recover|p1b: Hinaticc
+|-heal|p1b: Hinaticc|60/100
+|move|p2a: Ludicolo|Giga Drain|p1a: Return of Lando
+|-supereffective|p1a: Return of Lando
+|-damage|p1a: Return of Lando|30/100
+|-heal|p2a: Ludicolo|75/100|[from] drain|[of] p1a: Return of Lando
+|
+|-heal|p1b: Hinaticc|66/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1772904697
+|switch|p2b: Lilligant|Lilligant, L50, F|100/100
+|turn|5
+|
+|t:|1772904746
+|move|p1a: Return of Lando|Protect|p1a: Return of Lando
+|-singleturn|p1a: Return of Lando|Protect
+|move|p2b: Lilligant|Quiver Dance|p2b: Lilligant
+|-boost|p2b: Lilligant|spa|1
+|-boost|p2b: Lilligant|spd|1
+|-boost|p2b: Lilligant|spe|1
+|-activate|p2a: Ludicolo|ability: Dancer
+|move|p2a: Ludicolo|Quiver Dance|p2a: Ludicolo|[from] ability: Dancer
+|-boost|p2a: Ludicolo|spa|1
+|-boost|p2a: Ludicolo|spd|1
+|-boost|p2a: Ludicolo|spe|1
+|move|p2a: Ludicolo|Giga Drain|p1a: Return of Lando
+|-activate|p1a: Return of Lando|move: Protect
+|move|p1b: Hinaticc|Moonblast|p2b: Lilligant
+|-damage|p2b: Lilligant|64/100
+|
+|-heal|p1b: Hinaticc|72/100|[from] item: Leftovers
+|-fieldend|move: Psychic Terrain
+|upkeep
+|turn|6
+|
+|t:|1772904764
+|move|p2b: Lilligant|Quiver Dance|p2b: Lilligant
+|-boost|p2b: Lilligant|spa|1
+|-boost|p2b: Lilligant|spd|1
+|-boost|p2b: Lilligant|spe|1
+|-activate|p2a: Ludicolo|ability: Dancer
+|move|p2a: Ludicolo|Quiver Dance|p2a: Ludicolo|[from] ability: Dancer
+|-boost|p2a: Ludicolo|spa|1
+|-boost|p2a: Ludicolo|spd|1
+|-boost|p2a: Ludicolo|spe|1
+|move|p2a: Ludicolo|Giga Drain|p1a: Return of Lando
+|-supereffective|p1a: Return of Lando
+|-damage|p1a: Return of Lando|0 fnt
+|-heal|p2a: Ludicolo|91/100|[from] drain|[of] p1a: Return of Lando
+|faint|p1a: Return of Lando
+|move|p1b: Hinaticc|Moonblast|p2a: Ludicolo
+|-damage|p2a: Ludicolo|77/100
+|-unboost|p2a: Ludicolo|spa|1
+|
+|-heal|p1b: Hinaticc|78/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1772904783
+|move|p2b: Lilligant|Quiver Dance|p2b: Lilligant
+|-boost|p2b: Lilligant|spa|1
+|-boost|p2b: Lilligant|spd|1
+|-boost|p2b: Lilligant|spe|1
+|-activate|p2a: Ludicolo|ability: Dancer
+|move|p2a: Ludicolo|Quiver Dance|p2a: Ludicolo|[from] ability: Dancer
+|-boost|p2a: Ludicolo|spa|1
+|-boost|p2a: Ludicolo|spd|1
+|-boost|p2a: Ludicolo|spe|1
+|move|p2a: Ludicolo|Giga Drain|p1b: Hinaticc
+|-supereffective|p1b: Hinaticc
+|-damage|p1b: Hinaticc|0 fnt
+|-heal|p2a: Ludicolo|100/100|[from] drain|[of] p1b: Hinaticc
+|faint|p1b: Hinaticc
+|
+|win|Antboy12
+|c|☆squib|gg

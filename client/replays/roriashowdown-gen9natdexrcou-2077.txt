@@ -1,0 +1,237 @@
+|j|☆birqzzelo
+|j|☆ceiiardoor
+|t:|1773094978
+|gametype|singles
+|player|p1|birqzzelo|169|1000
+|player|p2|ceiiardoor|olivia|1366
+|gen|9
+|tier|[Gen 9] NatDex RC OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Clause: Evasion abilities, items, and moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Terastal Clause: You cannot Terastallize
+|clearpoke
+|poke|p1|Cresselia, F|
+|poke|p1|Medicham, M|
+|poke|p1|Kyurem|
+|poke|p1|Ting-Lu|
+|poke|p1|Corviknight, F|
+|poke|p1|Pecharunt|
+|poke|p2|Ninetales-Alola, F|
+|poke|p2|Falinks|
+|poke|p2|Great Tusk|
+|poke|p2|Gholdengo|
+|poke|p2|Decidueye, F|
+|poke|p2|Kingambit, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by ceiiardoor)
+|c|☆birqzzelo|what is those 2 mons
+|c|☆birqzzelo|centitpie
+|c|☆birqzzelo|and bird
+|c|☆birqzzelo|why
+|
+|t:|1773094998
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Pecharunt|Pecharunt|100/100
+|switch|p2a: Ninetales|Ninetales-Alola, F|100/100
+|-weather|Snowscape|[from] ability: Snow Warning|[of] p2a: Ninetales
+|turn|1
+|c|☆ceiiardoor|Because 
+|
+|t:|1773095003
+|move|p2a: Ninetales|Aurora Veil|p2a: Ninetales
+|-sidestart|p2: ceiiardoor|move: Aurora Veil
+|move|p1a: Pecharunt|Malignant Chain|p2a: Ninetales
+|-supereffective|p2a: Ninetales
+|-damage|p2a: Ninetales|74/100
+|-status|p2a: Ninetales|tox
+|-start|p2a: Ninetales|confusion|[from] ability: Poison Puppeteer|[of] p1a: Pecharunt
+|
+|-weather|Snowscape|[upkeep]
+|-damage|p2a: Ninetales|67/100 tox|[from] psn
+|upkeep
+|turn|2
+|inactive|birqzzelo has 120 seconds left.
+|
+|t:|1773095047
+|-activate|p2a: Ninetales|confusion
+|-damage|p2a: Ninetales|62/100 tox|[from] confusion
+|move|p1a: Pecharunt|Parting Shot|p2a: Ninetales
+|-unboost|p2a: Ninetales|atk|1
+|-unboost|p2a: Ninetales|spa|1
+|
+|t:|1773095051
+|switch|p1a: Medicham|Medicham, M|100/100|[from] Parting Shot
+|
+|-weather|Snowscape|[upkeep]
+|-damage|p2a: Ninetales|50/100 tox|[from] psn
+|upkeep
+|turn|3
+|inactive|birqzzelo has 120 seconds left.
+|
+|t:|1773095069
+|switch|p2a: Decidueye|Decidueye, F|100/100
+|switch|p1a: Ting-Lu|Ting-Lu|100/100
+|-ability|p1a: Ting-Lu|Vessel of Ruin
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|4
+|inactive|birqzzelo has 120 seconds left.
+|c|☆birqzzelo|!dt decidueye
+|c|☆birqzzelo|/raw <div class="message"><ul class="utilichart"><li class="result"><span class="col numcol">NU</span> <span class="col iconcol"><psicon pokemon="decidueye"/></span> <span class="col pokemonnamecol" style="white-space:nowrap"><a href="https://roriashowdown.app/pokemon/decidueye" target="_blank">Decidueye</a></span> <span class="col typecol"><img src="https://roriashowdown.app/sprites/types/Grass.png" alt="Grass" height="14" width="32"><img src="https://roriashowdown.app/sprites/types/Ghost.png" alt="Ghost" height="14" width="32"></span> <span style="float:left;min-height:26px"><span class="col twoabilitycol">Overgrow<br />Tinted Lens</span><span class="col abilitycol"><em>Long Reach</em></span></span><span style="float:left;min-height:26px"><span class="col statcol"><em>HP</em><br />80</span> <span class="col statcol"><em>Atk</em><br />110</span> <span class="col statcol"><em>Def</em><br />75</span> <span class="col statcol"><em>SpA</em><br />100</span> <span class="col statcol"><em>SpD</em><br />70</span> <span class="col statcol"><em>Spe</em><br />100</span> <span class="col bstcol"><em>BST<br />535</em></span> </span></li><li style="clear:both"></li></ul></div>
+|c|☆birqzzelo|/raw <font size="1"><font color="#686868">Dex#:</font> 724&nbsp;|&ThickSpace;<font color="#686868">Gen:</font> 7&nbsp;|&ThickSpace;<font color="#686868">Height:</font> 1.6 m&nbsp;|&ThickSpace;<font color="#686868">Weight:</font> 36.6 kg <em>(60 BP)</em>&nbsp;|&ThickSpace;<font color="#686868">Dex Colour:</font> Brown&nbsp;|&ThickSpace;<font color="#686868">Egg Group(s):</font> Flying&nbsp;|&ThickSpace;<font color="#686868">Pre-Evolution:</font> Dartrix&nbsp;|&ThickSpace;<font color="#686868">Does Not Evolve</font></font>
+
+|
+|t:|1773095082
+|switch|p1a: Corviknight|Corviknight, F|100/100
+|-ability|p1a: Corviknight|Pressure
+|move|p2a: Decidueye|Swords Dance|p2a: Decidueye
+|-boost|p2a: Decidueye|atk|2
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|5
+|
+|t:|1773095086
+|-zpower|p2a: Decidueye
+|move|p2a: Decidueye|Never-Ending Nightmare|p1a: Corviknight|[zeffect]
+|-damage|p1a: Corviknight|2/100
+|move|p1a: Corviknight|Iron Defense|p1a: Corviknight
+|-boost|p1a: Corviknight|def|2
+|
+|-weather|none
+|upkeep
+|turn|6
+|inactive|birqzzelo has 120 seconds left.
+|c|☆birqzzelo|this is so fake bro
+|c|☆birqzzelo|corv cant switch into a grass type
+|c|☆ceiiardoor|😭
+|inactive|birqzzelo has 90 seconds left.
+|
+|t:|1773095144
+|move|p2a: Decidueye|Leaf Blade|p1a: Corviknight
+|-resisted|p1a: Corviknight
+|-damage|p1a: Corviknight|0 fnt
+|-damage|p2a: Decidueye|84/100|[from] item: Rocky Helmet|[of] p1a: Corviknight
+|faint|p1a: Corviknight
+|
+|upkeep
+|c|☆birqzzelo|are u adamant
+|c|☆ceiiardoor|No
+|
+|t:|1773095168
+|switch|p1a: Medicham|Medicham, M|100/100
+|turn|7
+|
+|t:|1773095173
+|detailschange|p1a: Medicham|Medicham-Mega, M
+|-mega|p1a: Medicham|Medicham|Medichamite
+|move|p1a: Medicham|Fire Punch|p2a: Decidueye
+|-supereffective|p2a: Decidueye
+|-damage|p2a: Decidueye|21/100
+|move|p2a: Decidueye|Leaf Blade|p1a: Medicham
+|-damage|p1a: Medicham|0 fnt
+|faint|p1a: Medicham
+|detailschange|p1: Medicham|Medicham, M|[silent]
+|
+|upkeep
+|
+|t:|1773095183
+|switch|p1a: Pecharunt|Pecharunt|100/100
+|turn|8
+|
+|t:|1773095188
+|move|p2a: Decidueye|Poltergeist|p1a: Pecharunt
+|-activate|p1a: Pecharunt|move: Poltergeist|Heavy-Duty Boots
+|-supereffective|p1a: Pecharunt
+|-damage|p1a: Pecharunt|0 fnt
+|faint|p1a: Pecharunt
+|
+|-sideend|p2: ceiiardoor|move: Aurora Veil
+|upkeep
+|c|☆ceiiardoor|😭
+|inactive|birqzzelo has 60 seconds left.
+|inactive|birqzzelo has 30 seconds left.
+|
+|t:|1773095248
+|switch|p1a: Kyurem|Kyurem|100/100
+|-ability|p1a: Kyurem|Pressure
+|turn|9
+|
+|t:|1773095268
+|move|p2a: Decidueye|Close Combat|p1a: Kyurem
+|-supereffective|p1a: Kyurem
+|-damage|p1a: Kyurem|0 fnt
+|-unboost|p2a: Decidueye|def|1
+|-unboost|p2a: Decidueye|spd|1
+|faint|p1a: Kyurem
+|
+|upkeep
+|inactive|birqzzelo has 30 seconds left.
+|c|☆ceiiardoor|Gg
+|inactive|birqzzelo has 20 seconds left.
+|inactive|birqzzelo has 15 seconds left.
+|inactive|birqzzelo has 10 seconds left.
+|inactive|birqzzelo has 5 seconds left.
+|
+|t:|1773095304
+|switch|p1a: Cresselia|Cresselia, F|100/100
+|turn|10
+|inactive|birqzzelo has 15 seconds left this turn.
+|
+|t:|1773095309
+|move|p2a: Decidueye|Poltergeist|p1a: Cresselia
+|-activate|p1a: Cresselia|move: Poltergeist|Leftovers
+|-supereffective|p1a: Cresselia
+|-damage|p1a: Cresselia|0 fnt
+|faint|p1a: Cresselia
+|
+|upkeep
+|inactive|birqzzelo has 20 seconds left this turn.
+|inactive|birqzzelo has 15 seconds left.
+|inactive|birqzzelo has 10 seconds left.
+|inactive|birqzzelo has 5 seconds left.
+|
+|t:|1773095326
+|switch|p1a: Ting-Lu|Ting-Lu|100/100
+|-ability|p1a: Ting-Lu|Vessel of Ruin
+|turn|11
+|inactive|birqzzelo has 15 seconds left this turn.
+|c|☆birqzzelo|gg
+|
+|t:|1773095336
+|move|p2a: Decidueye|Poltergeist|p1a: Ting-Lu
+|-activate|p1a: Ting-Lu|move: Poltergeist|Leftovers
+|-resisted|p1a: Ting-Lu
+|-damage|p1a: Ting-Lu|47/100
+|move|p1a: Ting-Lu|Earthquake|p2a: Decidueye
+|-resisted|p2a: Decidueye
+|-damage|p2a: Decidueye|0 fnt
+|faint|p2a: Decidueye
+|
+|-heal|p1a: Ting-Lu|53/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1773095340
+|switch|p2a: Falinks|Falinks|100/100
+|turn|12
+|inactive|birqzzelo has 30 seconds left this turn.
+|inactive|birqzzelo has 20 seconds left.
+|inactive|birqzzelo has 15 seconds left.
+|inactive|birqzzelo has 10 seconds left.
+|inactive|birqzzelo has 5 seconds left.
+|-message|birqzzelo lost due to inactivity.
+|
+|win|ceiiardoor
+|raw|birqzzelo's rating: 1000 &rarr; <strong>1000</strong><br />(+0 for losing)
+|raw|ceiiardoor's rating: 1366 &rarr; <strong>1370</strong><br />(+4 for winning)
