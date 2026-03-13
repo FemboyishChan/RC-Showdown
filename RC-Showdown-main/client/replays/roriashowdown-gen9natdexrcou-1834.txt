@@ -1,0 +1,309 @@
+|j|☆ImagineHD
+|j|☆movo
+|t:|1773075287
+|gametype|singles
+|player|p1|ImagineHD|101|1248
+|player|p2|movo|169|1047
+|gen|9
+|tier|[Gen 9] NatDex RC OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Clause: Evasion abilities, items, and moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Terastal Clause: You cannot Terastallize
+|clearpoke
+|poke|p1|Typhlosion, F|
+|poke|p1|Wigglytuff, M|
+|poke|p1|Flygon, M|
+|poke|p1|Torkoal, F|
+|poke|p1|Great Tusk|
+|poke|p1|Lilligant, F|
+|poke|p2|Charizard, M|
+|poke|p2|Great Tusk|
+|poke|p2|Hatterene, F|
+|poke|p2|Raging Bolt|
+|poke|p2|Alomomola, M|
+|poke|p2|Kingambit, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by ImagineHD)
+|inactive|movo has 120 seconds left.
+|
+|t:|1773075325
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Flygon|Flygon, M|100/100
+|switch|p2a: Hatterene|Hatterene, F|100/100
+|turn|1
+|
+|t:|1773075330
+|move|p1a: Flygon|U-turn|p2a: Hatterene
+|-damage|p2a: Hatterene|84/100
+|-enditem|p2a: Hatterene|Eject Button
+|
+|t:|1773075345
+|switch|p2a: Great Tusk|Great Tusk|100/100
+|
+|upkeep
+|turn|2
+|
+|t:|1773075350
+|move|p1a: Flygon|U-turn|p2a: Great Tusk
+|-resisted|p2a: Great Tusk
+|-damage|p2a: Great Tusk|89/100
+|
+|t:|1773075352
+|switch|p1a: Torkoal|Torkoal, F|100/100|[from] U-turn
+|-weather|SunnyDay|[from] ability: Drought|[of] p1a: Torkoal
+|-activate|p2a: Great Tusk|ability: Protosynthesis
+|-start|p2a: Great Tusk|protosynthesisspe
+|move|p2a: Great Tusk|Stealth Rock|p1a: Torkoal
+|-sidestart|p1: ImagineHD|move: Stealth Rock
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|3
+|
+|t:|1773075377
+|-end|p2a: Great Tusk|Protosynthesis|[silent]
+|switch|p2a: Raging Bolt|Raging Bolt|100/100
+|-activate|p2a: Raging Bolt|ability: Protosynthesis
+|-start|p2a: Raging Bolt|protosynthesisspa
+|switch|p1a: Lilligant|Lilligant, F|100/100
+|-damage|p1a: Lilligant|88/100|[from] Stealth Rock
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|4
+|
+|t:|1773075386
+|move|p1a: Lilligant|Moonblast|p2a: Raging Bolt
+|-supereffective|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|0 fnt
+|faint|p2a: Raging Bolt
+|-end|p2a: Raging Bolt|Protosynthesis|[silent]
+|-damage|p1a: Lilligant|78/100|[from] item: Life Orb
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1773075394
+|switch|p2a: Hatterene|Hatterene, F|84/100
+|turn|5
+|
+|t:|1773075400
+|switch|p1a: Wigglytuff|Wigglytuff, M|100/100
+|-damage|p1a: Wigglytuff|88/100|[from] Stealth Rock
+|move|p2a: Hatterene|Nuzzle|p1a: Wigglytuff
+|-damage|p1a: Wigglytuff|86/100
+|-status|p1a: Wigglytuff|par
+|-enditem|p1a: Wigglytuff|Eject Button
+|
+|t:|1773075405
+|switch|p1a: Typhlosion|Typhlosion, F|100/100
+|-damage|p1a: Typhlosion|76/100|[from] Stealth Rock
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|6
+|
+|t:|1773075412
+|switch|p2a: Alomomola|Alomomola, M|100/100
+|move|p1a: Typhlosion|Eruption|p2a: Alomomola
+|-resisted|p2a: Alomomola
+|-damage|p2a: Alomomola|71/100
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|7
+|
+|t:|1773075428
+|switch|p1a: Wigglytuff|Wigglytuff, M|86/100 par
+|-damage|p1a: Wigglytuff|73/100 par|[from] Stealth Rock
+|move|p2a: Alomomola|Flip Turn|p1a: Wigglytuff
+|-damage|p1a: Wigglytuff|69/100 par
+|
+|t:|1773075440
+|switch|p2a: Kingambit|Kingambit, M|100/100|[from] Flip Turn
+|-activate|p2a: Kingambit|ability: Supreme Overlord
+|-start|p2a: Kingambit|fallen1|[silent]
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|8
+|j| eleckkk
+|
+|t:|1773075464
+|move|p2a: Kingambit|Iron Head|p1a: Wigglytuff
+|-supereffective|p1a: Wigglytuff
+|-damage|p1a: Wigglytuff|7/100 par
+|move|p1a: Wigglytuff|Encore|p2a: Kingambit
+|-start|p2a: Kingambit|Encore
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|9
+|
+|t:|1773075471
+|move|p2a: Kingambit|Iron Head|p1a: Wigglytuff
+|-supereffective|p1a: Wigglytuff
+|-damage|p1a: Wigglytuff|0 fnt
+|faint|p1a: Wigglytuff
+|
+|-weather|none
+|upkeep
+|
+|t:|1773075479
+|switch|p1a: Torkoal|Torkoal, F|100/100
+|-damage|p1a: Torkoal|76/100|[from] Stealth Rock
+|-weather|SunnyDay|[from] ability: Drought|[of] p1a: Torkoal
+|turn|10
+|
+|t:|1773075490
+|-end|p2a: Kingambit|fallen1|[silent]
+|switch|p2a: Hatterene|Hatterene, F|84/100
+|move|p1a: Torkoal|Rapid Spin|p2a: Hatterene
+|-damage|p2a: Hatterene|76/100
+|-boost|p1a: Torkoal|spe|1
+|-sideend|p1: ImagineHD|Stealth Rock|[from] move: Rapid Spin|[of] p1a: Torkoal
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|11
+|
+|t:|1773075497
+|switch|p1a: Great Tusk|Great Tusk|100/100
+|-activate|p1a: Great Tusk|ability: Protosynthesis
+|-start|p1a: Great Tusk|protosynthesisatk
+|move|p2a: Hatterene|Psychic Noise|p1a: Great Tusk
+|-supereffective|p1a: Great Tusk
+|-damage|p1a: Great Tusk|0 fnt
+|faint|p1a: Great Tusk
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1773075506
+|switch|p1a: Lilligant|Lilligant, F|78/100
+|turn|12
+|
+|t:|1773075516
+|move|p1a: Lilligant|Moonblast|p2a: Hatterene
+|-damage|p2a: Hatterene|6/100
+|-unboost|p2a: Hatterene|spa|1
+|-damage|p1a: Lilligant|68/100|[from] item: Life Orb
+|move|p2a: Hatterene|Nuzzle|p1a: Lilligant
+|-resisted|p1a: Lilligant
+|-damage|p1a: Lilligant|65/100
+|-status|p1a: Lilligant|par
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|13
+|
+|t:|1773075534
+|move|p1a: Lilligant|Giga Drain|p2a: Hatterene
+|-damage|p2a: Hatterene|0 fnt
+|-heal|p1a: Lilligant|69/100 par|[from] drain|[of] p2a: Hatterene
+|faint|p2a: Hatterene
+|-damage|p1a: Lilligant|59/100 par|[from] item: Life Orb
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1773075541
+|switch|p2a: Charizard|Charizard, M|100/100
+|turn|14
+|inactive|ImagineHD has 120 seconds left.
+|
+|t:|1773075574
+|switch|p1a: Torkoal|Torkoal, F|76/100
+|detailschange|p2a: Charizard|Charizard-Mega-Y, M
+|-mega|p2a: Charizard|Charizard|Charizardite Y
+|move|p2a: Charizard|Weather Ball|p1a: Torkoal
+|-resisted|p1a: Torkoal
+|-damage|p1a: Torkoal|15/100
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|15
+|
+|t:|1773075587
+|move|p2a: Charizard|Weather Ball|p1a: Torkoal
+|-resisted|p1a: Torkoal
+|-damage|p1a: Torkoal|0 fnt
+|faint|p1a: Torkoal
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1773075590
+|switch|p1a: Flygon|Flygon, M|100/100
+|turn|16
+|
+|t:|1773075609
+|switch|p2a: Great Tusk|Great Tusk|89/100
+|-activate|p2a: Great Tusk|ability: Protosynthesis
+|-start|p2a: Great Tusk|protosynthesisspe
+|move|p1a: Flygon|U-turn|p2a: Great Tusk
+|-resisted|p2a: Great Tusk
+|-damage|p2a: Great Tusk|77/100
+|
+|t:|1773075614
+|switch|p1a: Lilligant|Lilligant, F|59/100 par|[from] U-turn
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|17
+|
+|t:|1773075629
+|-end|p2a: Great Tusk|Protosynthesis|[silent]
+|switch|p2a: Kingambit|Kingambit, M|100/100
+|-activate|p2a: Kingambit|ability: Supreme Overlord
+|-start|p2a: Kingambit|fallen2|[silent]
+|move|p1a: Lilligant|Giga Drain|p2a: Kingambit
+|-resisted|p2a: Kingambit
+|-damage|p2a: Kingambit|74/100
+|-heal|p1a: Lilligant|77/100 par|[from] drain|[of] p2a: Kingambit
+|-damage|p1a: Lilligant|68/100 par|[from] item: Life Orb
+|
+|-weather|none
+|upkeep
+|turn|18
+|
+|t:|1773075656
+|move|p1a: Lilligant|Moonblast|p2a: Kingambit
+|-damage|p2a: Kingambit|15/100
+|-damage|p1a: Lilligant|58/100 par|[from] item: Life Orb
+|move|p2a: Kingambit|Iron Head|p1a: Lilligant
+|-supereffective|p1a: Lilligant
+|-damage|p1a: Lilligant|0 fnt
+|faint|p1a: Lilligant
+|
+|upkeep
+|
+|t:|1773075660
+|switch|p1a: Typhlosion|Typhlosion, F|76/100
+|turn|19
+|
+|t:|1773075669
+|move|p2a: Kingambit|Sucker Punch|p1a: Typhlosion
+|-damage|p1a: Typhlosion|0 fnt
+|faint|p1a: Typhlosion
+|
+|upkeep
+|-message|ImagineHD forfeited.
+|
+|win|movo
+|raw|ImagineHD's rating: 1248 &rarr; <strong>1224</strong><br />(-24 for losing)
+|raw|movo's rating: 1047 &rarr; <strong>1108</strong><br />(+61 for winning)
+|l|☆ImagineHD
+|player|p1|
+|l| eleckkk

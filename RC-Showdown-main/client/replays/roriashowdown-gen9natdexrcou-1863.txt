@@ -1,0 +1,542 @@
+|j|☆Saddermanner
+|j|☆birqzz
+|t:|1773078282
+|gametype|singles
+|player|p1|Saddermanner|ghetsis-gen5bw|1161
+|player|p2|birqzz|1|1090
+|gen|9
+|tier|[Gen 9] NatDex RC OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Clause: Evasion abilities, items, and moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Terastal Clause: You cannot Terastallize
+|clearpoke
+|poke|p1|Glastrier|
+|poke|p1|Ninetales-Alola, M|
+|poke|p1|Gholdengo|
+|poke|p1|Rillaboom, F|
+|poke|p1|Blaziken, F|
+|poke|p1|Gyarados, M|
+|poke|p2|Lopunny, M|
+|poke|p2|Melmetal|
+|poke|p2|Landorus-Therian, M|
+|poke|p2|Toxapex, M|
+|poke|p2|Tapu Lele|
+|poke|p2|Ferrothorn, M|
+|teampreview
+|c|☆Saddermanner|OH CMON
+|c|☆Saddermanner|why do I have to face just council
+|
+|t:|1773078309
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Ninetales|Ninetales-Alola, M|100/100
+|switch|p2a: Melmetal|Melmetal|100/100
+|-weather|Snowscape|[from] ability: Snow Warning|[of] p1a: Ninetales
+|turn|1
+|
+|t:|1773078323
+|switch|p1a: Gholdengo|Gholdengo|100/100
+|-item|p1a: Gholdengo|Air Balloon
+|move|p2a: Melmetal|Double Iron Bash|p1a: Gholdengo
+|-resisted|p1a: Gholdengo
+|-damage|p1a: Gholdengo|74/100
+|-enditem|p1a: Gholdengo|Air Balloon
+|-resisted|p1a: Gholdengo
+|-damage|p1a: Gholdengo|48/100
+|-hitcount|p1a: Gholdengo|2
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|2
+|
+|t:|1773078333
+|move|p1a: Gholdengo|Focus Blast|p2a: Melmetal
+|-supereffective|p2a: Melmetal
+|-damage|p2a: Melmetal|24/100
+|move|p2a: Melmetal|Earthquake|p1a: Gholdengo
+|-supereffective|p1a: Gholdengo
+|-crit|p1a: Gholdengo
+|-damage|p1a: Gholdengo|0 fnt
+|faint|p1a: Gholdengo
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p2a: Melmetal|30/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1773078342
+|switch|p1a: Blaziken|Blaziken, F|100/100
+|turn|3
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Saddermanner)
+|inactive|birqzz has 120 seconds left.
+|c|☆Saddermanner|U there birqzz?
+|
+|t:|1773078417
+|switch|p2a: Toxapex|Toxapex, M|100/100
+|move|p1a: Blaziken|Protect||[still]
+|-fail|p1a: Blaziken
+|
+|-weather|Snowscape|[upkeep]
+|-ability|p1a: Blaziken|Speed Boost|boost
+|-boost|p1a: Blaziken|spe|1
+|upkeep
+|turn|4
+|
+|t:|1773078430
+|move|p1a: Blaziken|Protect|p1a: Blaziken
+|-singleturn|p1a: Blaziken|Protect
+|move|p2a: Toxapex|Haze|p2a: Toxapex
+|-clearallboost
+|
+|-weather|Snowscape|[upkeep]
+|-ability|p1a: Blaziken|Speed Boost|boost
+|-boost|p1a: Blaziken|spe|1
+|upkeep
+|turn|5
+|
+|t:|1773078438
+|switch|p2a: Landorus|Landorus-Therian, M|100/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Blaziken|atk|1
+|move|p1a: Blaziken|Earthquake|p2a: Landorus
+|-immune|p2a: Landorus
+|
+|-weather|none
+|-ability|p1a: Blaziken|Speed Boost|boost
+|-boost|p1a: Blaziken|spe|1
+|upkeep
+|turn|6
+|
+|t:|1773078446
+|switch|p1a: Gyarados|Gyarados, M|100/100
+|-ability|p1a: Gyarados|Intimidate|boost
+|-unboost|p2a: Landorus|atk|1
+|move|p2a: Landorus|Earthquake|p1a: Gyarados
+|-immune|p1a: Gyarados
+|
+|upkeep
+|turn|7
+|
+|t:|1773078452
+|switch|p2a: Ferrothorn|Ferrothorn, M|100/100
+|move|p1a: Gyarados|Dragon Dance|p1a: Gyarados
+|-boost|p1a: Gyarados|atk|1
+|-boost|p1a: Gyarados|spe|1
+|
+|upkeep
+|turn|8
+|
+|t:|1773078458
+|move|p1a: Gyarados|Dragon Dance|p1a: Gyarados
+|-boost|p1a: Gyarados|atk|1
+|-boost|p1a: Gyarados|spe|1
+|move|p2a: Ferrothorn|Leech Seed|p1a: Gyarados
+|-start|p1a: Gyarados|move: Leech Seed
+|
+|-damage|p1a: Gyarados|88/100|[from] Leech Seed|[of] p2a: Ferrothorn
+|upkeep
+|turn|9
+|
+|t:|1773078463
+|move|p1a: Gyarados|Dragon Dance|p1a: Gyarados
+|-boost|p1a: Gyarados|atk|1
+|-boost|p1a: Gyarados|spe|1
+|move|p2a: Ferrothorn|Stealth Rock|p1a: Gyarados
+|-sidestart|p1: Saddermanner|move: Stealth Rock
+|
+|-damage|p1a: Gyarados|76/100|[from] Leech Seed|[of] p2a: Ferrothorn
+|upkeep
+|turn|10
+|
+|t:|1773078472
+|detailschange|p1a: Gyarados|Gyarados-Mega, M
+|-mega|p1a: Gyarados|Gyarados|Gyaradosite
+|-ability|p1a: Gyarados|Mold Breaker
+|move|p1a: Gyarados|Crunch|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|21/100
+|-damage|p1a: Gyarados|63/100|[from] ability: Iron Barbs|[of] p2a: Ferrothorn
+|-damage|p1a: Gyarados|47/100|[from] item: Rocky Helmet|[of] p2a: Ferrothorn
+|move|p2a: Ferrothorn|Power Whip|p1a: Gyarados
+|-supereffective|p1a: Gyarados
+|-damage|p1a: Gyarados|0 fnt
+|faint|p1a: Gyarados
+|detailschange|p1: Gyarados|Gyarados, M|[silent]
+|
+|upkeep
+|
+|t:|1773078483
+|switch|p1a: Blaziken|Blaziken, F|100/100
+|-damage|p1a: Blaziken|88/100|[from] Stealth Rock
+|turn|11
+|
+|t:|1773078491
+|switch|p2a: Toxapex|Toxapex, M|100/100
+|move|p1a: Blaziken|Swords Dance|p1a: Blaziken
+|-boost|p1a: Blaziken|atk|2
+|
+|-ability|p1a: Blaziken|Speed Boost|boost
+|-boost|p1a: Blaziken|spe|1
+|upkeep
+|turn|12
+|
+|t:|1773078502
+|switch|p2a: Landorus|Landorus-Therian, M|100/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Blaziken|atk|1
+|move|p1a: Blaziken|Earthquake|p2a: Landorus
+|-immune|p2a: Landorus
+|
+|-ability|p1a: Blaziken|Speed Boost|boost
+|-boost|p1a: Blaziken|spe|1
+|upkeep
+|turn|13
+|
+|t:|1773078510
+|switch|p2a: Toxapex|Toxapex, M|100/100
+|-zpower|p1a: Blaziken
+|move|p1a: Blaziken|Inferno Overdrive|p2a: Toxapex|[zeffect]
+|-resisted|p2a: Toxapex
+|-damage|p2a: Toxapex|48/100
+|
+|-ability|p1a: Blaziken|Speed Boost|boost
+|-boost|p1a: Blaziken|spe|1
+|upkeep
+|turn|14
+|
+|t:|1773078521
+|switch|p2a: Landorus|Landorus-Therian, M|100/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Blaziken|atk|1
+|move|p1a: Blaziken|Earthquake|p2a: Landorus
+|-immune|p2a: Landorus
+|
+|-ability|p1a: Blaziken|Speed Boost|boost
+|-boost|p1a: Blaziken|spe|1
+|upkeep
+|turn|15
+|
+|t:|1773078534
+|move|p1a: Blaziken|Protect|p1a: Blaziken
+|-singleturn|p1a: Blaziken|Protect
+|move|p2a: Landorus|Earthquake|p1a: Blaziken
+|-activate|p1a: Blaziken|move: Protect
+|
+|-ability|p1a: Blaziken|Speed Boost|boost
+|-boost|p1a: Blaziken|spe|1
+|upkeep
+|turn|16
+|
+|t:|1773078553
+|switch|p1a: Rillaboom|Rillaboom, F|100/100
+|-damage|p1a: Rillaboom|88/100|[from] Stealth Rock
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Rillaboom
+|-enditem|p1a: Rillaboom|Grassy Seed
+|-boost|p1a: Rillaboom|def|1|[from] item: Grassy Seed
+|move|p2a: Landorus|Earthquake|p1a: Rillaboom
+|-resisted|p1a: Rillaboom
+|-damage|p1a: Rillaboom|78/100
+|
+|-heal|p1a: Rillaboom|84/100|[from] Grassy Terrain
+|upkeep
+|turn|17
+|
+|t:|1773078566
+|switch|p2a: Ferrothorn|Ferrothorn, M|21/100
+|move|p1a: Rillaboom|Swords Dance|p1a: Rillaboom
+|-boost|p1a: Rillaboom|atk|2
+|
+|-heal|p1a: Rillaboom|90/100|[from] Grassy Terrain
+|-heal|p2a: Ferrothorn|27/100|[from] Grassy Terrain
+|upkeep
+|turn|18
+|
+|t:|1773078577
+|move|p1a: Rillaboom|Drain Punch|p2a: Ferrothorn
+|-supereffective|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|0 fnt
+|-heal|p1a: Rillaboom|100/100|[from] drain|[of] p2a: Ferrothorn
+|-damage|p1a: Rillaboom|88/100|[from] ability: Iron Barbs|[of] p2a: Ferrothorn
+|-damage|p1a: Rillaboom|72/100|[from] item: Rocky Helmet|[of] p2a: Ferrothorn
+|faint|p2a: Ferrothorn
+|
+|-heal|p1a: Rillaboom|78/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1773078579
+|switch|p2a: Tapu Lele|Tapu Lele|100/100
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p2a: Tapu Lele
+|turn|19
+|
+|t:|1773078600
+|switch|p1a: Ninetales|Ninetales-Alola, M|100/100
+|-damage|p1a: Ninetales|76/100|[from] Stealth Rock
+|-weather|Snowscape|[from] ability: Snow Warning|[of] p1a: Ninetales
+|move|p2a: Tapu Lele|Psychic|p1a: Ninetales
+|-damage|p1a: Ninetales|0 fnt
+|faint|p1a: Ninetales
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|
+|t:|1773078613
+|switch|p1a: Rillaboom|Rillaboom, F|78/100
+|-damage|p1a: Rillaboom|66/100|[from] Stealth Rock
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Rillaboom
+|turn|20
+|
+|t:|1773078620
+|move|p2a: Tapu Lele|Psychic|p1a: Rillaboom
+|-damage|p1a: Rillaboom|0 fnt
+|faint|p1a: Rillaboom
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|
+|t:|1773078624
+|switch|p1a: Blaziken|Blaziken, F|88/100
+|-damage|p1a: Blaziken|76/100|[from] Stealth Rock
+|turn|21
+|
+|t:|1773078626
+|move|p1a: Blaziken|Protect|p1a: Blaziken
+|-singleturn|p1a: Blaziken|Protect
+|move|p2a: Tapu Lele|Psychic|p1a: Blaziken
+|-activate|p1a: Blaziken|move: Protect
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p1a: Blaziken|82/100|[from] Grassy Terrain
+|-ability|p1a: Blaziken|Speed Boost|boost
+|-boost|p1a: Blaziken|spe|1
+|upkeep
+|turn|22
+|
+|t:|1773078635
+|move|p1a: Blaziken|Flare Blitz|p2a: Tapu Lele
+|-damage|p2a: Tapu Lele|0 fnt
+|faint|p2a: Tapu Lele
+|-damage|p1a: Blaziken|51/100|[from] Recoil
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p1a: Blaziken|57/100|[from] Grassy Terrain
+|-ability|p1a: Blaziken|Speed Boost|boost
+|-boost|p1a: Blaziken|spe|1
+|upkeep
+|
+|t:|1773078638
+|switch|p2a: Landorus|Landorus-Therian, M|100/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Blaziken|atk|1
+|turn|23
+|
+|t:|1773078656
+|switch|p1a: Glastrier|Glastrier|100/100
+|move|p2a: Landorus|Earthquake|p1a: Glastrier
+|-damage|p1a: Glastrier|87/100
+|
+|-weather|none
+|-heal|p1a: Glastrier|93/100|[from] Grassy Terrain
+|upkeep
+|turn|24
+|
+|t:|1773078679
+|switch|p2a: Melmetal|Melmetal|30/100
+|move|p1a: Glastrier|High Horsepower|p2a: Melmetal
+|-supereffective|p2a: Melmetal
+|-damage|p2a: Melmetal|0 fnt
+|faint|p2a: Melmetal
+|-ability|p1a: Glastrier|Chilling Neigh|boost
+|-boost|p1a: Glastrier|atk|1
+|
+|-heal|p1a: Glastrier|99/100|[from] Grassy Terrain
+|-fieldend|move: Grassy Terrain
+|upkeep
+|
+|t:|1773078689
+|switch|p2a: Lopunny|Lopunny, M|100/100
+|turn|25
+|
+|t:|1773078700
+|detailschange|p2a: Lopunny|Lopunny-Mega, M
+|-mega|p2a: Lopunny|Lopunny|Lopunnite
+|move|p2a: Lopunny|Fake Out|p1a: Glastrier
+|-damage|p1a: Glastrier|84/100
+|cant|p1a: Glastrier|flinch
+|
+|upkeep
+|turn|26
+|inactive|birqzz has 120 seconds left.
+|
+|t:|1773078730
+|move|p1a: Glastrier|Ice Shard|p2a: Lopunny
+|-damage|p2a: Lopunny|45/100
+|move|p2a: Lopunny|U-turn|p1a: Glastrier
+|-damage|p1a: Glastrier|66/100
+|
+|t:|1773078735
+|switch|p2a: Toxapex|Toxapex, M|82/100|[from] U-turn
+|
+|upkeep
+|turn|27
+|
+|t:|1773078739
+|switch|p2a: Landorus|Landorus-Therian, M|100/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Glastrier|atk|1
+|move|p1a: Glastrier|High Horsepower|p2a: Landorus
+|-immune|p2a: Landorus
+|
+|upkeep
+|turn|28
+|
+|t:|1773078748
+|switch|p2a: Toxapex|Toxapex, M|100/100
+|move|p1a: Glastrier|Ice Shard|p2a: Toxapex
+|-resisted|p2a: Toxapex
+|-damage|p2a: Toxapex|91/100
+|
+|upkeep
+|turn|29
+|
+|t:|1773078762
+|move|p2a: Toxapex|Scald|p1a: Glastrier
+|-supereffective|p1a: Glastrier
+|-damage|p1a: Glastrier|42/100
+|move|p1a: Glastrier|High Horsepower|p2a: Toxapex
+|-supereffective|p2a: Toxapex
+|-damage|p2a: Toxapex|3/100
+|
+|upkeep
+|turn|30
+|inactive|birqzz has 120 seconds left.
+|
+|t:|1773078803
+|switch|p2a: Lopunny|Lopunny-Mega, M|45/100
+|move|p1a: Glastrier|Ice Shard|p2a: Lopunny
+|-damage|p2a: Lopunny|12/100
+|
+|upkeep
+|turn|31
+|
+|t:|1773078809
+|move|p2a: Lopunny|Fake Out|p1a: Glastrier
+|-damage|p1a: Glastrier|27/100
+|cant|p1a: Glastrier|flinch
+|
+|upkeep
+|turn|32
+|inactive|birqzz has 120 seconds left.
+|
+|t:|1773078822
+|switch|p2a: Toxapex|Toxapex, M|36/100
+|move|p1a: Glastrier|Ice Shard|p2a: Toxapex
+|-resisted|p2a: Toxapex
+|-damage|p2a: Toxapex|27/100
+|
+|upkeep
+|turn|33
+|
+|t:|1773078829
+|switch|p2a: Landorus|Landorus-Therian, M|100/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Glastrier|atk|1
+|move|p1a: Glastrier|High Horsepower|p2a: Landorus
+|-immune|p2a: Landorus
+|
+|upkeep
+|turn|34
+|inactive|birqzz has 120 seconds left.
+|inactive|birqzz has 90 seconds left.
+|inactive|birqzz has 60 seconds left.
+|
+|t:|1773078909
+|move|p1a: Glastrier|Ice Shard|p2a: Landorus
+|-supereffective|p2a: Landorus
+|-damage|p2a: Landorus|24/100
+|move|p2a: Landorus|Earthquake|p1a: Glastrier
+|-damage|p1a: Glastrier|0 fnt
+|faint|p1a: Glastrier
+|
+|upkeep
+|
+|t:|1773078914
+|switch|p1a: Blaziken|Blaziken, F|57/100
+|-damage|p1a: Blaziken|45/100|[from] Stealth Rock
+|turn|35
+|
+|t:|1773078917
+|switch|p2a: Toxapex|Toxapex, M|60/100
+|move|p1a: Blaziken|Protect||[still]
+|-fail|p1a: Blaziken
+|
+|-ability|p1a: Blaziken|Speed Boost|boost
+|-boost|p1a: Blaziken|spe|1
+|upkeep
+|turn|36
+|
+|t:|1773078925
+|switch|p2a: Landorus|Landorus-Therian, M|24/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Blaziken|atk|1
+|move|p1a: Blaziken|Swords Dance|p1a: Blaziken
+|-boost|p1a: Blaziken|atk|2
+|
+|-ability|p1a: Blaziken|Speed Boost|boost
+|-boost|p1a: Blaziken|spe|1
+|upkeep
+|turn|37
+|
+|t:|1773078935
+|switch|p2a: Toxapex|Toxapex, M|94/100
+|move|p1a: Blaziken|Flare Blitz|p2a: Toxapex
+|-resisted|p2a: Toxapex
+|-damage|p2a: Toxapex|58/100
+|-damage|p1a: Blaziken|33/100|[from] Recoil
+|
+|-ability|p1a: Blaziken|Speed Boost|boost
+|-boost|p1a: Blaziken|spe|1
+|upkeep
+|turn|38
+|
+|t:|1773078943
+|switch|p2a: Landorus|Landorus-Therian, M|24/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Blaziken|atk|1
+|move|p1a: Blaziken|Swords Dance|p1a: Blaziken
+|-boost|p1a: Blaziken|atk|2
+|
+|-ability|p1a: Blaziken|Speed Boost|boost
+|-boost|p1a: Blaziken|spe|1
+|upkeep
+|turn|39
+|inactive|birqzz has 90 seconds left.
+|
+|t:|1773078958
+|switch|p2a: Toxapex|Toxapex, M|91/100
+|move|p1a: Blaziken|Earthquake|p2a: Toxapex
+|-supereffective|p2a: Toxapex
+|-damage|p2a: Toxapex|0 fnt
+|faint|p2a: Toxapex
+|
+|-ability|p1a: Blaziken|Speed Boost|boost
+|-boost|p1a: Blaziken|spe|1
+|upkeep
+|inactive|birqzz has 90 seconds left.
+|inactive|birqzz has 60 seconds left.
+|inactive|birqzz has 30 seconds left.
+|inactive|birqzz has 20 seconds left.
+|inactive|birqzz has 15 seconds left.
+|inactive|birqzz has 10 seconds left.
+|inactive|birqzz has 5 seconds left.
+|-message|birqzz lost due to inactivity.
+|
+|win|Saddermanner
+|raw|Saddermanner's rating: 1161 &rarr; <strong>1183</strong><br />(+22 for winning)
+|raw|birqzz's rating: 1074 &rarr; <strong>1065</strong><br />(-9 for losing)

@@ -1,0 +1,729 @@
+|j|☆elmocapalot
+|j|☆articunofan153
+|t:|1773082663
+|gametype|singles
+|player|p1|elmocapalot|waiter-gen4|1066
+|player|p2|articunofan153|alder|1086
+|gen|9
+|tier|[Gen 9] NatDex RC OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Clause: Evasion abilities, items, and moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Terastal Clause: You cannot Terastallize
+|clearpoke
+|poke|p1|Walrein, M|
+|poke|p1|Dragalge, F|
+|poke|p1|Great Tusk|
+|poke|p1|Zapdos|
+|poke|p1|Gholdengo|
+|poke|p1|Meganium, M|
+|poke|p2|Alomomola, M|
+|poke|p2|Tyranitar, M|
+|poke|p2|Landorus-Therian, M|
+|poke|p2|Gholdengo|
+|poke|p2|Ampharos, F|
+|poke|p2|Ferrothorn, F|
+|teampreview
+|c|☆articunofan153|hf
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by elmocapalot)
+|c|☆elmocapalot|u2
+|inactive|articunofan153 has 120 seconds left.
+|
+|t:|1773082707
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Meganium|Meganium, M|100/100
+|switch|p2a: Bemular II|Tyranitar, M, shiny|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Bemular II
+|turn|1
+|
+|t:|1773082716
+|move|p2a: Bemular II|Rock Climb|p1a: Meganium
+|-damage|p1a: Meganium|40/100
+|move|p1a: Meganium|Knock Off|p2a: Bemular II
+|-resisted|p2a: Bemular II
+|-damage|p2a: Bemular II|94/100
+|-enditem|p2a: Bemular II|Choice Band|[from] move: Knock Off|[of] p1a: Meganium
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Meganium|33/100|[from] Sandstorm
+|upkeep
+|turn|2
+|
+|t:|1773082727
+|move|p1a: Meganium|Recover|p1a: Meganium
+|-heal|p1a: Meganium|83/100
+|move|p2a: Bemular II|Rock Climb|p1a: Meganium
+|-damage|p1a: Meganium|42/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Meganium|36/100|[from] Sandstorm
+|upkeep
+|turn|3
+|
+|t:|1773082736
+|move|p1a: Meganium|Recover|p1a: Meganium
+|-heal|p1a: Meganium|86/100
+|move|p2a: Bemular II|Rock Climb|p1a: Meganium
+|-damage|p1a: Meganium|45/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Meganium|39/100|[from] Sandstorm
+|upkeep
+|turn|4
+|
+|t:|1773082741
+|move|p1a: Meganium|Recover|p1a: Meganium
+|-heal|p1a: Meganium|89/100
+|move|p2a: Bemular II|Rock Climb|p1a: Meganium
+|-damage|p1a: Meganium|51/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Meganium|45/100|[from] Sandstorm
+|upkeep
+|turn|5
+|
+|t:|1773082748
+|switch|p2a: Afloat Tremor|Landorus-Therian, M|100/100
+|-ability|p2a: Afloat Tremor|Intimidate|boost
+|-unboost|p1a: Meganium|atk|1
+|move|p1a: Meganium|Recover|p1a: Meganium
+|-heal|p1a: Meganium|95/100
+|
+|-weather|none
+|upkeep
+|turn|6
+|
+|t:|1773082757
+|switch|p1a: Gholdengo|Gholdengo|100/100
+|move|p2a: Afloat Tremor|Toxic|p1a: Gholdengo
+|-immune|p1a: Gholdengo|[from] ability: Good as Gold
+|
+|upkeep
+|turn|7
+|
+|t:|1773082771
+|switch|p1a: Great Tusk|Great Tusk|100/100
+|switch|p2a: Lightricity|Ampharos, F|100/100
+|
+|upkeep
+|turn|8
+|
+|t:|1773082778
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|switch|p1a: Meganium|Meganium, M|95/100
+|switch|p2a: Spikey|Ferrothorn, F|100/100
+|
+|upkeep
+|turn|9
+|
+|t:|1773082791
+|switch|p2a: Bemular II|Tyranitar, M, shiny|94/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Bemular II
+|move|p1a: Meganium|Knock Off|p2a: Bemular II
+|-resisted|p2a: Bemular II
+|-damage|p2a: Bemular II|89/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Meganium|88/100|[from] Sandstorm
+|upkeep
+|turn|10
+|
+|t:|1773082804
+|switch|p2a: Spikey|Ferrothorn, F|100/100
+|switch|p1a: Great Tusk|Great Tusk|100/100
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|11
+|
+|t:|1773082812
+|switch|p2a: Afloat Tremor|Landorus-Therian, M|100/100
+|-ability|p2a: Afloat Tremor|Intimidate|boost
+|-unboost|p1a: Great Tusk|atk|1
+|move|p1a: Great Tusk|Stealth Rock|p2a: Afloat Tremor
+|-sidestart|p2: articunofan153|move: Stealth Rock
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|12
+|
+|t:|1773082831
+|move|p2a: Afloat Tremor|U-turn|p1a: Great Tusk
+|-resisted|p1a: Great Tusk
+|-damage|p1a: Great Tusk|92/100
+|
+|t:|1773082834
+|switch|p2a: Spikey|Ferrothorn, F|100/100|[from] U-turn
+|-damage|p2a: Spikey|95/100|[from] Stealth Rock
+|move|p1a: Great Tusk|Ice Spinner|p2a: Spikey
+|-damage|p2a: Spikey|81/100
+|-damage|p1a: Great Tusk|80/100|[from] ability: Iron Barbs|[of] p2a: Spikey
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p2a: Spikey|87/100|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1773082841
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|switch|p1a: Zapdos|Zapdos|100/100
+|move|p2a: Spikey|Stealth Rock|p1a: Zapdos
+|-sidestart|p1: elmocapalot|move: Stealth Rock
+|
+|-weather|none
+|-heal|p2a: Spikey|93/100|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1773082853
+|switch|p2a: Feeesh|Alomomola, M|100/100
+|-damage|p2a: Feeesh|88/100|[from] Stealth Rock
+|move|p1a: Zapdos|Volt Switch|p2a: Feeesh
+|-supereffective|p2a: Feeesh
+|-damage|p2a: Feeesh|44/100
+|
+|t:|1773082863
+|switch|p1a: Walrein|Walrein, M|100/100|[from] Volt Switch
+|
+|upkeep
+|turn|15
+|
+|t:|1773082872
+|switch|p2a: Bemular II|Tyranitar, M, shiny|89/100
+|-damage|p2a: Bemular II|76/100|[from] Stealth Rock
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Bemular II
+|move|p1a: Walrein|Chilling Nibble|p2a: Bemular II
+|-damage|p2a: Bemular II|71/100
+|-status|p2a: Bemular II|frz
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Walrein|94/100|[from] Sandstorm
+|-damage|p2a: Bemular II|65/100 frz|[from] frz
+|-heal|p1a: Walrein|100/100|[from] ability: Ice Body
+|upkeep
+|turn|16
+|
+|t:|1773082888
+|switch|p1a: Meganium|Meganium, M|88/100
+|move|p2a: Bemular II|Knock Off|p1a: Meganium
+|-resisted|p1a: Meganium
+|-damage|p1a: Meganium|67/100
+|-enditem|p1a: Meganium|Heavy-Duty Boots|[from] move: Knock Off|[of] p2a: Bemular II
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Meganium|60/100|[from] Sandstorm
+|-damage|p2a: Bemular II|59/100 frz|[from] frz
+|upkeep
+|turn|17
+|
+|t:|1773082898
+|move|p1a: Meganium|Recover|p1a: Meganium
+|-heal|p1a: Meganium|100/100
+|move|p2a: Bemular II|Rock Climb|p1a: Meganium
+|-damage|p1a: Meganium|63/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Meganium|57/100|[from] Sandstorm
+|-damage|p2a: Bemular II|53/100 frz|[from] frz
+|upkeep
+|turn|18
+|
+|t:|1773082913
+|move|p1a: Meganium|Giga Drain|p2a: Bemular II
+|-supereffective|p2a: Bemular II
+|-damage|p2a: Bemular II|8/100 frz
+|-heal|p1a: Meganium|77/100|[from] drain|[of] p2a: Bemular II
+|move|p2a: Bemular II|Knock Off|p1a: Meganium
+|-resisted|p1a: Meganium
+|-damage|p1a: Meganium|63/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Meganium|57/100|[from] Sandstorm
+|-damage|p2a: Bemular II|2/100 frz|[from] frz
+|upkeep
+|turn|19
+|
+|t:|1773082919
+|move|p1a: Meganium|Giga Drain|p2a: Bemular II
+|-supereffective|p2a: Bemular II
+|-crit|p2a: Bemular II
+|-damage|p2a: Bemular II|0 fnt
+|-heal|p1a: Meganium|58/100|[from] drain|[of] p2a: Bemular II
+|faint|p2a: Bemular II
+|
+|-weather|none
+|upkeep
+|
+|t:|1773082925
+|switch|p2a: Pika|Gholdengo|100/100
+|-damage|p2a: Pika|94/100|[from] Stealth Rock
+|turn|20
+|
+|t:|1773082933
+|switch|p1a: Dragalge|Dragalge, F|100/100
+|-damage|p1a: Dragalge|88/100|[from] Stealth Rock
+|move|p2a: Pika|Shadow Ball|p1a: Dragalge
+|-damage|p1a: Dragalge|61/100
+|
+|upkeep
+|turn|21
+|
+|t:|1773082941
+|switch|p2a: Afloat Tremor|Landorus-Therian, M|100/100
+|-damage|p2a: Afloat Tremor|88/100|[from] Stealth Rock
+|-ability|p2a: Afloat Tremor|Intimidate|boost
+|-unboost|p1a: Dragalge|atk|1
+|detailschange|p1a: Dragalge|Dragalge-Mega, F
+|-mega|p1a: Dragalge|Dragalge|Dragalgite
+|move|p1a: Dragalge|Flip Turn|p2a: Afloat Tremor
+|-supereffective|p2a: Afloat Tremor
+|-damage|p2a: Afloat Tremor|74/100
+|-damage|p1a: Dragalge|44/100|[from] item: Rocky Helmet|[of] p2a: Afloat Tremor
+|
+|t:|1773082947
+|switch|p1a: Zapdos|Zapdos|100/100|[from] Flip Turn
+|
+|upkeep
+|turn|22
+|
+|t:|1773082966
+|switch|p2a: Lightricity|Ampharos, F|100/100
+|-damage|p2a: Lightricity|88/100|[from] Stealth Rock
+|move|p1a: Zapdos|Hurricane|p2a: Lightricity
+|-resisted|p2a: Lightricity
+|-damage|p2a: Lightricity|59/100
+|
+|upkeep
+|turn|23
+|
+|t:|1773082980
+|detailschange|p2a: Lightricity|Ampharos-Mega, F
+|-mega|p2a: Lightricity|Ampharos|Ampharosite
+|move|p1a: Zapdos|Heat Wave|p2a: Lightricity
+|-resisted|p2a: Lightricity
+|-damage|p2a: Lightricity|30/100
+|move|p2a: Lightricity|Parabolic Charge|p1a: Zapdos
+|-damage|p1a: Zapdos|47/100
+|-heal|p2a: Lightricity|59/100|[from] drain|[of] p1a: Zapdos
+|
+|upkeep
+|turn|24
+|c|☆elmocapalot|wait what
+|
+|t:|1773083004
+|move|p1a: Zapdos|Volt Switch|p2a: Lightricity
+|-resisted|p2a: Lightricity
+|-damage|p2a: Lightricity|51/100
+|
+|t:|1773083005
+|switch|p1a: Meganium|Meganium, M|58/100|[from] Volt Switch
+|-damage|p1a: Meganium|46/100|[from] Stealth Rock
+|move|p2a: Lightricity|Parabolic Charge|p1a: Meganium
+|-resisted|p1a: Meganium
+|-damage|p1a: Meganium|24/100
+|-heal|p2a: Lightricity|63/100|[from] drain|[of] p1a: Meganium
+|
+|upkeep
+|turn|25
+|
+|t:|1773083018
+|switch|p2a: Afloat Tremor|Landorus-Therian, M|74/100
+|-damage|p2a: Afloat Tremor|62/100|[from] Stealth Rock
+|-ability|p2a: Afloat Tremor|Intimidate|boost
+|-unboost|p1a: Meganium|atk|1
+|move|p1a: Meganium|Recover|p1a: Meganium
+|-heal|p1a: Meganium|74/100
+|
+|upkeep
+|turn|26
+|inactive|elmocapalot has 120 seconds left.
+|
+|t:|1773083054
+|switch|p1a: Zapdos|Zapdos|47/100
+|move|p2a: Afloat Tremor|Toxic|p1a: Zapdos
+|-status|p1a: Zapdos|tox
+|
+|-damage|p1a: Zapdos|41/100 tox|[from] psn
+|upkeep
+|turn|27
+|
+|t:|1773083059
+|switch|p2a: Feeesh|Alomomola, M|78/100
+|-damage|p2a: Feeesh|65/100|[from] Stealth Rock
+|move|p1a: Zapdos|Roost|p1a: Zapdos
+|-heal|p1a: Zapdos|91/100 tox
+|-singleturn|p1a: Zapdos|move: Roost
+|
+|-damage|p1a: Zapdos|78/100 tox|[from] psn
+|upkeep
+|turn|28
+|
+|t:|1773083068
+|switch|p1a: Dragalge|Dragalge-Mega, F|78/100
+|-damage|p1a: Dragalge|65/100|[from] Stealth Rock
+|move|p2a: Feeesh|Flip Turn|p1a: Dragalge
+|-resisted|p1a: Dragalge
+|-damage|p1a: Dragalge|57/100
+|
+|t:|1773083082
+|switch|p2a: Afloat Tremor|Landorus-Therian, M|62/100|[from] Flip Turn
+|-damage|p2a: Afloat Tremor|49/100|[from] Stealth Rock
+|-ability|p2a: Afloat Tremor|Intimidate|boost
+|-unboost|p1a: Dragalge|atk|1
+|
+|upkeep
+|turn|29
+|
+|t:|1773083090
+|switch|p1a: Zapdos|Zapdos|78/100 tox
+|move|p2a: Afloat Tremor|Defog|p1a: Zapdos
+|-unboost|p1a: Zapdos|evasion|1
+|-sideend|p1: elmocapalot|Stealth Rock|[from] move: Defog|[of] p2a: Afloat Tremor
+|-sideend|p2: articunofan153|Stealth Rock|[from] move: Defog|[of] p2a: Afloat Tremor
+|
+|-damage|p1a: Zapdos|72/100 tox|[from] psn
+|upkeep
+|turn|30
+|
+|t:|1773083096
+|switch|p2a: Feeesh|Alomomola, M|98/100
+|move|p1a: Zapdos|Volt Switch|p2a: Feeesh
+|-supereffective|p2a: Feeesh
+|-damage|p2a: Feeesh|59/100
+|
+|t:|1773083107
+|switch|p1a: Meganium|Meganium, M|74/100|[from] Volt Switch
+|
+|upkeep
+|turn|31
+|
+|t:|1773083116
+|switch|p2a: Afloat Tremor|Landorus-Therian, M|49/100
+|-ability|p2a: Afloat Tremor|Intimidate|boost
+|-unboost|p1a: Meganium|atk|1
+|move|p1a: Meganium|Knock Off|p2a: Afloat Tremor
+|-damage|p2a: Afloat Tremor|39/100
+|-damage|p1a: Meganium|58/100|[from] item: Rocky Helmet|[of] p2a: Afloat Tremor
+|-enditem|p2a: Afloat Tremor|Rocky Helmet|[from] move: Knock Off|[of] p1a: Meganium
+|
+|upkeep
+|turn|32
+|
+|t:|1773083135
+|switch|p2a: Pika|Gholdengo|94/100
+|switch|p1a: Zapdos|Zapdos|72/100 tox
+|
+|-damage|p1a: Zapdos|66/100 tox|[from] psn
+|upkeep
+|turn|33
+|
+|t:|1773083141
+|switch|p2a: Feeesh|Alomomola, M|92/100
+|switch|p1a: Dragalge|Dragalge-Mega, F|91/100
+|
+|upkeep
+|turn|34
+|
+|t:|1773083146
+|move|p2a: Feeesh|Flip Turn|p1a: Dragalge
+|-resisted|p1a: Dragalge
+|-damage|p1a: Dragalge|82/100
+|
+|t:|1773083150
+|switch|p2a: Spikey|Ferrothorn, F|93/100|[from] Flip Turn
+|move|p1a: Dragalge|Spikes|p2a: Spikey
+|-sidestart|p2: articunofan153|Spikes
+|
+|-heal|p2a: Spikey|99/100|[from] item: Leftovers
+|upkeep
+|turn|35
+|
+|t:|1773083157
+|move|p1a: Dragalge|Spikes|p2a: Spikey
+|-sidestart|p2: articunofan153|Spikes
+|move|p2a: Spikey|Stealth Rock|p1a: Dragalge
+|-sidestart|p1: elmocapalot|move: Stealth Rock
+|
+|-heal|p2a: Spikey|100/100|[from] item: Leftovers
+|upkeep
+|turn|36
+|
+|t:|1773083164
+|switch|p1a: Gholdengo|Gholdengo|100/100
+|-damage|p1a: Gholdengo|94/100|[from] Stealth Rock
+|switch|p2a: Feeesh|Alomomola, M|100/100
+|-damage|p2a: Feeesh|84/100|[from] Spikes
+|
+|upkeep
+|turn|37
+|
+|t:|1773083169
+|move|p1a: Gholdengo|Trick|p2a: Feeesh
+|-activate|p1a: Gholdengo|move: Trick|[of] p2a: Feeesh
+|-item|p2a: Feeesh|Choice Scarf|[from] move: Trick
+|-item|p1a: Gholdengo|Assault Vest|[from] move: Trick
+|move|p2a: Feeesh|Flip Turn|p1a: Gholdengo
+|-damage|p1a: Gholdengo|75/100
+|
+|t:|1773083178
+|switch|p2a: Afloat Tremor|Landorus-Therian, M|39/100|[from] Flip Turn
+|-ability|p2a: Afloat Tremor|Intimidate|boost
+|-unboost|p1a: Gholdengo|atk|1
+|
+|upkeep
+|turn|38
+|
+|t:|1773083187
+|switch|p1a: Great Tusk|Great Tusk|80/100
+|move|p2a: Afloat Tremor|Defog|p1a: Great Tusk
+|-unboost|p1a: Great Tusk|evasion|1
+|-sideend|p1: elmocapalot|Stealth Rock|[from] move: Defog|[of] p2a: Afloat Tremor
+|-sideend|p2: articunofan153|Spikes|[from] move: Defog|[of] p2a: Afloat Tremor
+|
+|upkeep
+|turn|39
+|
+|t:|1773083193
+|move|p2a: Afloat Tremor|U-turn|p1a: Great Tusk
+|-resisted|p1a: Great Tusk
+|-damage|p1a: Great Tusk|72/100
+|
+|t:|1773083196
+|switch|p2a: Spikey|Ferrothorn, F|100/100|[from] U-turn
+|move|p1a: Great Tusk|Stealth Rock|p2a: Spikey
+|-sidestart|p2: articunofan153|move: Stealth Rock
+|
+|upkeep
+|turn|40
+|
+|t:|1773083206
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|switch|p1a: Meganium|Meganium, M|58/100
+|move|p2a: Spikey|Stealth Rock|p1a: Meganium
+|-sidestart|p1: elmocapalot|move: Stealth Rock
+|
+|upkeep
+|turn|41
+|
+|t:|1773083213
+|switch|p2a: Feeesh|Alomomola, M|100/100
+|-damage|p2a: Feeesh|88/100|[from] Stealth Rock
+|move|p1a: Meganium|Recover|p1a: Meganium
+|-heal|p1a: Meganium|100/100
+|
+|upkeep
+|turn|42
+|
+|t:|1773083223
+|move|p1a: Meganium|Knock Off|p2a: Feeesh
+|-crit|p2a: Feeesh
+|-damage|p2a: Feeesh|69/100
+|-enditem|p2a: Feeesh|Choice Scarf|[from] move: Knock Off|[of] p1a: Meganium
+|move|p2a: Feeesh|Mirror Coat||[still]
+|-fail|p2a: Feeesh
+|
+|upkeep
+|turn|43
+|
+|t:|1773083235
+|move|p1a: Meganium|Moonblast|p2a: Feeesh
+|-damage|p2a: Feeesh|33/100
+|move|p2a: Feeesh|Flip Turn|p1a: Meganium
+|-resisted|p1a: Meganium
+|-damage|p1a: Meganium|94/100
+|
+|t:|1773083243
+|switch|p2a: Pika|Gholdengo|94/100|[from] Flip Turn
+|-damage|p2a: Pika|88/100|[from] Stealth Rock
+|
+|upkeep
+|turn|44
+|
+|t:|1773083253
+|switch|p1a: Walrein|Walrein, M|100/100
+|move|p2a: Pika|Make It Rain|p1a: Walrein
+|-damage|p1a: Walrein|64/100
+|-unboost|p2a: Pika|spa|1
+|
+|-heal|p1a: Walrein|70/100|[from] ability: Ice Body
+|upkeep
+|turn|45
+|
+|t:|1773083265
+|switch|p2a: Spikey|Ferrothorn, F|100/100
+|-damage|p2a: Spikey|95/100|[from] Stealth Rock
+|move|p1a: Walrein|Chilling Nibble|p2a: Spikey
+|-damage|p2a: Spikey|91/100
+|-status|p2a: Spikey|frz
+|-damage|p1a: Walrein|57/100|[from] ability: Iron Barbs|[of] p2a: Spikey
+|
+|-heal|p2a: Spikey|97/100 frz|[from] item: Leftovers
+|-damage|p2a: Spikey|91/100 frz|[from] frz
+|-heal|p1a: Walrein|63/100|[from] ability: Ice Body
+|upkeep
+|turn|46
+|
+|t:|1773083272
+|switch|p1a: Meganium|Meganium, M|94/100
+|-damage|p1a: Meganium|82/100|[from] Stealth Rock
+|move|p2a: Spikey|Power Whip|p1a: Meganium
+|-resisted|p1a: Meganium
+|-damage|p1a: Meganium|68/100
+|
+|-heal|p2a: Spikey|97/100 frz|[from] item: Leftovers
+|-damage|p2a: Spikey|91/100 frz|[from] frz
+|upkeep
+|turn|47
+|
+|t:|1773083283
+|switch|p2a: Feeesh|Alomomola, M|66/100
+|-damage|p2a: Feeesh|54/100|[from] Stealth Rock
+|move|p1a: Meganium|Knock Off|p2a: Feeesh
+|-damage|p2a: Feeesh|46/100
+|
+|upkeep
+|turn|48
+|
+|t:|1773083295
+|switch|p2a: Pika|Gholdengo|88/100
+|-damage|p2a: Pika|82/100|[from] Stealth Rock
+|move|p1a: Meganium|Recover|p1a: Meganium
+|-heal|p1a: Meganium|100/100
+|
+|upkeep
+|turn|49
+|
+|t:|1773083308
+|switch|p1a: Dragalge|Dragalge-Mega, F|100/100
+|-damage|p1a: Dragalge|88/100|[from] Stealth Rock
+|move|p2a: Pika|Trick||[still]
+|-fail|p2a: Pika
+|
+|upkeep
+|turn|50
+|
+|t:|1773083316
+|switch|p2a: Afloat Tremor|Landorus-Therian, M|39/100
+|-damage|p2a: Afloat Tremor|27/100|[from] Stealth Rock
+|-ability|p2a: Afloat Tremor|Intimidate|boost
+|-unboost|p1a: Dragalge|atk|1
+|move|p1a: Dragalge|Flip Turn|p2a: Afloat Tremor
+|-supereffective|p2a: Afloat Tremor
+|-damage|p2a: Afloat Tremor|11/100
+|
+|t:|1773083319
+|switch|p1a: Great Tusk|Great Tusk|72/100|[from] Flip Turn
+|
+|upkeep
+|turn|51
+|
+|t:|1773083325
+|move|p2a: Afloat Tremor|Defog|p1a: Great Tusk
+|-unboost|p1a: Great Tusk|evasion|1
+|-sideend|p1: elmocapalot|Stealth Rock|[from] move: Defog|[of] p2a: Afloat Tremor
+|-sideend|p2: articunofan153|Stealth Rock|[from] move: Defog|[of] p2a: Afloat Tremor
+|move|p1a: Great Tusk|Ice Spinner|p2a: Afloat Tremor
+|-supereffective|p2a: Afloat Tremor
+|-damage|p2a: Afloat Tremor|0 fnt
+|faint|p2a: Afloat Tremor
+|
+|upkeep
+|inactive|articunofan153 has 120 seconds left.
+|
+|t:|1773083368
+|switch|p2a: Pika|Gholdengo|82/100
+|turn|52
+|inactive|articunofan153 has 120 seconds left.
+|
+|t:|1773083382
+|switch|p2a: Lightricity|Ampharos-Mega, F|63/100
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|switch|p1a: Dragalge|Dragalge-Mega, F|100/100
+|
+|upkeep
+|turn|53
+|inactive|articunofan153 has 120 seconds left.
+|
+|t:|1773083394
+|switch|p2a: Pika|Gholdengo|82/100
+|move|p1a: Dragalge|Draco Meteor|p2a: Pika
+|-resisted|p2a: Pika
+|-damage|p2a: Pika|46/100
+|-unboost|p1a: Dragalge|spa|2
+|
+|upkeep
+|turn|54
+|inactive|articunofan153 has 120 seconds left.
+|
+|t:|1773083403
+|move|p2a: Pika|Recover|p2a: Pika
+|-heal|p2a: Pika|96/100
+|move|p1a: Dragalge|Spikes|p2a: Pika
+|-sidestart|p2: articunofan153|Spikes
+|
+|upkeep
+|turn|55
+|
+|t:|1773083409
+|switch|p2a: Lightricity|Ampharos-Mega, F|63/100
+|-damage|p2a: Lightricity|51/100|[from] Spikes
+|move|p1a: Dragalge|Spikes|p2a: Lightricity
+|-sidestart|p2: articunofan153|Spikes
+|
+|upkeep
+|turn|56
+|
+|t:|1773083414
+|switch|p1a: Meganium|Meganium, M|100/100
+|move|p2a: Lightricity|Parabolic Charge|p1a: Meganium
+|-resisted|p1a: Meganium
+|-damage|p1a: Meganium|79/100
+|-heal|p2a: Lightricity|63/100|[from] drain|[of] p1a: Meganium
+|
+|upkeep
+|turn|57
+|
+|t:|1773083425
+|switch|p2a: Spikey|Ferrothorn, F|91/100 frz
+|-damage|p2a: Spikey|74/100 frz|[from] Spikes
+|move|p1a: Meganium|Knock Off|p2a: Spikey
+|-damage|p2a: Spikey|62/100 frz
+|-damage|p1a: Meganium|67/100|[from] ability: Iron Barbs|[of] p2a: Spikey
+|-enditem|p2a: Spikey|Leftovers|[from] move: Knock Off|[of] p1a: Meganium
+|
+|-damage|p2a: Spikey|56/100 frz|[from] frz
+|upkeep
+|turn|58
+|c|☆articunofan153|ggwp
+|c|☆elmocapalot|gg
+|
+|t:|1773083443
+|switch|p2a: Pika|Gholdengo|96/100
+|-damage|p2a: Pika|80/100|[from] Spikes
+|move|p1a: Meganium|Recover|p1a: Meganium
+|-heal|p1a: Meganium|100/100
+|
+|upkeep
+|turn|59
+|
+|t:|1773083451
+|switch|p1a: Dragalge|Dragalge-Mega, F|100/100
+|move|p2a: Pika|Shadow Ball|p1a: Dragalge
+|-damage|p1a: Dragalge|82/100
+|
+|upkeep
+|turn|60
+|-message|articunofan153 forfeited.
+|
+|win|elmocapalot
+|raw|elmocapalot's rating: 1066 &rarr; <strong>1107</strong><br />(+41 for winning)
+|raw|articunofan153's rating: 1086 &rarr; <strong>1071</strong><br />(-15 for losing)

@@ -1,0 +1,403 @@
+|j|☆NJ
+|j|☆imaginehd
+|t:|1772909616
+|gametype|singles
+|player|p1|NJ|unknown|1000
+|player|p2|imaginehd|1|1243
+|gen|9
+|tier|[Gen 9] NatDex RC OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Clause: Evasion abilities, items, and moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Terastal Clause: You cannot Terastallize
+|clearpoke
+|poke|p1|Excadrill, F|
+|poke|p1|Ribombee, F|
+|poke|p1|Slowbro, M|
+|poke|p1|Typhlosion, F|
+|poke|p1|Aegislash, F|
+|poke|p1|Regieleki|
+|poke|p2|Dragonite, F|
+|poke|p2|Sharpedo, M|
+|poke|p2|Ninetales-Alola, M|
+|poke|p2|Great Tusk|
+|poke|p2|Aegislash, F|
+|poke|p2|Kyurem|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by NJ)
+|j|@ceiiardoor
+|c|@ceiiardoor|Leki webs
+|c|@ceiiardoor|Wait
+|inactive|imaginehd has 120 seconds left.
+|c|@ceiiardoor|Is this eternal😭
+|c|☆NJ|wdym
+|c|@ceiiardoor|Not you
+|j| MaczinGoat
+|l| MaczinGoat
+|inactive|imaginehd has 90 seconds left.
+|inactive|imaginehd has 60 seconds left.
+|c|☆imaginehd|hey auntie
+|c|@ceiiardoor|Heyyy
+|
+|t:|1772909725
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Necrozma victim|Ribombee, F, shiny|100/100
+|switch|p2a: Ninetales|Ninetales-Alola, M|100/100
+|-weather|Snowscape|[from] ability: Snow Warning|[of] p2a: Ninetales
+|turn|1
+|
+|t:|1772909730
+|move|p1a: Necrozma victim|Sticky Web|p2a: Ninetales
+|-sidestart|p2: imaginehd|move: Sticky Web
+|move|p2a: Ninetales|Encore|p1a: Necrozma victim
+|-start|p1a: Necrozma victim|Encore
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|2
+|c|@ceiiardoor|No wonder i was like who was using bro's team
+|c|@ceiiardoor|It stinks btw
+|c|☆imaginehd|the one and only btw
+|
+|t:|1772909752
+|switch|p1a: SlowGoat|Slowbro, M, shiny|100/100
+|move|p2a: Ninetales|Aurora Veil|p2a: Ninetales
+|-sidestart|p2: imaginehd|move: Aurora Veil
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|3
+|inactive|imaginehd has 120 seconds left.
+|
+|t:|1772909801
+|move|p2a: Ninetales|Freeze-Dry|p1a: SlowGoat
+|-supereffective|p1a: SlowGoat
+|-damage|p1a: SlowGoat|49/100
+|move|p1a: SlowGoat|Teleport|p1a: SlowGoat
+|
+|t:|1772909805
+|switch|p1a: Simon|Excadrill, F|100/100|[from] Teleport
+|-ability|p1a: Simon|Mold Breaker
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|4
+|inactive|imaginehd has 90 seconds left.
+|
+|t:|1772909832
+|switch|p2a: Great Tusk|Great Tusk|100/100
+|-activate|p2a: Great Tusk|move: Sticky Web
+|-unboost|p2a: Great Tusk|spe|1
+|-enditem|p2a: Great Tusk|Booster Energy
+|-activate|p2a: Great Tusk|ability: Protosynthesis|[fromitem]
+|-start|p2a: Great Tusk|protosynthesisatk
+|detailschange|p1a: Simon|Excadrill-Mega, F
+|-mega|p1a: Simon|Excadrill|Excadrite
+|-ability|p1a: Simon|Mold Breaker
+|move|p1a: Simon|Rock Climb|p2a: Great Tusk
+|-resisted|p2a: Great Tusk
+|-damage|p2a: Great Tusk|98/100
+|-start|p2a: Great Tusk|confusion
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|5
+|c|☆imaginehd|thats very real
+|
+|t:|1772909845
+|switch|p1a: Aegislash|Aegislash, F|100/100
+|-activate|p2a: Great Tusk|confusion
+|-damage|p2a: Great Tusk|90/100|[from] confusion
+|
+|-weather|none
+|upkeep
+|turn|6
+|
+|t:|1772909862
+|-activate|p2a: Great Tusk|confusion
+|move|p2a: Great Tusk|Rapid Spin|p1a: Aegislash
+|-immune|p1a: Aegislash
+|move|p1a: Aegislash|Swords Dance|p1a: Aegislash
+|-boost|p1a: Aegislash|atk|2
+|
+|upkeep
+|turn|7
+|c|☆imaginehd|is this guy setting up on tusk
+|c|☆imaginehd|behind veil
+|inactive|imaginehd has 90 seconds left.
+|
+|t:|1772909882
+|-end|p2a: Great Tusk|Protosynthesis|[silent]
+|switch|p2a: Sharpedo|Sharpedo, M|100/100
+|-activate|p2a: Sharpedo|move: Sticky Web
+|-unboost|p2a: Sharpedo|spe|1
+|-formechange|p1a: Aegislash|Aegislash-Blade||[from] ability: Stance Change
+|move|p1a: Aegislash|Iron Head|p2a: Sharpedo
+|-resisted|p2a: Sharpedo
+|-damage|p2a: Sharpedo|10/100
+|-damage|p1a: Aegislash|91/100|[from] item: Life Orb
+|
+|upkeep
+|turn|8
+|
+|t:|1772909884
+|move|p2a: Sharpedo|Protect|p2a: Sharpedo
+|-singleturn|p2a: Sharpedo|Protect
+|move|p1a: Aegislash|Shadow Sneak|p2a: Sharpedo
+|-activate|p2a: Sharpedo|move: Protect
+|
+|-ability|p2a: Sharpedo|Speed Boost|boost
+|-boost|p2a: Sharpedo|spe|1
+|upkeep
+|turn|9
+|
+|t:|1772909898
+|move|p1a: Aegislash|Shadow Sneak|p2a: Sharpedo
+|-resisted|p2a: Sharpedo
+|-damage|p2a: Sharpedo|0 fnt
+|faint|p2a: Sharpedo
+|-damage|p1a: Aegislash|81/100|[from] item: Life Orb
+|
+|-sideend|p2: imaginehd|move: Aurora Veil
+|upkeep
+|
+|t:|1772909905
+|switch|p2a: Dragonite|Dragonite, F, shiny|100/100
+|turn|10
+|
+|t:|1772909909
+|move|p2a: Dragonite|Earthquake|p1a: Aegislash
+|-supereffective|p1a: Aegislash
+|-damage|p1a: Aegislash|0 fnt
+|faint|p1a: Aegislash
+|
+|upkeep
+|
+|t:|1772909915
+|switch|p1a: SlowGoat|Slowbro, M, shiny|82/100
+|turn|11
+|inactive|imaginehd has 120 seconds left.
+|
+|t:|1772909923
+|move|p2a: Dragonite|Dragon Dance|p2a: Dragonite
+|-boost|p2a: Dragonite|atk|1
+|-boost|p2a: Dragonite|spe|1
+|move|p1a: SlowGoat|Future Sight|p2a: Dragonite
+|-start|p1a: SlowGoat|move: Future Sight
+|
+|upkeep
+|turn|12
+|
+|t:|1772909926
+|-zpower|p2a: Dragonite
+|move|p2a: Dragonite|Supersonic Skystrike|p1a: SlowGoat|[zeffect]
+|-damage|p1a: SlowGoat|0 fnt
+|faint|p1a: SlowGoat
+|
+|upkeep
+|
+|t:|1772909932
+|switch|p1a: Necrozma victim|Ribombee, F, shiny|100/100
+|turn|13
+|
+|t:|1772909939
+|switch|p2a: Ninetales|Ninetales-Alola, M|100/100
+|-activate|p2a: Ninetales|move: Sticky Web
+|-unboost|p2a: Ninetales|spe|1
+|-weather|Snowscape|[from] ability: Snow Warning|[of] p2a: Ninetales
+|move|p1a: Necrozma victim|Moonblast|p2a: Ninetales
+|-damage|p2a: Ninetales|62/100
+|
+|-weather|Snowscape|[upkeep]
+|-end|p2a: Ninetales|move: Future Sight
+|-damage|p2a: Ninetales|25/100
+|upkeep
+|turn|14
+|c|☆imaginehd|forgor
+|
+|t:|1772909947
+|switch|p2a: Aegislash|Aegislash, F|100/100
+|-activate|p2a: Aegislash|move: Sticky Web
+|-unboost|p2a: Aegislash|spe|1
+|move|p1a: Necrozma victim|Moonblast|p2a: Aegislash
+|-resisted|p2a: Aegislash
+|-damage|p2a: Aegislash|81/100
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|15
+|
+|t:|1772909958
+|switch|p1a: Roria Conquestor|Typhlosion, F, shiny|100/100
+|-formechange|p2a: Aegislash|Aegislash-Blade||[from] ability: Stance Change
+|move|p2a: Aegislash|Shadow Ball|p1a: Roria Conquestor
+|-damage|p1a: Roria Conquestor|42/100
+|-unboost|p1a: Roria Conquestor|spd|1
+|-damage|p2a: Aegislash|71/100|[from] item: Life Orb
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|16
+|
+|t:|1772909970
+|switch|p2a: Ninetales|Ninetales-Alola, M|25/100
+|-activate|p2a: Ninetales|move: Sticky Web
+|-unboost|p2a: Ninetales|spe|1
+|move|p1a: Roria Conquestor|Flamethrower|p2a: Ninetales
+|-supereffective|p2a: Ninetales
+|-damage|p2a: Ninetales|0 fnt
+|faint|p2a: Ninetales
+|-ability|p1a: Roria Conquestor|Hubris|boost
+|-boost|p1a: Roria Conquestor|spa|1
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|
+|t:|1772909976
+|switch|p2a: Dragonite|Dragonite, F, shiny|100/100
+|turn|17
+|
+|t:|1772909981
+|move|p1a: Roria Conquestor|Dragon Pulse|p2a: Dragonite
+|-supereffective|p2a: Dragonite
+|-crit|p2a: Dragonite
+|-damage|p2a: Dragonite|40/100
+|move|p2a: Dragonite|Earthquake|p1a: Roria Conquestor
+|-supereffective|p1a: Roria Conquestor
+|-damage|p1a: Roria Conquestor|0 fnt
+|faint|p1a: Roria Conquestor
+|
+|-weather|none
+|upkeep
+|
+|t:|1772909984
+|switch|p1a: Necrozma victim|Ribombee, F, shiny|100/100
+|turn|18
+|
+|t:|1772909991
+|switch|p2a: Aegislash|Aegislash, F|71/100
+|-activate|p2a: Aegislash|move: Sticky Web
+|-unboost|p2a: Aegislash|spe|1
+|move|p1a: Necrozma victim|Moonblast|p2a: Aegislash
+|-resisted|p2a: Aegislash
+|-damage|p2a: Aegislash|54/100
+|
+|upkeep
+|turn|19
+|
+|t:|1772910001
+|move|p1a: Necrozma victim|Bug Buzz|p2a: Aegislash
+|-resisted|p2a: Aegislash
+|-damage|p2a: Aegislash|46/100
+|-formechange|p2a: Aegislash|Aegislash-Blade||[from] ability: Stance Change
+|move|p2a: Aegislash|Shadow Ball|p1a: Necrozma victim
+|-enditem|p1a: Necrozma victim|Focus Sash
+|-damage|p1a: Necrozma victim|1/100
+|-damage|p2a: Aegislash|36/100|[from] item: Life Orb
+|
+|upkeep
+|turn|20
+|
+|t:|1772910006
+|move|p1a: Necrozma victim|Moonblast|p2a: Aegislash
+|-resisted|p2a: Aegislash
+|-damage|p2a: Aegislash|0 fnt
+|faint|p2a: Aegislash
+|
+|upkeep
+|c|☆NJ|tf
+|c|☆imaginehd|oops
+|
+|t:|1772910018
+|switch|p2a: Kyurem|Kyurem|100/100
+|-activate|p2a: Kyurem|move: Sticky Web
+|-unboost|p2a: Kyurem|spe|1
+|-ability|p2a: Kyurem|Pressure
+|turn|21
+|
+|t:|1772910026
+|move|p1a: Necrozma victim|Moonblast|p2a: Kyurem
+|-supereffective|p2a: Kyurem
+|-damage|p2a: Kyurem|24/100
+|-unboost|p2a: Kyurem|spa|1
+|move|p2a: Kyurem|Icicle Spear|p1a: Necrozma victim
+|-damage|p1a: Necrozma victim|0 fnt
+|faint|p1a: Necrozma victim
+|-hitcount|p1: Necrozma victim|1
+|
+|upkeep
+|
+|t:|1772910033
+|switch|p1a: Simon|Excadrill-Mega, F|100/100
+|-ability|p1a: Simon|Mold Breaker
+|turn|22
+|
+|t:|1772910053
+|move|p1a: Simon|Iron Head|p2a: Kyurem
+|-supereffective|p2a: Kyurem
+|-damage|p2a: Kyurem|0 fnt
+|faint|p2a: Kyurem
+|
+|upkeep
+|
+|t:|1772910057
+|switch|p2a: Great Tusk|Great Tusk|90/100
+|-activate|p2a: Great Tusk|move: Sticky Web
+|-unboost|p2a: Great Tusk|spe|1
+|turn|23
+|inactive|imaginehd has 120 seconds left.
+|c|@ceiiardoor|Y'all still playing?
+|c|☆imaginehd|bro
+|c|@ceiiardoor|23 turns too long for HO eternal
+|c|☆imaginehd|how do i win
+|c|☆imaginehd|:sob:
+|inactive|imaginehd has 90 seconds left.
+|
+|t:|1772910122
+|move|p1a: Simon|Iron Head|p2a: Great Tusk
+|-crit|p2a: Great Tusk
+|-damage|p2a: Great Tusk|43/100
+|cant|p2a: Great Tusk|flinch
+|
+|upkeep
+|turn|24
+|c|☆imaginehd|ok
+|c|☆imaginehd|OK
+|c|☆imaginehd|no bulk ups
+|c|☆imaginehd|on max hp tusk
+|
+|t:|1772910131
+|move|p1a: Simon|Earthquake|p2a: Great Tusk
+|-damage|p2a: Great Tusk|6/100
+|move|p2a: Great Tusk|Bulk Up|p2a: Great Tusk
+|-boost|p2a: Great Tusk|atk|1
+|-boost|p2a: Great Tusk|def|1
+|
+|upkeep
+|turn|25
+|-message|imaginehd forfeited.
+|
+|win|NJ
+|raw|NJ's rating: 1000 &rarr; <strong>1072</strong><br />(+72 for winning)
+|raw|imaginehd's rating: 1243 &rarr; <strong>1217</strong><br />(-26 for losing)
+|c|☆NJ|gg
+|c|@ceiiardoor|No way 
+|c|☆imaginehd|i already beat him previously
+|c|@ceiiardoor|You lost to regieleki webs😭
+|c|☆NJ|i thought a earthquake from the tusk wouldve killed
+|c|☆imaginehd|i just switched teams
+|c|☆imaginehd|his regi prob hp ice
+|c|☆imaginehd|it was wraps unless i get +2 speed
+|l|☆NJ
+|player|p1|
+|l|☆imaginehd
+|player|p2|

@@ -1,0 +1,236 @@
+|j|☆ceiiardoor
+|j|☆cloxd4u_
+|t:|1773086804
+|gametype|singles
+|player|p1|ceiiardoor|olivia|1326
+|player|p2|cloxd4u_|nate|1070
+|gen|9
+|tier|[Gen 9] NatDex RC OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Clause: Evasion abilities, items, and moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Terastal Clause: You cannot Terastallize
+|clearpoke
+|poke|p1|Kingambit, M|
+|poke|p1|Iron Valiant|
+|poke|p1|Slowbro, M|
+|poke|p1|Raging Bolt|
+|poke|p1|Iron Treads|
+|poke|p1|Charizard, F|
+|poke|p2|Hatterene, F|
+|poke|p2|Cresselia, F|
+|poke|p2|Porygon2|
+|poke|p2|Ursaluna, M|
+|poke|p2|Mawile, F|
+|poke|p2|Marowak-Alola, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by ceiiardoor)
+|c|☆cloxd4u_|OH GOD
+|c|☆cloxd4u_|WHY
+|c|☆cloxd4u_|WHY
+|c|☆cloxd4u_|ANYBODY ELSE
+|
+|t:|1773086823
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Chaos King|Kingambit, M, shiny|100/100
+|switch|p2a: Hatterene|Hatterene, F|100/100
+|turn|1
+|
+|t:|1773086834
+|move|p1a: Chaos King|Iron Head|p2a: Hatterene
+|-supereffective|p2a: Hatterene
+|-damage|p2a: Hatterene|4/100
+|move|p2a: Hatterene|Trick Room|p2a: Hatterene
+|-fieldstart|move: Trick Room|[of] p2a: Hatterene
+|
+|upkeep
+|turn|2
+|
+|t:|1773086845
+|-zpower|p2a: Hatterene
+|move|p2a: Hatterene|Twinkle Tackle|p1a: Chaos King|[zeffect]
+|-crit|p1a: Chaos King
+|-damage|p1a: Chaos King|0 fnt
+|faint|p1a: Chaos King
+|-end|p1a: Chaos King|fallenundefined|[silent]
+|
+|upkeep
+|
+|t:|1773086862
+|switch|p1a: Iron Treads|Iron Treads|100/100
+|turn|3
+|
+|t:|1773086878
+|move|p2a: Hatterene|Misty Explosion|p1a: Iron Treads
+|-resisted|p1a: Iron Treads
+|-damage|p1a: Iron Treads|57/100
+|faint|p2a: Hatterene
+|move|p1a: Iron Treads|Earthquake|p2: Hatterene|[notarget]
+|-fail|p1a: Iron Treads
+|
+|-heal|p1a: Iron Treads|63/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1773086892
+|switch|p2a: Ursaluna|Ursaluna, M|100/100
+|turn|4
+|
+|t:|1773086911
+|move|p2a: Ursaluna|Fire Punch|p1a: Iron Treads
+|-supereffective|p1a: Iron Treads
+|-damage|p1a: Iron Treads|8/100
+|move|p1a: Iron Treads|Earthquake|p2a: Ursaluna
+|-damage|p2a: Ursaluna|67/100
+|
+|-heal|p1a: Iron Treads|14/100|[from] item: Leftovers
+|-status|p2a: Ursaluna|brn|[from] item: Flame Orb
+|upkeep
+|turn|5
+|
+|t:|1773086922
+|move|p2a: Ursaluna|Facade|p1a: Iron Treads
+|-resisted|p1a: Iron Treads
+|-damage|p1a: Iron Treads|0 fnt
+|faint|p1a: Iron Treads
+|-end|p1a: Iron Treads|Quark Drive|[silent]
+|
+|-damage|p2a: Ursaluna|61/100 brn|[from] brn
+|-fieldend|move: Trick Room
+|upkeep
+|
+|t:|1773086948
+|switch|p1a: Iron Valiant|Iron Valiant|100/100
+|-enditem|p1a: Iron Valiant|Booster Energy
+|-activate|p1a: Iron Valiant|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Valiant|quarkdrivespe
+|turn|6
+|
+|t:|1773086964
+|switch|p2a: Cresselia|Cresselia, F|100/100
+|move|p1a: Iron Valiant|Close Combat|p2a: Cresselia
+|-resisted|p2a: Cresselia
+|-damage|p2a: Cresselia|86/100
+|-unboost|p1a: Iron Valiant|def|1
+|-unboost|p1a: Iron Valiant|spd|1
+|-damage|p1a: Iron Valiant|84/100|[from] item: Rocky Helmet|[of] p2a: Cresselia
+|
+|upkeep
+|turn|7
+|
+|t:|1773086973
+|move|p1a: Iron Valiant|Knock Off|p2a: Cresselia
+|-supereffective|p2a: Cresselia
+|-damage|p2a: Cresselia|50/100
+|-damage|p1a: Iron Valiant|67/100|[from] item: Rocky Helmet|[of] p2a: Cresselia
+|-enditem|p2a: Cresselia|Rocky Helmet|[from] move: Knock Off|[of] p1a: Iron Valiant
+|move|p2a: Cresselia|Trick Room|p2a: Cresselia
+|-fieldstart|move: Trick Room|[of] p2a: Cresselia
+|
+|upkeep
+|turn|8
+|inactive|cloxd4u_ has 120 seconds left.
+|
+|t:|1773087007
+|move|p2a: Cresselia|Lunar Dance|p2a: Cresselia
+|faint|p2a: Cresselia
+|move|p1a: Iron Valiant|Spirit Break|p2: Cresselia|[notarget]
+|-fail|p1a: Iron Valiant
+|
+|upkeep
+|
+|t:|1773087016
+|switch|p2a: Ursaluna|Ursaluna, M|61/100 brn
+|-heal|p2a: Ursaluna|100/100|[from] move: Lunar Dance
+|turn|9
+|inactive|cloxd4u_ has 90 seconds left.
+|
+|t:|1773087048
+|move|p2a: Ursaluna|Headlong Rush|p1a: Iron Valiant
+|-damage|p1a: Iron Valiant|0 fnt
+|-unboost|p2a: Ursaluna|def|1
+|-unboost|p2a: Ursaluna|spd|1
+|faint|p1a: Iron Valiant
+|-end|p1a: Iron Valiant|Quark Drive|[silent]
+|
+|-status|p2a: Ursaluna|brn|[from] item: Flame Orb
+|upkeep
+|
+|t:|1773087053
+|switch|p1a: Slowbro|Slowbro, M|100/100
+|turn|10
+|
+|t:|1773087065
+|move|p2a: Ursaluna|Facade|p1a: Slowbro
+|-damage|p1a: Slowbro|29/100
+|move|p1a: Slowbro|Teleport|p1a: Slowbro
+|
+|t:|1773087068
+|switch|p1a: Charizard|Charizard, F|100/100|[from] Teleport
+|
+|-damage|p2a: Ursaluna|94/100 brn|[from] brn
+|upkeep
+|turn|11
+|
+|t:|1773087074
+|switch|p1a: Slowbro|Slowbro, M|62/100
+|move|p2a: Ursaluna|Facade|p1a: Slowbro
+|-damage|p1a: Slowbro|0 fnt
+|faint|p1a: Slowbro
+|
+|-damage|p2a: Ursaluna|88/100 brn|[from] brn
+|-fieldend|move: Trick Room
+|upkeep
+|
+|t:|1773087088
+|switch|p1a: Charizard|Charizard, F|100/100
+|turn|12
+|
+|t:|1773087104
+|switch|p2a: Porygon2|Porygon2|100/100
+|-ability|p2a: Porygon2|Flash Fire|Trace|[from] ability: Trace|[of] p1a: Charizard
+|detailschange|p1a: Charizard|Charizard-Mega-X, F
+|-mega|p1a: Charizard|Charizard|Charizardite X
+|move|p1a: Charizard|Dragon Dance|p1a: Charizard
+|-boost|p1a: Charizard|atk|1
+|-boost|p1a: Charizard|spe|1
+|
+|upkeep
+|turn|13
+|
+|t:|1773087118
+|move|p1a: Charizard|Flare Blitz|p2a: Porygon2
+|-start|p2a: Porygon2|ability: Flash Fire
+|move|p2a: Porygon2|Trick Room|p2a: Porygon2
+|-fieldstart|move: Trick Room|[of] p2a: Porygon2
+|
+|upkeep
+|turn|14
+|c|☆cloxd4u_|hurry up??
+|inactive|ceiiardoor has 120 seconds left.
+|c|☆cloxd4u_|i might win
+|c|☆cloxd4u_|has a chance
+|c|☆cloxd4u_|i can make gimmick proud
+|
+|t:|1773087159
+|move|p1a: Charizard|Dragon Claw|p2a: Porygon2
+|-damage|p2a: Porygon2|43/100
+|move|p2a: Porygon2|Teleport|p2a: Porygon2
+|-message|ceiiardoor forfeited.
+|
+|win|cloxd4u_
+|raw|ceiiardoor's rating: 1326 &rarr; <strong>1300</strong><br />(-26 for losing)
+|raw|cloxd4u_'s rating: 1070 &rarr; <strong>1132</strong><br />(+62 for winning)
+|l|☆ceiiardoor
+|player|p1|
+|c|☆cloxd4u_|YES
+|c|☆cloxd4u_|YES
+|c|☆cloxd4u_|YES

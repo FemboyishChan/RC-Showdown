@@ -1,0 +1,282 @@
+|j|☆ceiiardoor
+|j|☆elmocapalot
+|t:|1773088978
+|gametype|singles
+|player|p1|ceiiardoor|olivia|1369
+|player|p2|elmocapalot|waiter-gen4|1129
+|gen|9
+|tier|[Gen 9] NatDex RC OU
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Clause: Evasion abilities, items, and moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Terastal Clause: You cannot Terastallize
+|clearpoke
+|poke|p1|Diancie|
+|poke|p1|Ceruledge, M|
+|poke|p1|Great Tusk|
+|poke|p1|Gholdengo|
+|poke|p1|Dragonite, M|
+|poke|p1|Kingambit, M|
+|poke|p2|Walrein, M|
+|poke|p2|Dragalge, M|
+|poke|p2|Great Tusk|
+|poke|p2|Zapdos|
+|poke|p2|Gholdengo|
+|poke|p2|Meganium, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by ceiiardoor)
+|c|☆elmocapalot|dead ladder
+|
+|t:|1773088987
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Dragonite|Dragonite, M|100/100
+|switch|p2a: Gholdengo|Gholdengo|100/100
+|turn|1
+|
+|t:|1773088993
+|switch|p1a: Diancie|Diancie|100/100
+|move|p2a: Gholdengo|Trick||[still]
+|-fail|p2a: Gholdengo
+|
+|upkeep
+|turn|2
+|
+|t:|1773089003
+|switch|p2a: Dragalge|Dragalge, M|100/100
+|detailschange|p1a: Diancie|Diancie-Mega
+|-mega|p1a: Diancie|Diancie|Diancite
+|move|p1a: Diancie|Moonblast|p2a: Dragalge
+|-damage|p2a: Dragalge|70/100
+|
+|upkeep
+|turn|3
+|
+|t:|1773089008
+|detailschange|p2a: Dragalge|Dragalge-Mega, M
+|-mega|p2a: Dragalge|Dragalge|Dragalgite
+|move|p1a: Diancie|Substitute|p1a: Diancie
+|-start|p1a: Diancie|Substitute
+|-damage|p1a: Diancie|76/100
+|move|p2a: Dragalge|Flip Turn|p1a: Diancie
+|-supereffective|p1a: Diancie
+|-activate|p1a: Diancie|move: Substitute|[damage]
+|
+|t:|1773089019
+|switch|p2a: Meganium|Meganium, M|100/100|[from] Flip Turn
+|
+|upkeep
+|turn|4
+|
+|t:|1773089024
+|move|p2a: Meganium|Giga Drain|p1a: Diancie
+|-supereffective|p1a: Diancie
+|-end|p1a: Diancie|Substitute
+|move|p1a: Diancie|Substitute|p1a: Diancie
+|-start|p1a: Diancie|Substitute
+|-damage|p1a: Diancie|51/100
+|
+|upkeep
+|turn|5
+|
+|t:|1773089027
+|move|p2a: Meganium|Giga Drain|p1a: Diancie
+|-supereffective|p1a: Diancie
+|-end|p1a: Diancie|Substitute
+|move|p1a: Diancie|Substitute|p1a: Diancie
+|-start|p1a: Diancie|Substitute
+|-damage|p1a: Diancie|26/100
+|
+|upkeep
+|turn|6
+|
+|t:|1773089029
+|move|p2a: Meganium|Giga Drain|p1a: Diancie
+|-supereffective|p1a: Diancie
+|-end|p1a: Diancie|Substitute
+|move|p1a: Diancie|Substitute|p1a: Diancie
+|-start|p1a: Diancie|Substitute
+|-damage|p1a: Diancie|1/100
+|
+|upkeep
+|turn|7
+|
+|t:|1773089030
+|move|p2a: Meganium|Giga Drain|p1a: Diancie
+|-supereffective|p1a: Diancie
+|-end|p1a: Diancie|Substitute
+|move|p1a: Diancie|Endeavor|p2a: Meganium
+|-damage|p2a: Meganium|1/100
+|
+|upkeep
+|turn|8
+|
+|t:|1773089035
+|switch|p1a: Ceruledge|Ceruledge, M|100/100
+|move|p2a: Meganium|Giga Drain|p1a: Ceruledge
+|-resisted|p1a: Ceruledge
+|-damage|p1a: Ceruledge|79/100
+|-heal|p2a: Meganium|9/100|[from] drain|[of] p1a: Ceruledge
+|
+|upkeep
+|turn|9
+|
+|t:|1773089038
+|switch|p2a: Great Tusk|Great Tusk|100/100
+|move|p1a: Ceruledge|Poltergeist|p2a: Great Tusk
+|-activate|p2a: Great Tusk|move: Poltergeist|Heavy-Duty Boots
+|-damage|p2a: Great Tusk|60/100
+|
+|upkeep
+|turn|10
+|
+|t:|1773089043
+|switch|p1a: Diancie|Diancie-Mega|1/100
+|move|p2a: Great Tusk|Headlong Rush|p1a: Diancie
+|-supereffective|p1a: Diancie
+|-damage|p1a: Diancie|0 fnt
+|-unboost|p2a: Great Tusk|def|1
+|-unboost|p2a: Great Tusk|spd|1
+|faint|p1a: Diancie
+|detailschange|p1: Diancie|Diancie|[silent]
+|
+|upkeep
+|
+|t:|1773089049
+|switch|p1a: Dragonite|Dragonite, M|100/100
+|turn|11
+|inactive|elmocapalot has 120 seconds left.
+|
+|t:|1773089092
+|move|p2a: Great Tusk|Rapid Spin|p1a: Dragonite
+|-damage|p1a: Dragonite|90/100
+|-boost|p2a: Great Tusk|spe|1
+|move|p1a: Dragonite|Dragon Dance|p1a: Dragonite
+|-boost|p1a: Dragonite|atk|1
+|-boost|p1a: Dragonite|spe|1
+|
+|upkeep
+|turn|12
+|
+|t:|1773089101
+|move|p2a: Great Tusk|Ice Spinner|p1a: Dragonite
+|-supereffective|p1a: Dragonite
+|-damage|p1a: Dragonite|0 fnt
+|faint|p1a: Dragonite
+|
+|upkeep
+|c|☆ceiiardoor|Christ you're good
+|
+|t:|1773089117
+|switch|p1a: Ceruledge|Ceruledge, M|79/100
+|turn|13
+|inactive|elmocapalot has 120 seconds left.
+|
+|t:|1773089134
+|-end|p2a: Great Tusk|Protosynthesis|[silent]
+|switch|p2a: Zapdos|Zapdos|100/100
+|move|p1a: Ceruledge|Bitter Blade|p2a: Zapdos
+|-damage|p2a: Zapdos|53/100
+|-heal|p1a: Ceruledge|100/100|[from] drain|[of] p2a: Zapdos
+|
+|upkeep
+|turn|14
+|
+|t:|1773089142
+|switch|p2a: Meganium|Meganium, M|9/100
+|move|p1a: Ceruledge|Swords Dance|p1a: Ceruledge
+|-boost|p1a: Ceruledge|atk|2
+|
+|upkeep
+|turn|15
+|
+|t:|1773089152
+|move|p2a: Meganium|Recover|p2a: Meganium
+|-heal|p2a: Meganium|59/100
+|move|p1a: Ceruledge|Poltergeist|p2a: Meganium
+|-activate|p2a: Meganium|move: Poltergeist|Heavy-Duty Boots
+|-damage|p2a: Meganium|0 fnt
+|faint|p2a: Meganium
+|
+|upkeep
+|
+|t:|1773089156
+|switch|p2a: Gholdengo|Gholdengo|100/100
+|turn|16
+|
+|t:|1773089170
+|move|p2a: Gholdengo|Shadow Ball|p1a: Ceruledge
+|-supereffective|p1a: Ceruledge
+|-damage|p1a: Ceruledge|4/100
+|-unboost|p1a: Ceruledge|spd|1
+|move|p1a: Ceruledge|Bitter Blade|p2a: Gholdengo
+|-supereffective|p2a: Gholdengo
+|-damage|p2a: Gholdengo|0 fnt
+|-heal|p1a: Ceruledge|58/100|[from] drain|[of] p2a: Gholdengo
+|faint|p2a: Gholdengo
+|
+|upkeep
+|c|☆ceiiardoor|YOOO
+|c|☆elmocapalot|what do u feed ur ceru
+|c|☆ceiiardoor|Oatmeal 
+|inactive|elmocapalot has 120 seconds left.
+|
+|t:|1773089201
+|switch|p2a: Great Tusk|Great Tusk|60/100
+|turn|17
+|inactive|elmocapalot has 120 seconds left.
+|
+|t:|1773089207
+|move|p1a: Ceruledge|Endure|p1a: Ceruledge
+|-singleturn|p1a: Ceruledge|move: Endure
+|move|p2a: Great Tusk|Headlong Rush|p1a: Ceruledge
+|-supereffective|p1a: Ceruledge
+|-activate|p1a: Ceruledge|move: Endure
+|-damage|p1a: Ceruledge|1/100
+|-unboost|p2a: Great Tusk|def|1
+|-unboost|p2a: Great Tusk|spd|1
+|-ability|p1a: Ceruledge|Weak Armor|boost
+|-unboost|p1a: Ceruledge|def|1
+|-boost|p1a: Ceruledge|spe|2
+|
+|upkeep
+|turn|18
+|
+|t:|1773089211
+|-end|p2a: Great Tusk|Protosynthesis|[silent]
+|switch|p2a: Zapdos|Zapdos|53/100
+|move|p1a: Ceruledge|Bitter Blade|p2a: Zapdos
+|-damage|p2a: Zapdos|0 fnt
+|-heal|p1a: Ceruledge|35/100|[from] drain|[of] p2a: Zapdos
+|faint|p2a: Zapdos
+|
+|upkeep
+|c|☆elmocapalot|ggs
+|
+|t:|1773089217
+|switch|p2a: Dragalge|Dragalge-Mega, M|100/100
+|turn|19
+|
+|t:|1773089220
+|-zpower|p1a: Ceruledge
+|move|p1a: Ceruledge|Never-Ending Nightmare|p2a: Dragalge|[zeffect]
+|-damage|p2a: Dragalge|0 fnt
+|faint|p2a: Dragalge
+|detailschange|p2: Dragalge|Dragalge, M|[silent]
+|
+|upkeep
+|-message|elmocapalot forfeited.
+|
+|win|ceiiardoor
+|raw|ceiiardoor's rating: 1369 &rarr; <strong>1377</strong><br />(+8 for winning)
+|raw|elmocapalot's rating: 1129 &rarr; <strong>1122</strong><br />(-7 for losing)
+|l|☆elmocapalot
+|player|p2|

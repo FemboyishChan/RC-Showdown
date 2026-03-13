@@ -1,0 +1,1 @@
+|player|p1|Test1|1`n|player|p2|Test2|2`n|tier|[Gen 9] OU
