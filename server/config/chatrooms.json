@@ -1,5 +1,5 @@
 [
-{"title":"Lobby","auth":{},"creationTime":1741651200000,"autojoin":true,"section":"official"},
+{"title":"Lobby","auth":{"jahim":"#","articunofan153":"#"},"creationTime":1741651200000,"autojoin":true,"section":"official"},
 {"title":"Staff","auth":{},"creationTime":1741651200000,"isPrivate":"hidden","modjoin":"%","autojoin":true},
-{"title":"VGC","auth":{},"creationTime":1741651200000,"desc":"The home of RC VGC! Discuss VGC formats, strategy, and team building. Use /tour join to enter hourly VGC auto-tournaments.","section":"official"}
+{"title":"VGC","auth":{"squib":"#","jahim":"#"},"creationTime":1741651200000,"desc":"The home of RC VGC! Discuss VGC formats, strategy, and team building. Use /tour join to enter hourly VGC auto-tournaments.","section":"official"}
 ]

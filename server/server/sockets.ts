@@ -344,9 +344,9 @@ export class ServerStream extends Streams.ObjectReadWriteStream<string> {
 			
 			// Client server - serves the Pokemon Showdown client directly from the server
 			// This allows accessing the full client by visiting http://localhost:8000
-			const clientPath = config.clientpath || '../../client/play.pokemonshowdown.com';
+			const clientPath = '../../client/play.pokemonshowdown.com';
 			const clientServer = new StaticServer(clientPath);
-			const clientConfigPath = config.clientconfigpath || '../../client/config';
+			const clientConfigPath = '../../client/config';
 			const clientConfigServer = new StaticServer(clientConfigPath);
 			console.log(`Serving client from: ${clientPath}`);
 			
@@ -492,8 +492,17 @@ export class ServerStream extends Streams.ObjectReadWriteStream<string> {
 			socketip = socketip.split(',')[0].trim();
 		}
 
-		if (socketip.includes(':') && !socketip.includes('.')) {
-			socketip = '0.0.0.0';
+		// convert IPv4-mapped IPv6
+		if (socketip.startsWith('::ffff:')) {
+			socketip = socketip.slice(7);
+		}
+		// hash real IPv6
+		else if (socketip.includes(':')) {
+			socketip = 'v6:' + require('crypto')
+				.createHash('sha1')
+				.update(socketip)
+				.digest('hex')
+				.slice(0, 16);
 		}
 		
 		if (this.isTrustedProxyIp(socketip)) {

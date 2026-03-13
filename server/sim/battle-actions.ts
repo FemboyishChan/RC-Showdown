@@ -1906,6 +1906,22 @@ export class BattleActions {
 			}
 		}
 
+		// will finish coding this later, not important since zygarde is banned
+		if (speciesid === 'Zygarde-Mega') {
+			const coreEnforcer = pokemon.moveSlots.findIndex(x => x.id === 'coreenforcer');
+			if (coreEnforcer >= 0) {
+				const nihilLight = this.battle.dex.moves.get('nihillight');
+				pokemon.moveSlots[coreEnforcer] = pokemon.baseMoveSlots[coreEnforcer] = {
+					id: nihilLight.id,
+					move: nihilLight.name,
+					pp: pokemon.moveSlots[coreEnforcer].pp,
+					maxpp: pokemon.moveSlots[coreEnforcer].maxpp,
+					disabled: false,
+					used: false,
+				};
+			}
+		}
+
 		this.battle.runEvent('AfterMega', pokemon);
 		return true;
 	}
