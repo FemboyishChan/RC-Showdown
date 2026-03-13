@@ -27173,7 +27173,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     "weightkg": 330,
     "color": "White",
     "tags": [
-      "Restricted Legendary"
+      "Restricted Legendary",
+      "UNOB"
     ],
     "eggGroups": [
       "Undiscovered"
@@ -27203,7 +27204,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     "weightkg": 345,
     "color": "Black",
     "tags": [
-      "Restricted Legendary"
+      "Restricted Legendary",
+      "UNOB"
     ],
     "eggGroups": [
       "Undiscovered"
