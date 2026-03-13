@@ -2615,11 +2615,11 @@ export const Abilities: import('../sim/dex-abilities').AbilityDataTable = {
 				}
 			}
 		},
-		onDamagingHit(damage, target, source, move) {
-			if (source.item && target.item && move.category !== 'Status') {
-				const targetItem = target.takeItem(source);
-				if (targetItem) {
-					this.add('-enditem', target, targetItem, '[from] ability: Magician', `[of] ${source}`);
+		onAfterHit(target, source) {
+			if (source.hp) {
+				const item = target.takeItem();
+				if (item) {
+					this.add('-enditem', target, item.name, '[from] ability: Magician', `[of] ${source}`);
 				}
 			}
 		},
@@ -5707,13 +5707,13 @@ export const Abilities: import('../sim/dex-abilities').AbilityDataTable = {
 	windrider: {
 		onStart(pokemon) {
 			if (pokemon.side.sideConditions['tailwind']) {
-				const statBoost = pokemon.stats.spa > pokemon.stats.atk ? {spa: 1} : {atk: 1};
+				const statBoost = pokemon.getStat('spa') > pokemon.getStat('atk')? {spa: 1} : {atk: 1};
 				this.boost(statBoost, pokemon, pokemon);
 			}
 		},
 		onTryHit(target, source, move) {
 			if (target !== source && move.flags['wind']) {
-				const statBoost = target.stats.spa > target.stats.atk ? {spa: 1} : {atk: 1};
+				const statBoost = target.getStat('spa') > target.getStat('atk') ? {spa: 1} : {atk: 1};
 				if (!this.boost(statBoost, target, target)) {
 					this.add('-immune', target, '[from] ability: Wind Rider');
 				}
