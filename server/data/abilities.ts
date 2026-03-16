@@ -955,14 +955,14 @@ export const Abilities: import('../sim/dex-abilities').AbilityDataTable = {
 		onSwitchIn(pokemon) {
 			let activated = false;
 			for (const sideCondition of ['stealthrock']) {
-				for (const side of [pokemon.side.foe]) {
-					if (side && side.getSideCondition(sideCondition)) {
-						if (!activated) {
-							this.add('-activate', pokemon, 'ability: Detonating Shell');
-							activated = true;
-						}
-						side.removeSideCondition(sideCondition);
+				const side = pokemon.side;
+				if (side && side.getSideCondition(sideCondition)) {
+					if (!activated) {
+						this.add('-activate', pokemon, 'ability: Detonating Shell');
+						activated = true;
 					}
+					this.add('-sideend', side, this.dex.conditions.get(sideCondition).name, '[from] ability: Detonating Shell', `[of] ${pokemon}`);
+					side.removeSideCondition(sideCondition);
 				}
 			}
 		},
