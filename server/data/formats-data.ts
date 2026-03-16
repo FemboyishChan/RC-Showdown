@@ -926,11 +926,11 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	starmie: {
 		isNonstandard: "Past",
 		tier: "Illegal",
-		natDexTier: "UU",
+		natDexTier: "Uber",
 	},
 	starmiemega: {
 		tier: "Uber",
-		natDexTier: "UU",
+		natDexTier: "Uber",
 	},
 	mimejr: {
 		isNonstandard: "Past",
@@ -3933,12 +3933,12 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	meowsticmmega: {	
 		tier: "Uber",
 		doublesTier: "DUber",
-		natDexTier: "UU",
+		natDexTier: "Uber",
 	},
 	meowsticfmega: {
 		tier: "Uber",
 		doublesTier: "DUber",
-		natDexTier: "UU",
+		natDexTier: "Uber",
 	},
 	honedge: {
 		isNonstandard: "Past",
