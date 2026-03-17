@@ -103,7 +103,7 @@ const _AllFormats: import('../sim/dex-formats').FormatList = [
 		gameType: 'doubles',
 		bestOfDefault: true,
 		ruleset: ['Flat Rules', 'Standard NatDex', '! Sleep Clause Mod', 'Terastal Clause', '!! Adjust Level = 50', 'VGC Timer', 'Force Open Team Sheets', '! OHKO Clause', '! Evasion Clause'],
-		banlist: ['Sub-Legendary', 'Paradox', 'Mythical', 'UNOB'],
+		banlist: ['Sub-Legendary', 'Paradox', 'UNOB'],
 	},
 	{
 		name: "[Gen 9] NatDex RC VGC 2026 Reg B",
@@ -111,7 +111,7 @@ const _AllFormats: import('../sim/dex-formats').FormatList = [
 		gameType: 'doubles',
 		bestOfDefault: true,
 		ruleset: ['Flat Rules', 'Standard NatDex', '! Sleep Clause Mod', 'Terastal Clause', '!! Adjust Level = 50', 'VGC Timer', 'Force Open Team Sheets', '! OHKO Clause', '! Evasion Clause'],
-		banlist: ['Mythical', 'UNOB'],
+		banlist: ['UNOB'],
 	},
 	{
 		name: "[Gen 9] NatDex RC VGC 2026 Reg C",
@@ -120,7 +120,7 @@ const _AllFormats: import('../sim/dex-formats').FormatList = [
 		bestOfDefault: true,
 		ruleset: ['Flat Rules', 'Standard NatDex', '! Sleep Clause Mod', 'Terastal Clause', '!! Adjust Level = 50', 'VGC Timer', 'Force Open Team Sheets', '! OHKO Clause', '! Evasion Clause', 'Limit Two Restricted'],
 		restricted: ['Restricted Legendary'],
-		banlist: ['Mythical', 'UNOB'],
+		banlist: ['UNOB'],
 	},
 	{
 		name: "[Gen 9] NatDex RC VGC Alphabet Cup",
@@ -128,7 +128,7 @@ const _AllFormats: import('../sim/dex-formats').FormatList = [
 		gameType: 'doubles',
 		bestOfDefault: true,
 		ruleset: ['Flat Rules', 'Standard NatDex', '! Sleep Clause Mod', 'Terastal Clause', '!! Adjust Level = 50', 'VGC Timer', 'Force Open Team Sheets', '! OHKO Clause', '! Evasion Clause', 'Alphabet Same Letter', 'Limit Two Special Category'],
-		banlist: ['Restricted Legendary', 'Mythical', 'UNOB'],
+		banlist: ['UNOB'],
 	},
 
 	// S/V Singles
