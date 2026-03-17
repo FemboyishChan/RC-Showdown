@@ -30,7 +30,7 @@ const _AllFormats: import('../sim/dex-formats').FormatList = [
 		banlist: [
 			'ND Uber', 'ND AG', 'Arena Trap', 'Moody', 'Power Construct', 'Shadow Tag', 'King\'s Rock',
 			'Quick Claw', 'Razor Fang', 'Assist', 'Baton Pass', 'Last Respects', 'Shed Tail', 'Buzzy Buzz', 'Sizzly Slide',
-			'Revival Blessing', 'Greninja + Nasty Plot', 'Glaciate',
+			'Revival Blessing', 'Greninja + Nasty Plot', 'Glaciate', 'UNOB',
 		],
 	},
 	{
@@ -40,7 +40,7 @@ const _AllFormats: import('../sim/dex-formats').FormatList = [
 		banlist: [
 			'ND Uber', 'ND AG', 'Arena Trap', 'Moody', 'Power Construct', 'Shadow Tag', 'King\'s Rock',
 			'Quick Claw', 'Razor Fang', 'Assist', 'Baton Pass', 'Last Respects', 'Shed Tail', 'Buzzy Buzz', 'Sizzly Slide',
-			'Revival Blessing', 'Greninja + Nasty Plot', 'Glaciate',
+			'Revival Blessing', 'Greninja + Nasty Plot', 'Glaciate', 'UNOB',
 		],
 	},
 	{
@@ -48,7 +48,7 @@ const _AllFormats: import('../sim/dex-formats').FormatList = [
 		mod: 'gen9',
 		ruleset: ['[Gen 9] National Dex'],
 		banlist: ['ND OU', 'ND UUBL', 'Drizzle', 'Drought', 'Light Clay', 'Buzzy Buzz', 'Sizzly Slide',
-			'Revival Blessing',
+			'Revival Blessing', 'UNOB',
 		],
 	},
 	{
@@ -56,7 +56,7 @@ const _AllFormats: import('../sim/dex-formats').FormatList = [
 		mod: 'gen9',
 		ruleset: ['[Gen 9] National Dex', 'Blitz'],
 		banlist: ['ND OU', 'ND UUBL', 'Drizzle', 'Drought', 'Light Clay', 'Buzzy Buzz', 'Sizzly Slide',
-			'Revival Blessing',
+			'Revival Blessing', 'UNOB',
 		],
 	},
 	{
@@ -65,7 +65,7 @@ const _AllFormats: import('../sim/dex-formats').FormatList = [
 		ruleset: ['Standard NatDex', 'Terastal Clause'],
 		banlist: ['ND AG', 'Arena Trap', 'Moody', 'Shadow Tag', 'King\'s Rock',
 			'Quick Claw', 'Razor Fang', 'Assist', 'Baton Pass', 'Last Respects', 'Shed Tail',
-			'Revival Blessing',
+			'Revival Blessing', 'UNOB',
 		],
 	},
 	{
@@ -94,7 +94,7 @@ const _AllFormats: import('../sim/dex-formats').FormatList = [
 			'Zekrom', 'Zygarde', 'Zygarde-Complete',
 			'Metagross-Mega', 'Gengar-Mega', 'Chandelure-Mega', 'Floette-Eternal-Mega',
 			'Commander', 'Shadow Tag', 'Arena Trap', 'Power Construct',
-			'Assist', 'Dark Void',
+			'Assist', 'Dark Void', 'UNOB',
 		],
 	},
 	{
@@ -103,7 +103,7 @@ const _AllFormats: import('../sim/dex-formats').FormatList = [
 		gameType: 'doubles',
 		bestOfDefault: true,
 		ruleset: ['Flat Rules', 'Standard NatDex', '! Sleep Clause Mod', 'Terastal Clause', '!! Adjust Level = 50', 'VGC Timer', 'Force Open Team Sheets', '! OHKO Clause', '! Evasion Clause'],
-		banlist: ['Sub-Legendary', 'Paradox'],
+		banlist: ['Sub-Legendary', 'Paradox', 'Mythical', 'UNOB'],
 	},
 	{
 		name: "[Gen 9] NatDex RC VGC 2026 Reg B",
@@ -111,6 +111,7 @@ const _AllFormats: import('../sim/dex-formats').FormatList = [
 		gameType: 'doubles',
 		bestOfDefault: true,
 		ruleset: ['Flat Rules', 'Standard NatDex', '! Sleep Clause Mod', 'Terastal Clause', '!! Adjust Level = 50', 'VGC Timer', 'Force Open Team Sheets', '! OHKO Clause', '! Evasion Clause'],
+		banlist: ['Mythical', 'UNOB'],
 	},
 	{
 		name: "[Gen 9] NatDex RC VGC 2026 Reg C",
@@ -119,6 +120,7 @@ const _AllFormats: import('../sim/dex-formats').FormatList = [
 		bestOfDefault: true,
 		ruleset: ['Flat Rules', 'Standard NatDex', '! Sleep Clause Mod', 'Terastal Clause', '!! Adjust Level = 50', 'VGC Timer', 'Force Open Team Sheets', '! OHKO Clause', '! Evasion Clause', 'Limit Two Restricted'],
 		restricted: ['Restricted Legendary'],
+		banlist: ['Mythical', 'UNOB'],
 	},
 	{
 		name: "[Gen 9] NatDex RC VGC Alphabet Cup",
@@ -126,6 +128,7 @@ const _AllFormats: import('../sim/dex-formats').FormatList = [
 		gameType: 'doubles',
 		bestOfDefault: true,
 		ruleset: ['Flat Rules', 'Standard NatDex', '! Sleep Clause Mod', 'Terastal Clause', '!! Adjust Level = 50', 'VGC Timer', 'Force Open Team Sheets', '! OHKO Clause', '! Evasion Clause', 'Alphabet Same Letter', 'Limit Two Special Category'],
+		banlist: ['Restricted Legendary', 'Mythical', 'UNOB'],
 	},
 
 	// S/V Singles

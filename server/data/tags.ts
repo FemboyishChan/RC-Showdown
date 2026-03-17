@@ -56,7 +56,18 @@ export const Tags: { [id: IDEntry]: TagData } = {
 	},
 	unob: {
 		name: "UNOB",
-		speciesFilter: species => species.tags.includes("UNOB"),
+		speciesFilter: species => {
+			const extra = new Set([
+				"zacian", "zamazenta", "eternatus", "calyrex", "spectrier", "glastrier",
+				"ogerpon", "miraidon", "terapagos", "chienpao", "chiyu", "wochien", "tinglu",
+				"okidogi", "monkidi", "fezandipidi", "pechurang", "zekrom", "reshiram",
+				"tapufini", "tapulele", "tapubulu", "kyuremwhite", "kyuremblack",
+				"floetteeternal", "necrozma",
+				"nihilego", "buzzwole", "pheromosa", "xurkitree", "celesteela",
+				"kartana", "guzzlord", "naganadel", "stakataka", "blacephalon",
+			]);
+			return species.tags.includes("UNOB") || extra.has(species.id);
+		},
 	},
 
 	// Move tags
