@@ -21,6 +21,7 @@ export interface SpeciesData extends Partial<Species> {
 	baseStats: StatsTable;
 	eggGroups: string[];
 	weightkg: number;
+	credit?: string;
 }
 export interface CosmeticFormeData {
 	isCosmeticForme: boolean;
@@ -181,7 +182,7 @@ export class Species extends BasicEffect implements Readonly<BasicEffect & Speci
 	/** Evolution move. falsy if doesn't evolve. */
 	readonly evoMove?: string;
 	/** Region required to be in for evolution. falsy if doesn't evolve. */
-	readonly evoRegion?: 'Alola' | 'Galar';
+	readonly evoRegion?: 'Alola' | 'Galar' | "Lost Islands" | "Grove of Dreams" | "Lost Islands/Grove of Dreams";
 	/** Evolution level. falsy if doesn't evolve. */
 	readonly evoLevel?: number;
 	/** Is NFE? True if this Pokemon can evolve (Mega evolution doesn't count). */

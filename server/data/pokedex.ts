@@ -290,6 +290,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Monster",
       "Dragon"
     ],
+    "credit": "RuudDude",
     "otherFormes": [
       "Charizard-Mega-X",
       "Charizard-Mega-Y"
@@ -333,6 +334,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Monster",
       "Dragon"
     ],
+    "credit": "RuudDude",
     "requiredItem": "Charizardite X",
     "tier": "OU"
   },
@@ -367,6 +369,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Monster",
       "Dragon"
     ],
+    "credit": "RuudDude",
     "requiredItem": "Charizardite Y",
     "tier": "OU"
   },
@@ -518,7 +521,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Blastoise-Mega"
     ],
     "canGigantamax": "G-Max Cannonade",
-    "tier": "UU"
+    "tier": "UU",
+    "credit": "Toxic"
   },
   "blastoisemega": {
     "num": 9,
@@ -551,7 +555,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Water 1"
     ],
     "requiredItem": "Blastoisinite",
-    "tier": "Uber"
+    "tier": "UUber",
+    "credit": "Toxic"
   },
   "blastoisegmax": {
     "num": 9,
@@ -801,7 +806,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Beedrill",
       "Beedrill-Mega"
     ],
-    "tier": "Illegal"
+    "tier": "Illegal",
+    "credit": "N2Shades"
   },
   "beedrillmega": {
     "num": 15,
@@ -1188,7 +1194,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     "eggGroups": [
       "Flying"
     ],
-    "tier": "Illegal"
+    "tier": "Illegal",
+    "credit": "yyumi"
   },
   "ekans": {
     "num": 23,
@@ -1250,7 +1257,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Field",
       "Dragon"
     ],
-    "tier": "UU"
+    "tier": "UU",
+    "credit": "chisome"
   },
   "pikachu": {
     "num": 25,
@@ -1866,6 +1874,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     "prevo": "Pikachu",
     "evoType": "useItem",
     "evoItem": "Thunder Stone",
+    "evoRegion": "Lost Islands/Grove of Dreams",
     "eggGroups": [
       "Field",
       "Fairy"
@@ -2005,7 +2014,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     "eggGroups": [
       "Field"
     ],
-    "tier": "UU"
+    "tier": "UU",
+    "credit": "chisome"
   },
   "nidoranf": {
     "num": 29,
@@ -2102,7 +2112,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     "eggGroups": [
       "Undiscovered"
     ],
-    "tier": "Illegal"
+    "tier": "Illegal",
+    "credit": "victini doesn't play"
   },
   "nidoranm": {
     "num": 32,
@@ -2202,7 +2213,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Monster",
       "Field"
     ],
-    "tier": "Illegal"
+    "tier": "Illegal",
+    "credit": "victini doesn't play & BP"
   },
   "clefairy": {
     "num": 35,
@@ -2464,7 +2476,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     "eggGroups": [
       "Field"
     ],
-    "tier": "UU"
+    "tier": "UU",
+    "credit": "ArticunoFan"
   },
   "jigglypuff": {
     "num": 39,
@@ -2536,7 +2549,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     "eggGroups": [
       "Fairy"
     ],
-    "tier": "UU"
+    "tier": "UU",
+    "credit": "Kev"
   },
   "zubat": {
     "num": 41,
@@ -2628,6 +2642,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     "evos": [
       "Gloom"
     ],
+    "credit": "RuudDude",
     "eggGroups": [
       "Grass"
     ],
@@ -2662,6 +2677,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Vileplume",
       "Bellossom"
     ],
+    "credit": "RuudDude",
     "eggGroups": [
       "Grass"
     ],
@@ -2693,6 +2709,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     "prevo": "Gloom",
     "evoType": "useItem",
     "evoItem": "Leaf Stone",
+    "credit": "RuudDude",
     "eggGroups": [
       "Grass"
     ],
@@ -2759,7 +2776,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Bug",
       "Grass"
     ],
-    "tier": "Illegal"
+    "tier": "Illegal",
+    "credit": "shipping"
   },
   "venonat": {
     "num": 48,
@@ -3221,7 +3239,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Water 1",
       "Field"
     ],
-    "tier": "UU"
+    "tier": "UU",
+    "credit": "chisome"
   },
   "mankey": {
     "num": 56,
@@ -3533,7 +3552,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     "eggGroups": [
       "Water 1"
     ],
-    "tier": "UU"
+    "tier": "UU",
+    "credit": "yyumi"
   },
   "abra": {
     "num": 63,
@@ -4003,7 +4023,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     "eggGroups": [
       "Water 3"
     ],
-    "tier": "UU"
+    "tier": "UU",
+    "credit": "chisome"
   },
   "geodude": {
     "num": 74,
@@ -4323,7 +4344,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Rapidash",
       "Rapidash-Galar"
     ],
-    "tier": "Illegal"
+    "tier": "Illegal",
+    "credit": "chisome"
   },
   "rapidashgalar": {
     "num": 78,
@@ -4603,7 +4625,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
   },
   "farfetchd": {
     "num": 83,
-    "name": "Farfetchâd",
+    "name": "Farfetch’d",
     "types": [
       "Normal",
       "Flying"
@@ -4629,18 +4651,18 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Field"
     ],
     "otherFormes": [
-      "Farfetchâd-Galar"
+      "Farfetch’d-Galar"
     ],
     "formeOrder": [
-      "Farfetchâd",
-      "Farfetchâd-Galar"
+      "Farfetch’d",
+      "Farfetch’d-Galar"
     ],
     "tier": "Illegal"
   },
   "farfetchdgalar": {
     "num": 83,
-    "name": "Farfetchâd-Galar",
-    "baseSpecies": "Farfetchâd",
+    "name": "Farfetch’d-Galar",
+    "baseSpecies": "Farfetch’d",
     "forme": "Galar",
     "types": [
       "Fighting"
@@ -4661,13 +4683,14 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     "weightkg": 42,
     "color": "Brown",
     "evos": [
-      "Sirfetchâd"
+      "Sirfetch’d"
     ],
     "eggGroups": [
       "Flying",
       "Field"
     ],
-    "tier": "Illegal"
+    "tier": "Illegal",
+    "credit": "KRTS"
   },
   "doduo": {
     "num": 84,
@@ -4728,7 +4751,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     "eggGroups": [
       "Flying"
     ],
-    "tier": "UU"
+    "tier": "UU",
+    "credit": "BP"
   },
   "seel": {
     "num": 86,
@@ -4790,7 +4814,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Water 1",
       "Field"
     ],
-    "tier": "UU"
+    "tier": "UU",
+    "credit": "yyumi"
   },
   "grimer": {
     "num": 88,
@@ -4860,7 +4885,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     "eggGroups": [
       "Amorphous"
     ],
-    "tier": "LC"
+    "tier": "LC",
+    "credit": "Azuriter"
   },
   "muk": {
     "num": 89,
@@ -4928,7 +4954,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     "eggGroups": [
       "Amorphous"
     ],
-    "tier": "OU"
+    "tier": "OU",
+    "credit": "Azuriter"
   },
   "shellder": {
     "num": 90,
@@ -5049,7 +5076,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     "eggGroups": [
       "Amorphous"
     ],
-    "tier": "NFE"
+    "tier": "NFE",
+    "credit": "Azuriter"
   },
   "gengar": {
     "num": 94,
@@ -5085,7 +5113,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Gengar-Mega"
     ],
     "canGigantamax": "G-Max Terror",
-    "tier": "OU"
+    "tier": "OU",
+    "credit": "Azuriter"
   },
   "gengarmega": {
     "num": 94,
@@ -5234,7 +5263,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     "eggGroups": [
       "Human-Like"
     ],
-    "tier": "UU"
+    "tier": "UU",
+    "credit": "Kev"
   },
   "krabby": {
     "num": 98,
@@ -5433,7 +5463,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Electrode",
       "Electrode-Hisui"
     ],
-    "tier": "UU"
+    "tier": "UU",
+    "credit": "yyumi"
   },
   "electrodehisui": {
     "num": 101,
@@ -5565,10 +5596,12 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     "prevo": "Exeggcute",
     "evoType": "useItem",
     "evoItem": "Leaf Stone",
+    "evoRegion": "Lost Islands/Grove of Dreams",
     "eggGroups": [
       "Grass"
     ],
-    "tier": "UU"
+    "tier": "UU",
+    "credit": "ShadesVGC"
   },
   "cubone": {
     "num": 104,
@@ -5667,6 +5700,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     "prevo": "Cubone",
     "evoLevel": 28,
     "evoCondition": "at night",
+    "evoRegion": "Lost Islands/Grove of Dreams",
     "eggGroups": [
       "Monster"
     ],
@@ -5756,7 +5790,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     "color": "Brown",
     "prevo": "Tyrogue",
     "evoType": "useItem",
-    "evoItem": "Dawm Stone",
+    "evoItem": "Dawn Stone",
     "eggGroups": [
       "Human-Like"
     ],
@@ -5956,7 +5990,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Monster",
       "Field"
     ],
-    "tier": "UU"
+    "tier": "UU",
+    "credit": "KRTS"
   },
   "chansey": {
     "num": 113,
@@ -6086,7 +6121,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Monster"
     ],
     "requiredItem": "Kangaskhanite",
-    "tier": "Uber"
+    "tier": "UUber"
   },
   "horsea": {
     "num": 116,
@@ -6180,7 +6215,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     "eggGroups": [
       "Water 2"
     ],
-    "tier": "Illegal"
+    "tier": "Illegal",
+    "credit": "Ruckus"
   },
   "seaking": {
     "num": 119,
@@ -6209,7 +6245,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     "eggGroups": [
       "Water 2"
     ],
-    "tier": "Illegal"
+    "tier": "Illegal",
+    "credit": "Ruckus"
   },
   "staryu": {
     "num": 120,
@@ -6240,7 +6277,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     "eggGroups": [
       "Water 3"
     ],
-    "tier": "Illegal"
+    "tier": "Illegal",
+    "credit": "Azuriter"
   },
   "starmie": {
     "num": 121,
@@ -6279,7 +6317,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Starmie",
       "Starmie-Mega"
     ],
-    "tier": "Illegal"
+    "tier": "Illegal",
+    "credit": "Azuriter"
   },
   "starmiemega": {
     "num": 121,
@@ -6310,7 +6349,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     ],
     "requiredItem": "Starminite",
     "gen": 9,
-    "tier": "Uber"
+    "tier": "UUber"
   },
   "mrmime": {
     "num": 122,
@@ -6450,7 +6489,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     "eggGroups": [
       "Human-Like"
     ],
-    "tier": "OU"
+    "tier": "OU",
+    "credit": "yyumi"
   },
   "electabuzz": {
     "num": 125,
@@ -6949,7 +6989,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Eevee-Starter"
     ],
     "canGigantamax": "G-Max Cuddle",
-    "tier": "LC"
+    "tier": "LC",
+    "credit": "Azuriter"
   },
   "eeveestarter": {
     "num": 133,
@@ -7050,7 +7091,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     "eggGroups": [
       "Field"
     ],
-    "tier": "UU"
+    "tier": "UU",
+    "credit": "Azuriter"
   },
   "jolteon": {
     "num": 135,
@@ -7083,7 +7125,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     "eggGroups": [
       "Field"
     ],
-    "tier": "UU"
+    "tier": "UU",
+    "credit": "Azuriter"
   },
   "flareon": {
     "num": 136,
@@ -7116,7 +7159,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     "eggGroups": [
       "Field"
     ],
-    "tier": "UU"
+    "tier": "UU",
+    "credit": "Azuriter"
   },
   "porygon": {
     "num": 137,
@@ -7147,7 +7191,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     "eggGroups": [
       "Mineral"
     ],
-    "tier": "NFE"
+    "tier": "NFE",
+    "credit": "Azuriter"
   },
   "omanyte": {
     "num": 138,
@@ -7254,7 +7299,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Water 1",
       "Water 3"
     ],
-    "tier": "Illegal"
+    "tier": "Illegal",
+    "credit": "Azuriter"
   },
   "kabutops": {
     "num": 141,
@@ -7289,7 +7335,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Water 1",
       "Water 3"
     ],
-    "tier": "Illegal"
+    "tier": "Illegal",
+    "credit": "Azuriter"
   },
   "aerodactyl": {
     "num": 142,
@@ -7396,7 +7443,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     ],
     "canHatch": true,
     "canGigantamax": "G-Max Replenish",
-    "tier": "UU"
+    "tier": "UU",
+    "credit": "ArticunoFan"
   },
   "snorlaxgmax": {
     "num": 143,
@@ -7468,7 +7516,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Articuno",
       "Articuno-Galar"
     ],
-    "tier": "UU"
+    "tier": "UU",
+    "credit": "ArticunoFan"
   },
   "articunogalar": {
     "num": 144,
@@ -7761,7 +7810,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     ],
     "requiredItem": "Dragoninite",
     "gen": 9,
-    "tier": "Uber"
+    "tier": "UUber"
   },
   "mewtwo": {
     "num": 150,
@@ -8181,10 +8230,12 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     "color": "Yellow",
     "prevo": "Quilava",
     "evoLevel": 36,
+    "evoRegion": "Lost Islands/Grove of Dreams",
     "eggGroups": [
       "Field"
     ],
-    "tier": "OU"
+    "tier": "OU",
+    "credit": "Kirb"
   },
   "totodile": {
     "num": 158,
@@ -8392,7 +8443,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     "eggGroups": [
       "Field"
     ],
-    "tier": "UU"
+    "tier": "UU",
+    "credit": "YuriSimp"
   },
   "hoothoot": {
     "num": 163,
@@ -8453,7 +8505,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     "eggGroups": [
       "Flying"
     ],
-    "tier": "OU"
+    "tier": "OU",
+    "credit": "chisome"
   },
   "ledyba": {
     "num": 165,
@@ -8514,7 +8567,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     "eggGroups": [
       "Bug"
     ],
-    "tier": "Illegal"
+    "tier": "Illegal",
+    "credit": "DoodleLux"
   },
   "spinarak": {
     "num": 167,
@@ -8575,7 +8629,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     "eggGroups": [
       "Bug"
     ],
-    "tier": "UU"
+    "tier": "UU",
+    "credit": "chisome"
   },
   "crobat": {
     "num": 169,
@@ -8636,7 +8691,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     "eggGroups": [
       "Water 2"
     ],
-    "tier": "LC"
+    "tier": "LC",
+    "credit": "Azuriter"
   },
   "lanturn": {
     "num": 171,
@@ -8666,7 +8722,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     "eggGroups": [
       "Water 2"
     ],
-    "tier": "UU"
+    "tier": "UU",
+    "credit": "Azuriter"
   },
   "pichu": {
     "num": 172,
@@ -8916,11 +8973,11 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Flying"
     ],
     "baseStats": {
-      "hp": 85,
-      "atk": 45,
-      "def": 80,
+      "hp": 65,
+      "atk": 75,
+      "def": 70,
       "spa": 95,
-      "spd": 100,
+      "spd": 70,
       "spe": 95
     },
     "abilities": {
@@ -8967,7 +9024,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Monster",
       "Field"
     ],
-    "tier": "LC"
+    "tier": "LC",
+    "credit": "Azuriter"
   },
   "flaaffy": {
     "num": 180,
@@ -9000,7 +9058,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Monster",
       "Field"
     ],
-    "tier": "NFE"
+    "tier": "NFE",
+    "credit": "Azuriter"
   },
   "ampharos": {
     "num": 181,
@@ -9037,7 +9096,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Ampharos",
       "Ampharos-Mega"
     ],
-    "tier": "UU"
+    "tier": "UU",
+    "credit": "Azuriter"
   },
   "ampharosmega": {
     "num": 181,
@@ -9067,7 +9127,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Field"
     ],
     "requiredItem": "Ampharosite",
-    "tier": "Illegal"
+    "tier": "Illegal",
+    "credit": "Azuriter"
   },
   "bellossom": {
     "num": 182,
@@ -9097,7 +9158,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     "eggGroups": [
       "Grass"
     ],
-    "tier": "UU"
+    "tier": "UU",
+    "credit": "Katie"
   },
   "marill": {
     "num": 183,
@@ -9224,7 +9286,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     "eggGroups": [
       "Water 1"
     ],
-    "tier": "UU"
+    "tier": "UU",
+    "credit": "Katie"
   },
   "hoppip": {
     "num": 187,
@@ -9321,7 +9384,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Fairy",
       "Grass"
     ],
-    "tier": "UU"
+    "tier": "UU",
+    "credit": "DoodleLux"
   },
   "aipom": {
     "num": 190,
@@ -9412,7 +9476,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     "eggGroups": [
       "Grass"
     ],
-    "tier": "UU"
+    "tier": "UU",
+    "credit": "Maurii"
   },
   "yanma": {
     "num": 193,
@@ -9547,7 +9612,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Water 1",
       "Field"
     ],
-    "tier": "UU"
+    "tier": "UU",
+    "credit": "AboveSurfaces"
   },
   "espeon": {
     "num": 196,
@@ -9613,7 +9679,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     "eggGroups": [
       "Field"
     ],
-    "tier": "UU"
+    "tier": "UU",
+    "credit": "UltraPokeMaster"
   },
   "murkrow": {
     "num": 198,
@@ -9979,6 +10046,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Dudunsparce",
       "Dudunsparce-Three-Segment"
     ],
+    "credit": "Kirb",
     "eggGroups": [
       "Field"
     ],
@@ -10051,7 +10119,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Steelix",
       "Steelix-Mega"
     ],
-    "tier": "Illegal"
+    "tier": "Illegal",
+    "credit": "Maurii & Soul"
   },
   "steelixmega": {
     "num": 208,
@@ -10149,7 +10218,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Field",
       "Fairy"
     ],
-    "tier": "UU"
+    "tier": "UU",
+    "credit": "Katie"
   },
   "qwilfish": {
     "num": 211,
@@ -10896,7 +10966,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     ],
     "requiredItem": "Skarmorite",
     "gen": 9,
-    "tier": "Uber"
+    "tier": "UUber"
   },
   "houndour": {
     "num": 228,
@@ -11025,7 +11095,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Water 1",
       "Dragon"
     ],
-    "tier": "UU"
+    "tier": "UU",
+    "credit": "Azuriter"
   },
   "phanpy": {
     "num": 231,
@@ -11084,7 +11155,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     "eggGroups": [
       "Field"
     ],
-    "tier": "UU"
+    "tier": "UU",
+    "credit": "BP & Katie"
   },
   "porygon2": {
     "num": 233,
@@ -11647,7 +11719,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     "eggGroups": [
       "Undiscovered"
     ],
-    "tier": "Uber"
+    "tier": "UUber"
   },
   "hooh": {
     "num": 250,
@@ -11855,7 +11927,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Dragon"
     ],
     "requiredItem": "Sceptilite",
-    "tier": "Uber"
+    "tier": "UUber"
   },
   "torchic": {
     "num": 255,
@@ -12000,7 +12072,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Field"
     ],
     "requiredItem": "Blazikenite",
-    "tier": "Uber"
+    "tier": "UUber"
   },
   "mudkip": {
     "num": 258,
@@ -12438,7 +12510,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     "eggGroups": [
       "Bug"
     ],
-    "tier": "Illegal"
+    "tier": "Illegal",
+    "credit": "DoodleLux"
   },
   "cascoon": {
     "num": 268,
@@ -12497,7 +12570,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     "eggGroups": [
       "Bug"
     ],
-    "tier": "Illegal"
+    "tier": "Illegal",
+    "credit": "DoodleLux"
   },
   "lotad": {
     "num": 270,
@@ -12736,7 +12810,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "hp": 60,
       "atk": 85,
       "def": 70,
-      "spa": 85,
+      "spa": 105,
       "spd": 70,
       "spe": 125
     },
@@ -13251,6 +13325,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     "color": "Brown",
     "prevo": "Nincada",
     "evoLevel": 20,
+    "credit": "Kirb & darkrai",
     "eggGroups": [
       "Mineral"
     ],
@@ -13412,7 +13487,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     "eggGroups": [
       "Human-Like"
     ],
-    "tier": "UU"
+    "tier": "UU",
+    "credit": "chisome"
   },
   "azurill": {
     "num": 298,
@@ -13709,7 +13785,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     "eggGroups": [
       "Monster"
     ],
-    "tier": "Illegal"
+    "tier": "Illegal",
+    "credit": "SasquatchSir"
   },
   "lairon": {
     "num": 305,
@@ -13742,7 +13819,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     "eggGroups": [
       "Monster"
     ],
-    "tier": "Illegal"
+    "tier": "Illegal",
+    "credit": "SasquatchSir"
   },
   "aggron": {
     "num": 306,
@@ -13779,7 +13857,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Aggron",
       "Aggron-Mega"
     ],
-    "tier": "Illegal"
+    "tier": "Illegal",
+    "credit": "SasquatchSir"
   },
   "aggronmega": {
     "num": 306,
@@ -13807,7 +13886,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Monster"
     ],
     "requiredItem": "Aggronite",
-    "tier": "Illegal"
+    "tier": "Illegal",
+    "credit": "SasquatchSir"
   },
   "meditite": {
     "num": 307,
@@ -14608,8 +14688,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     "num": 329,
     "name": "Vibrava",
     "types": [
-      "Dragon",
-      "Ground"
+      "Bug",
+      "Dragon"
     ],
     "baseStats": {
       "hp": 50,
@@ -14642,8 +14722,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     "num": 330,
     "name": "Flygon",
     "types": [
-      "Dragon",
-      "Ground"
+      "Bug",
+      "Dragon"
     ],
     "baseStats": {
       "hp": 80,
@@ -14667,7 +14747,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Bug",
       "Dragon"
     ],
-    "tier": "UU"
+    "tier": "UU",
+    "credit": "Yoshiality"
   },
   "cacnea": {
     "num": 331,
@@ -14784,6 +14865,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     "color": "Blue",
     "prevo": "Swablu",
     "evoLevel": 35,
+    "credit": "Kirb",
     "eggGroups": [
       "Flying",
       "Dragon"
@@ -14905,7 +14987,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     "eggGroups": [
       "Mineral"
     ],
-    "tier": "Illegal"
+    "tier": "Illegal",
+    "credit": "DoodleLux"
   },
   "solrock": {
     "num": 338,
@@ -14932,7 +15015,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     "eggGroups": [
       "Mineral"
     ],
-    "tier": "Illegal"
+    "tier": "Illegal",
+    "credit": "DoodleLux"
   },
   "barboach": {
     "num": 339,
@@ -15971,7 +16055,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Water 1",
       "Field"
     ],
-    "tier": "Illegal"
+    "tier": "Illegal",
+    "credit": "nanrayan1"
   },
   "clamperl": {
     "num": 366,
@@ -16378,7 +16463,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Mineral"
     ],
     "requiredItem": "Metagrossite",
-    "tier": "Uber"
+    "tier": "UUber"
   },
   "regirock": {
     "num": 377,
@@ -16958,7 +17043,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Undiscovered"
     ],
     "changesFrom": "Deoxys",
-    "tier": "Uber"
+    "tier": "UUber"
   },
   "turtwig": {
     "num": 387,
@@ -17436,6 +17521,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     "color": "Brown",
     "prevo": "Bidoof",
     "evoLevel": 15,
+    "credit": "Kirb",
     "eggGroups": [
       "Water 1",
       "Field"
@@ -17494,6 +17580,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     "color": "Red",
     "prevo": "Kricketot",
     "evoLevel": 10,
+    "credit": "Kirb",
     "eggGroups": [
       "Bug"
     ],
@@ -17589,7 +17676,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     "eggGroups": [
       "Field"
     ],
-    "tier": "UU"
+    "tier": "UU",
+    "credit": "Fishy"
   },
   "budew": {
     "num": 406,
@@ -17653,7 +17741,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Fairy",
       "Grass"
     ],
-    "tier": "Illegal"
+    "tier": "Illegal",
+    "credit": "UltraPokeMaster"
   },
   "cranidos": {
     "num": 408,
@@ -17715,6 +17804,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     "color": "Blue",
     "prevo": "Cranidos",
     "evoLevel": 30,
+    "credit": "Kirb",
     "eggGroups": [
       "Monster"
     ],
@@ -18036,6 +18126,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     "color": "Yellow",
     "prevo": "Combee",
     "evoLevel": 21,
+    "credit": "Kirb",
     "eggGroups": [
       "Bug"
     ],
@@ -18068,7 +18159,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Field",
       "Fairy"
     ],
-    "tier": "UU"
+    "tier": "UU",
+    "credit": "squib"
   },
   "buizel": {
     "num": 418,
@@ -18156,7 +18248,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Fairy",
       "Grass"
     ],
-    "tier": "Illegal"
+    "tier": "Illegal",
+    "credit": "Azu & Fire"
   },
   "cherrim": {
     "num": 421,
@@ -18192,7 +18285,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Cherrim",
       "Cherrim-Sunshine"
     ],
-    "tier": "Illegal"
+    "tier": "Illegal",
+    "credit": "Azu & Fire"
   },
   "cherrimsunshine": {
     "num": 421,
@@ -18222,7 +18316,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Grass"
     ],
     "requiredAbility": "Flower Gift",
-    "battleOnly": "Cherrim"
+    "battleOnly": "Cherrim",
+    "credit": "Azu & Fire"
   },
   "shellos": {
     "num": 422,
@@ -18307,7 +18402,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Gastrodon",
       "Gastrodon-East"
     ],
-    "tier": "UU"
+    "tier": "UU",
+    "credit": "Nat"
   },
   "ambipom": {
     "num": 424,
@@ -18334,6 +18430,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     "prevo": "Aipom",
     "evoType": "levelMove",
     "evoMove": "Double Hit",
+    "credit": "Kirb",
     "eggGroups": [
       "Field"
     ],
@@ -18368,7 +18465,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     "eggGroups": [
       "Amorphous"
     ],
-    "tier": "LC"
+    "tier": "LC",
+    "credit": "Azuriter"
   },
   "drifblim": {
     "num": 426,
@@ -18398,7 +18496,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     "eggGroups": [
       "Amorphous"
     ],
-    "tier": "UU"
+    "tier": "UU",
+    "credit": "Azuriter"
   },
   "buneary": {
     "num": 427,
@@ -18455,6 +18554,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     "color": "Brown",
     "prevo": "Buneary",
     "evoType": "levelFriendship",
+    "credit": "Kirb",
     "eggGroups": [
       "Field",
       "Human-Like"
@@ -18523,6 +18623,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     "prevo": "Misdreavus",
     "evoType": "useItem",
     "evoItem": "Dusk Stone",
+    "credit": "Kirb",
     "eggGroups": [
       "Amorphous"
     ],
@@ -18621,6 +18722,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     "color": "Gray",
     "prevo": "Glameow",
     "evoLevel": 38,
+    "credit": "Kirb",
     "eggGroups": [
       "Field"
     ],
@@ -18711,6 +18813,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     "color": "Purple",
     "prevo": "Stunky",
     "evoLevel": 34,
+    "credit": "Kirb",
     "eggGroups": [
       "Field"
     ],
@@ -18774,6 +18877,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     "color": "Green",
     "prevo": "Bronzor",
     "evoLevel": 33,
+    "credit": "Kirb",
     "eggGroups": [
       "Mineral"
     ],
@@ -18901,7 +19005,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     "eggGroups": [
       "Flying"
     ],
-    "tier": "Illegal"
+    "tier": "Illegal",
+    "credit": "blisturs"
   },
   "spiritomb": {
     "num": 442,
@@ -18925,6 +19030,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     "heightm": 1,
     "weightkg": 108,
     "color": "Purple",
+    "credit": "Kirb",
     "eggGroups": [
       "Amorphous"
     ],
@@ -19034,7 +19140,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Garchomp-Mega",
       "Garchomp-Mega-Z"
     ],
-    "tier": "OU"
+    "tier": "OU",
+    "credit": "Nat & Sasquatch"
   },
   "garchompmega": {
     "num": 445,
@@ -19166,6 +19273,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     "prevo": "Riolu",
     "evoType": "levelFriendship",
     "evoCondition": "during the day",
+    "credit": "Kirb",
     "eggGroups": [
       "Field",
       "Human-Like"
@@ -19213,7 +19321,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Human-Like"
     ],
     "requiredItem": "Lucarionite",
-    "tier": "Uber"
+    "tier": "UUber"
   },
   "hippopotas": {
     "num": 449,
@@ -19267,6 +19375,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     "color": "Brown",
     "prevo": "Hippopotas",
     "evoLevel": 34,
+    "credit": "Kirb",
     "eggGroups": [
       "Field"
     ],
@@ -19333,7 +19442,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Bug",
       "Water 3"
     ],
-    "tier": "Illegal"
+    "tier": "Illegal",
+    "credit": "UltraPokeMaster"
   },
   "croagunk": {
     "num": 453,
@@ -19391,6 +19501,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     "color": "Blue",
     "prevo": "Croagunk",
     "evoLevel": 37,
+    "credit": "Kirb",
     "eggGroups": [
       "Human-Like"
     ],
@@ -19417,6 +19528,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     "heightm": 1.4,
     "weightkg": 27,
     "color": "Green",
+    "credit": "Kirb",
     "eggGroups": [
       "Grass"
     ],
@@ -19476,6 +19588,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     "color": "Blue",
     "prevo": "Finneon",
     "evoLevel": 31,
+    "credit": "Kirb",
     "eggGroups": [
       "Water 2"
     ],
@@ -19579,6 +19692,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Abomasnow",
       "Abomasnow-Mega"
     ],
+    "credit": "RuudDude",
     "tier": "UU"
   },
   "abomasnowmega": {
@@ -19604,6 +19718,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     "heightm": 2.7,
     "weightkg": 185,
     "color": "White",
+    "credit": "RuudDude",
     "eggGroups": [
       "Monster",
       "Grass"
@@ -19637,6 +19752,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     "evoType": "levelHold",
     "evoItem": "Razor Claw",
     "evoCondition": "at night",
+    "credit": "RuudDude",
     "eggGroups": [
       "Field"
     ],
@@ -19672,7 +19788,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     "eggGroups": [
       "Mineral"
     ],
-    "tier": "UU"
+    "tier": "UU",
+    "credit": "Fishy"
   },
   "lickilicky": {
     "num": 463,
@@ -19699,6 +19816,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     "prevo": "Lickitung",
     "evoType": "levelMove",
     "evoMove": "Rollout",
+    "credit": "Kirb",
     "eggGroups": [
       "Monster"
     ],
@@ -19730,6 +19848,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     "prevo": "Rhydon",
     "evoType": "trade",
     "evoItem": "Protector",
+    "credit": "RuudDude",
     "eggGroups": [
       "Monster",
       "Field"
@@ -19779,7 +19898,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     },
     "baseStats": {
       "hp": 75,
-      "atk": 123,
+      "atk": 113,
       "def": 67,
       "spa": 95,
       "spd": 85,
@@ -19863,6 +19982,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     "prevo": "Togetic",
     "evoType": "useItem",
     "evoItem": "Shiny Stone",
+    "credit": "Kirb",
     "eggGroups": [
       "Flying",
       "Fairy"
@@ -19895,6 +20015,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     "prevo": "Yanma",
     "evoType": "levelMove",
     "evoMove": "Ancient Power",
+    "credit": "RuudDude",
     "eggGroups": [
       "Bug"
     ],
@@ -19928,6 +20049,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     "prevo": "Eevee",
     "evoType": "useItem",
     "evoItem": "Leaf Stone",
+    "credit": "Kirb",
     "eggGroups": [
       "Field"
     ],
@@ -19964,7 +20086,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     "eggGroups": [
       "Field"
     ],
-    "tier": "UU"
+    "tier": "UU",
+    "credit": "UltraPokeMaster"
   },
   "gliscor": {
     "num": 472,
@@ -19993,6 +20116,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     "evoType": "levelHold",
     "evoItem": "Razor Fang",
     "evoCondition": "at night",
+    "credit": "Kirb",
     "eggGroups": [
       "Bug"
     ],
@@ -20024,6 +20148,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     "prevo": "Piloswine",
     "evoType": "levelMove",
     "evoMove": "Ancient Power",
+    "credit": "Kirb",
     "eggGroups": [
       "Field"
     ],
@@ -20055,6 +20180,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     "prevo": "Porygon2",
     "evoType": "trade",
     "evoItem": "Dubious Disc",
+    "credit": "Kirb",
     "eggGroups": [
       "Mineral"
     ],
@@ -20098,7 +20224,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Gallade",
       "Gallade-Mega"
     ],
-    "tier": "UU"
+    "tier": "UU",
+    "credit": "Nat"
   },
   "gallademega": {
     "num": 475,
@@ -20128,7 +20255,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Amorphous"
     ],
     "requiredItem": "Galladite",
-    "tier": "OU"
+    "tier": "OU",
+    "credit": "Nat"
   },
   "probopass": {
     "num": 476,
@@ -20159,7 +20287,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     "eggGroups": [
       "Mineral"
     ],
-    "tier": "UU"
+    "tier": "UU",
+    "credit": "DoodleLux"
   },
   "dusknoir": {
     "num": 477,
@@ -20186,6 +20315,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     "prevo": "Dusclops",
     "evoType": "trade",
     "evoItem": "Reaper Cloth",
+    "credit": "Kirb",
     "eggGroups": [
       "Amorphous"
     ],
@@ -20218,6 +20348,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     "prevo": "Snorunt",
     "evoType": "useItem",
     "evoItem": "Dawn Stone",
+    "credit": "Kirb",
     "eggGroups": [
       "Fairy",
       "Mineral"
@@ -20419,6 +20550,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     "heightm": 0.3,
     "weightkg": 0.3,
     "color": "Red",
+    "credit": "Kirb",
     "eggGroups": [
       "Amorphous"
     ],
@@ -20578,7 +20710,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Dialga",
       "Dialga-Origin"
     ],
-    "tier": "Uber"
+    "tier": "UUber"
   },
   "dialgaorigin": {
     "num": 483,
@@ -20649,7 +20781,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Palkia",
       "Palkia-Origin"
     ],
-    "tier": "Uber"
+    "tier": "UUber"
   },
   "palkiaorigin": {
     "num": 484,
@@ -20787,7 +20919,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Giratina",
       "Giratina-Origin"
     ],
-    "tier": "Uber"
+    "tier": "UUber"
   },
   "giratinaorigin": {
     "num": 487,
@@ -20847,7 +20979,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     "eggGroups": [
       "Undiscovered"
     ],
-    "tier": "UU"
+    "tier": "UU",
+    "credit": "ArticunoFan"
   },
   "phione": {
     "num": 489,
@@ -20943,7 +21076,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Darkrai",
       "Darkrai-Mega"
     ],
-    "tier": "Uber"
+    "tier": "UUber"
   },
   "shaymin": {
     "num": 492,
@@ -21010,7 +21143,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Undiscovered"
     ],
     "changesFrom": "Shaymin",
-    "tier": "Uber"
+    "tier": "UUber"
   },
   "arceus": {
     "num": 493,
@@ -22011,6 +22144,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     "eggGroups": [
       "Field"
     ],
+    "credit": "RuudDude & Martym",
     "otherFormes": [
       "Samurott-Hisui"
     ],
@@ -22051,10 +22185,12 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     "color": "Blue",
     "prevo": "Dewott",
     "evoLevel": 36,
+    "evoRegion": "Lost Islands/Grove of Dreams",
     "eggGroups": [
       "Field"
     ],
-    "tier": "OU"
+    "tier": "OU",
+    "credit": "Kirb"
   },
   "patrat": {
     "num": 504,
@@ -22113,7 +22249,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     "eggGroups": [
       "Field"
     ],
-    "tier": "Illegal"
+    "tier": "Illegal",
+    "credit": "Kirb"
   },
   "lillipup": {
     "num": 506,
@@ -22204,7 +22341,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     "eggGroups": [
       "Field"
     ],
-    "tier": "Illegal"
+    "tier": "Illegal",
+    "credit": "Kirb"
   },
   "purrloin": {
     "num": 509,
@@ -22263,7 +22401,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     "eggGroups": [
       "Field"
     ],
-    "tier": "Illegal"
+    "tier": "Illegal",
+    "credit": "Kirb"
   },
   "pansage": {
     "num": 511,
@@ -22329,7 +22468,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     "eggGroups": [
       "Field"
     ],
-    "tier": "Illegal"
+    "tier": "Illegal",
+    "credit": "Kirb"
   },
   "pansear": {
     "num": 513,
@@ -22395,7 +22535,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     "eggGroups": [
       "Field"
     ],
-    "tier": "Illegal"
+    "tier": "Illegal",
+    "credit": "Kirb"
   },
   "panpour": {
     "num": 515,
@@ -22461,7 +22602,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     "eggGroups": [
       "Field"
     ],
-    "tier": "Illegal"
+    "tier": "Illegal",
+    "credit": "Kirb"
   },
   "munna": {
     "num": 517,
@@ -22521,7 +22663,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     "eggGroups": [
       "Field"
     ],
-    "tier": "Illegal"
+    "tier": "Illegal",
+    "credit": "Kirb"
   },
   "pidove": {
     "num": 519,
@@ -22615,7 +22758,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     "eggGroups": [
       "Flying"
     ],
-    "tier": "Illegal"
+    "tier": "Illegal",
+    "credit": "Kirb"
   },
   "blitzle": {
     "num": 522,
@@ -22674,7 +22818,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     "eggGroups": [
       "Field"
     ],
-    "tier": "UU"
+    "tier": "UU",
+    "credit": "UltraPokeMaster"
   },
   "roggenrola": {
     "num": 524,
@@ -22765,7 +22910,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     "eggGroups": [
       "Mineral"
     ],
-    "tier": "Illegal"
+    "tier": "Illegal",
+    "credit": "Kirb"
   },
   "woobat": {
     "num": 527,
@@ -22828,7 +22974,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Flying",
       "Field"
     ],
-    "tier": "Illegal"
+    "tier": "Illegal",
+    "credit": "Kirb"
   },
   "drilbur": {
     "num": 529,
@@ -22959,7 +23106,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Audino",
       "Audino-Mega"
     ],
-    "tier": "Illegal"
+    "tier": "Illegal",
+    "credit": "Kirb"
   },
   "audinomega": {
     "num": 531,
@@ -22988,7 +23136,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Fairy"
     ],
     "requiredItem": "Audinite",
-    "tier": "Illegal"
+    "tier": "Illegal",
+    "credit": "Kirb"
   },
   "timburr": {
     "num": 532,
@@ -23184,7 +23333,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     "eggGroups": [
       "Water 1"
     ],
-    "tier": "Illegal"
+    "tier": "Illegal",
+    "credit": "Kirb & Nat"
   },
   "throh": {
     "num": 538,
@@ -23212,7 +23362,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     "eggGroups": [
       "Human-Like"
     ],
-    "tier": "Illegal"
+    "tier": "Illegal",
+    "credit": "Kirb"
   },
   "sawk": {
     "num": 539,
@@ -23240,7 +23391,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     "eggGroups": [
       "Human-Like"
     ],
-    "tier": "Illegal"
+    "tier": "Illegal",
+    "credit": "Kirb"
   },
   "sewaddle": {
     "num": 540,
@@ -23334,7 +23486,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     "eggGroups": [
       "Bug"
     ],
-    "tier": "UU"
+    "tier": "UU",
+    "credit": "UltraPokeMaster"
   },
   "venipede": {
     "num": 543,
@@ -23435,7 +23588,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Scolipede",
       "Scolipede-Mega"
     ],
-    "tier": "Illegal"
+    "tier": "Illegal",
+    "credit": "UltraPokeMaster"
   },
   "scolipedemega": {
     "num": 545,
@@ -23529,7 +23683,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Fairy",
       "Grass"
     ],
-    "tier": "UU"
+    "tier": "UU",
+    "credit": "Kirb"
   },
   "petilil": {
     "num": 548,
@@ -23600,7 +23755,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Lilligant",
       "Lilligant-Hisui"
     ],
-    "tier": "UU"
+    "tier": "UU",
+    "credit": "Kirb"
   },
   "lilliganthisui": {
     "num": 549,
@@ -23631,6 +23787,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     "prevo": "Petilil",
     "evoType": "useItem",
     "evoItem": "Sun Stone",
+    "evoRegion": "Lost Islands/Grove of Dreams",
     "eggGroups": [
       "Grass"
     ],
@@ -23826,7 +23983,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     "eggGroups": [
       "Field"
     ],
-    "tier": "UU"
+    "tier": "UU",
+    "credit": "Kirb"
   },
   "darumaka": {
     "num": 554,
@@ -23933,7 +24091,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Darmanitan-Galar",
       "Darmanitan-Galar-Zen"
     ],
-    "tier": "Illegal"
+    "tier": "Illegal",
+    "credit": "blisturs"
   },
   "darmanitanzen": {
     "num": 555,
@@ -23994,7 +24153,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     "eggGroups": [
       "Field"
     ],
-    "tier": "Uber"
+    "tier": "UUber"
   },
   "darmanitangalarzen": {
     "num": 555,
@@ -24050,7 +24209,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     "eggGroups": [
       "Grass"
     ],
-    "tier": "Illegal"
+    "tier": "Illegal",
+    "credit": "Kirb"
   },
   "dwebble": {
     "num": 557,
@@ -24113,7 +24273,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Bug",
       "Mineral"
     ],
-    "tier": "Illegal"
+    "tier": "Illegal",
+    "credit": "Kirb"
   },
   "scraggy": {
     "num": 559,
@@ -24183,7 +24344,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Scrafty",
       "Scrafty-Mega"
     ],
-    "tier": "UU"
+    "tier": "UU",
+    "credit": "Kirb"
   },
   "scraftymega": {
     "num": 560,
@@ -24242,7 +24404,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     "eggGroups": [
       "Flying"
     ],
-    "tier": "Illegal"
+    "tier": "Illegal",
+    "credit": "Kirb"
   },
   "yamask": {
     "num": 562,
@@ -24340,7 +24503,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Mineral",
       "Amorphous"
     ],
-    "tier": "OU"
+    "tier": "OU",
+    "credit": "Kirb"
   },
   "tirtouga": {
     "num": 564,
@@ -24411,7 +24575,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Water 1",
       "Water 3"
     ],
-    "tier": "Illegal"
+    "tier": "Illegal",
+    "credit": "Kirb"
   },
   "archen": {
     "num": 566,
@@ -24478,7 +24643,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Flying",
       "Water 3"
     ],
-    "tier": "Uber"
+    "tier": "UUber"
   },
   "trubbish": {
     "num": 568,
@@ -24538,7 +24703,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Mineral"
     ],
     "canGigantamax": "G-Max Malodor",
-    "tier": "Illegal"
+    "tier": "Illegal",
+    "credit": "Kirb"
   },
   "garbodorgmax": {
     "num": 569,
@@ -24680,7 +24846,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Zoroark",
       "Zoroark-Hisui"
     ],
-    "tier": "UU"
+    "tier": "UU",
+    "credit": "Kirb"
   },
   "zoroarkhisui": {
     "num": 571,
@@ -24782,7 +24949,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     "eggGroups": [
       "Field"
     ],
-    "tier": "UU"
+    "tier": "UU",
+    "credit": "Nat"
   },
   "gothita": {
     "num": 574,
@@ -24885,7 +25053,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     "eggGroups": [
       "Human-Like"
     ],
-    "tier": "UU"
+    "tier": "UU",
+    "credit": "Nacho & Kirb"
   },
   "solosis": {
     "num": 577,
@@ -24976,7 +25145,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     "eggGroups": [
       "Amorphous"
     ],
-    "tier": "UU"
+    "tier": "UU",
+    "credit": "Kirb"
   },
   "ducklett": {
     "num": 580,
@@ -25039,7 +25209,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Water 1",
       "Flying"
     ],
-    "tier": "UU"
+    "tier": "UU",
+    "credit": "Kirb"
   },
   "vanillite": {
     "num": 582,
@@ -25128,7 +25299,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     "eggGroups": [
       "Mineral"
     ],
-    "tier": "Illegal"
+    "tier": "Illegal",
+    "credit": "Kirb"
   },
   "deerling": {
     "num": 585,
@@ -25234,7 +25406,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Sawsbuck-Autumn",
       "Sawsbuck-Winter"
     ],
-    "tier": "UU"
+    "tier": "UU",
+    "credit": "Kirb"
   },
   "emolga": {
     "num": 587,
@@ -25261,7 +25434,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     "eggGroups": [
       "Field"
     ],
-    "tier": "Illegal"
+    "tier": "Illegal",
+    "credit": "Kirb"
   },
   "karrablast": {
     "num": 588,
@@ -25322,7 +25496,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     "eggGroups": [
       "Bug"
     ],
-    "tier": "Illegal"
+    "tier": "Illegal",
+    "credit": "Kirb"
   },
   "foongus": {
     "num": 590,
@@ -25381,7 +25556,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     "eggGroups": [
       "Grass"
     ],
-    "tier": "UU"
+    "tier": "UU",
+    "credit": "AboveSurfaces"
   },
   "frillish": {
     "num": 592,
@@ -25442,7 +25618,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     "eggGroups": [
       "Amorphous"
     ],
-    "tier": "Illegal"
+    "tier": "Illegal",
+    "credit": "Kirb"
   },
   "alomomola": {
     "num": 594,
@@ -25531,7 +25708,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     "eggGroups": [
       "Bug"
     ],
-    "tier": "UU"
+    "tier": "UU",
+    "credit": "Kirb"
   },
   "ferroseed": {
     "num": 597,
@@ -25592,7 +25770,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Grass",
       "Mineral"
     ],
-    "tier": "OU"
+    "tier": "OU",
+    "credit": "Kirb"
   },
   "klink": {
     "num": 599,
@@ -25686,7 +25865,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     "eggGroups": [
       "Mineral"
     ],
-    "tier": "Illegal"
+    "tier": "Illegal",
+    "credit": "Ri33perz"
   },
   "tynamo": {
     "num": 602,
@@ -25782,7 +25962,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Eelektross",
       "Eelektross-Mega"
     ],
-    "tier": "UU"
+    "tier": "UU",
+    "credit": "Kirb"
   },
   "eelektrossmega": {
     "num": 604,
@@ -25870,7 +26051,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     "eggGroups": [
       "Human-Like"
     ],
-    "tier": "Illegal"
+    "tier": "Illegal",
+    "credit": "Kirb"
   },
   "litwick": {
     "num": 607,
@@ -26096,7 +26278,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Monster",
       "Dragon"
     ],
-    "tier": "UU"
+    "tier": "UU",
+    "credit": "Kirb"
   },
   "cubchoo": {
     "num": 613,
@@ -26155,7 +26338,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     "eggGroups": [
       "Field"
     ],
-    "tier": "UU"
+    "tier": "UU",
+    "credit": "Kirb"
   },
   "cryogonal": {
     "num": 615,
@@ -26181,7 +26365,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     "eggGroups": [
       "Mineral"
     ],
-    "tier": "UU"
+    "tier": "UU",
+    "credit": "Kirb"
   },
   "shelmet": {
     "num": 616,
@@ -26212,7 +26397,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     "eggGroups": [
       "Bug"
     ],
-    "tier": "Illegal"
+    "tier": "Illegal",
+    "credit": "Kirb"
   },
   "accelgor": {
     "num": 617,
@@ -26231,7 +26417,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     },
     "abilities": {
       "0": "Infiltrator",
-      "1": "Unburden",
+      "1": "Damp",
       "H": "Regenerator"
     },
     "heightm": 0.8,
@@ -26243,7 +26429,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     "eggGroups": [
       "Bug"
     ],
-    "tier": "Illegal"
+    "tier": "Illegal",
+    "credit": "Kirb"
   },
   "stunfisk": {
     "num": 618,
@@ -26279,7 +26466,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Stunfisk",
       "Stunfisk-Galar"
     ],
-    "tier": "Illegal"
+    "tier": "Illegal",
+    "credit": "Kirb"
   },
   "stunfiskgalar": {
     "num": 618,
@@ -26310,7 +26498,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Water 1",
       "Amorphous"
     ],
-    "tier": "OU"
+    "tier": "OU",
+    "credit": "Azuriter"
   },
   "mienfoo": {
     "num": 619,
@@ -26399,7 +26588,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Monster",
       "Dragon"
     ],
-    "tier": "Illegal"
+    "tier": "Illegal",
+    "credit": "Kirb"
   },
   "golett": {
     "num": 622,
@@ -26462,7 +26652,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     "eggGroups": [
       "Mineral"
     ],
-    "tier": "UU"
+    "tier": "UU",
+    "credit": "Kirb"
   },
   "pawniard": {
     "num": 624,
@@ -26553,7 +26744,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     "eggGroups": [
       "Field"
     ],
-    "tier": "Illegal"
+    "tier": "Illegal",
+    "credit": "Kirb"
   },
   "rufflet": {
     "num": 627,
@@ -26624,7 +26816,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Braviary",
       "Braviary-Hisui"
     ],
-    "tier": "UU"
+    "tier": "UU",
+    "credit": "Kirb"
   },
   "braviaryhisui": {
     "num": 628,
@@ -26654,6 +26847,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     "color": "White",
     "prevo": "Rufflet",
     "evoLevel": 54,
+    "evoRegion": "Lost Islands/Grove of Dreams",
     "eggGroups": [
       "Flying"
     ],
@@ -26720,7 +26914,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     "eggGroups": [
       "Flying"
     ],
-    "tier": "UU"
+    "tier": "UU",
+    "credit": "Kirb"
   },
   "heatmor": {
     "num": 631,
@@ -26747,7 +26942,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     "eggGroups": [
       "Field"
     ],
-    "tier": "Illegal"
+    "tier": "Illegal",
+    "credit": "Kirb"
   },
   "durant": {
     "num": 632,
@@ -26775,7 +26971,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     "eggGroups": [
       "Bug"
     ],
-    "tier": "Illegal"
+    "tier": "Illegal",
+    "credit": "Kirb"
   },
   "deino": {
     "num": 633,
@@ -26804,7 +27001,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     "eggGroups": [
       "Dragon"
     ],
-    "tier": "LC"
+    "tier": "LC",
+    "credit": "Kirb"
   },
   "zweilous": {
     "num": 634,
@@ -26835,7 +27033,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     "eggGroups": [
       "Dragon"
     ],
-    "tier": "NFE"
+    "tier": "NFE",
+    "credit": "Kirb"
   },
   "hydreigon": {
     "num": 635,
@@ -26863,7 +27062,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     "eggGroups": [
       "Dragon"
     ],
-    "tier": "UU"
+    "tier": "UU",
+    "credit": "Kirb"
   },
   "larvesta": {
     "num": 636,
@@ -26922,7 +27122,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     "eggGroups": [
       "Bug"
     ],
-    "tier": "OU"
+    "tier": "OU",
+    "credit": "ArticunoFan"
   },
   "cobalion": {
     "num": 638,
@@ -27173,13 +27374,12 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     "weightkg": 330,
     "color": "White",
     "tags": [
-      "Restricted Legendary",
-      "UNOB"
+      "Restricted Legendary"
     ],
     "eggGroups": [
       "Undiscovered"
     ],
-    "tier": "Uber"
+    "tier": "UUber"
   },
   "zekrom": {
     "num": 644,
@@ -27204,13 +27404,12 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     "weightkg": 345,
     "color": "Black",
     "tags": [
-      "Restricted Legendary",
-      "UNOB"
+      "Restricted Legendary"
     ],
     "eggGroups": [
       "Undiscovered"
     ],
-    "tier": "Uber"
+    "tier": "UUber"
   },
   "landorus": {
     "num": 645,
@@ -27249,7 +27448,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Landorus",
       "Landorus-Therian"
     ],
-    "tier": "Uber"
+    "tier": "UUber"
   },
   "landorustherian": {
     "num": 645,
@@ -27378,7 +27577,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Undiscovered"
     ],
     "changesFrom": "Kyurem",
-    "tier": "Uber"
+    "tier": "UUber"
   },
   "keldeo": {
     "num": 647,
@@ -27558,7 +27757,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Genesect-Burn",
       "Genesect-Chill"
     ],
-    "tier": "Uber"
+    "tier": "UUber"
   },
   "genesectdouse": {
     "num": 649,
@@ -27793,7 +27992,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Chesnaught",
       "Chesnaught-Mega"
     ],
-    "tier": "UU"
+    "tier": "UU",
+    "credit": "ShadesVGC"
   },
   "chesnaughtmega": {
     "num": 652,
@@ -27938,7 +28138,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Delphox",
       "Delphox-Mega"
     ],
-    "tier": "OU"
+    "tier": "OU",
+    "credit": "ShadesVGC"
   },
   "delphoxmega": {
     "num": 655,
@@ -27972,7 +28173,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     ],
     "requiredItem": "Delphoxite",
     "gen": 9,
-    "tier": "Uber"
+    "tier": "UUber"
   },
   "froakie": {
     "num": 656,
@@ -28084,7 +28285,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Greninja-Ash",
       "Greninja-Mega"
     ],
-    "tier": "OU"
+    "tier": "OU",
+    "credit": "ShadesVGC"
   },
   "greninjabond": {
     "num": 658,
@@ -28179,7 +28381,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     ],
     "requiredItem": "Greninjite",
     "gen": 9,
-    "tier": "Uber"
+    "tier": "UUber"
   },
   "bunnelby": {
     "num": 659,
@@ -28239,7 +28441,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     "eggGroups": [
       "Field"
     ],
-    "tier": "Illegal"
+    "tier": "Illegal",
+    "credit": "ShadesVGC"
   },
   "fletchling": {
     "num": 661,
@@ -28333,7 +28536,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     "eggGroups": [
       "Flying"
     ],
-    "tier": "UU"
+    "tier": "UU",
+    "credit": "ShadesVGC"
   },
   "scatterbug": {
     "num": 664,
@@ -28472,7 +28676,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Vivillon-Fancy",
       "Vivillon-Pokeball"
     ],
-    "tier": "UU"
+    "tier": "UU",
+    "credit": "Azuriter"
   },
   "vivillonicysnow": {
     "isCosmeticForme": true,
@@ -28765,7 +28970,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
   },
   "flabebe": {
     "num": 669,
-    "name": "FlabeĚbeĚ",
+    "name": "Flabébé",
     "baseForme": "Red",
     "types": [
       "Fairy"
@@ -28794,17 +28999,17 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Fairy"
     ],
     "cosmeticFormes": [
-      "FlabeĚbeĚ-Blue",
-      "FlabeĚbeĚ-Orange",
-      "FlabeĚbeĚ-White",
-      "FlabeĚbeĚ-Yellow"
+      "Flabébé-Blue",
+      "Flabébé-Orange",
+      "Flabébé-White",
+      "Flabébé-Yellow"
     ],
     "formeOrder": [
-      "FlabeĚbeĚ",
-      "FlabeĚbeĚ-Yellow",
-      "FlabeĚbeĚ-Orange",
-      "FlabeĚbeĚ-Blue",
-      "FlabeĚbeĚ-White"
+      "Flabébé",
+      "Flabébé-Yellow",
+      "Flabébé-Orange",
+      "Flabébé-Blue",
+      "Flabébé-White"
     ],
     "tier": "LC"
   },
@@ -28832,7 +29037,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     "heightm": 0.2,
     "weightkg": 0.9,
     "color": "White",
-    "prevo": "FlabeĚbeĚ",
+    "prevo": "Flabébé",
     "evoLevel": 19,
     "evos": [
       "Florges"
@@ -28888,7 +29093,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     "eggGroups": [
       "Undiscovered"
     ],
-    "tier": "Uber"
+    "tier": "UUber"
   },
   "floettemega": {
     "num": 670,
@@ -28919,7 +29124,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     "requiredItem": "Floettite",
     "battleOnly": "Floette-Eternal",
     "gen": 9,
-    "tier": "Uber"
+    "tier": "UUber"
   },
   "florges": {
     "num": 671,
@@ -28964,7 +29169,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Florges-Blue",
       "Florges-White"
     ],
-    "tier": "UU"
+    "tier": "UU",
+    "credit": "ShadesVGC"
   },
   "skiddo": {
     "num": 672,
@@ -29135,7 +29341,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Furfrou-Kabuki",
       "Furfrou-Pharaoh"
     ],
-    "tier": "Illegal"
+    "tier": "Illegal",
+    "credit": "ShadesVGC"
   },
   "espurr": {
     "num": 677,
@@ -29205,7 +29412,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Meowstic",
       "Meowstic-F"
     ],
-    "tier": "UU"
+    "tier": "UU",
+    "credit": "UltraPokeMaster"
   },
   "meowsticf": {
     "num": 678,
@@ -29236,7 +29444,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     "evoLevel": 25,
     "eggGroups": [
       "Field"
-    ]
+    ],
+    "credit": "UltraPokeMaster"
   },
   "honedge": {
     "num": 679,
@@ -29480,7 +29689,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     "eggGroups": [
       "Fairy"
     ],
-    "tier": "Illegal"
+    "tier": "Illegal",
+    "credit": "ShadesVGC"
   },
   "inkay": {
     "num": 686,
@@ -29551,7 +29761,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Malamar",
       "Malamar-Mega"
     ],
-    "tier": "UU"
+    "tier": "UU",
+    "credit": "ShadesVGC"
   },
   "malamarmega": {
     "num": 687,
@@ -29650,7 +29861,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Barbaracle",
       "Barbaracle-Mega"
     ],
-    "tier": "Illegal"
+    "tier": "Illegal",
+    "credit": "ShadesVGC"
   },
   "barbaraclemega": {
     "num": 689,
@@ -29680,7 +29892,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     ],
     "requiredItem": "Barbaracite",
     "gen": 9,
-    "tier": "Uber"
+    "tier": "UUber"
   },
   "skrelp": {
     "num": 690,
@@ -29750,7 +29962,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Dragalge",
       "Dragalge-Mega"
     ],
-    "tier": "UU"
+    "tier": "UU",
+    "credit": "ShadesVGC"
   },
   "dragalgemega": {
     "num": 691,
@@ -30004,6 +30217,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     "evos": [
       "Aurorus"
     ],
+    "credit": "RuudDude",
     "eggGroups": [
       "Monster"
     ],
@@ -30039,6 +30253,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     "prevo": "Amaura",
     "evoLevel": 39,
     "evoCondition": "at night",
+    "credit": "RuudDude",
     "eggGroups": [
       "Monster"
     ],
@@ -30076,7 +30291,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     "eggGroups": [
       "Field"
     ],
-    "tier": "UU"
+    "tier": "UU",
+    "credit": "ShadesVGC"
   },
   "hawlucha": {
     "num": 701,
@@ -30132,7 +30348,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "spe": 118
     },
     "abilities": {
-      "0": "Mold Breaker"
+      "0": "Luchador's Pride"
     },
     "heightm": 1,
     "weightkg": 25,
@@ -30300,6 +30516,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     "color": "Purple",
     "prevo": "Goomy",
     "evoLevel": 40,
+    "evoRegion": "Lost Islands/Grove of Dreams",
     "evos": [
       "Goodra-Hisui"
     ],
@@ -30344,7 +30561,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Goodra",
       "Goodra-Hisui"
     ],
-    "tier": "UU"
+    "tier": "UU",
+    "credit": "UltraPokeMaster"
   },
   "goodrahisui": {
     "num": 706,
@@ -30404,7 +30622,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     "eggGroups": [
       "Mineral"
     ],
-    "tier": "UU"
+    "tier": "UU",
+    "credit": "ShadesVGC"
   },
   "phantump": {
     "num": 708,
@@ -30839,6 +31058,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     "color": "Blue",
     "prevo": "Bergmite",
     "evoLevel": 37,
+    "evoRegion": "Lost Islands/Grove of Dreams",
     "eggGroups": [
       "Monster",
       "Mineral"
@@ -30906,7 +31126,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Flying",
       "Dragon"
     ],
-    "tier": "UU"
+    "tier": "UU",
+    "credit": "ShadesVGC"
   },
   "xerneas": {
     "num": 716,
@@ -31022,8 +31243,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "spe": 95
     },
     "abilities": {
-      "0": "Aura Break",
-      "H": "Power Construct"
+      "0": "Aura Break"
     },
     "heightm": 5,
     "weightkg": 305,
@@ -31047,7 +31267,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Zygarde-Complete",
       "Zygarde-Mega"
     ],
-    "tier": "Uber"
+    "tier": "UUber"
   },
   "zygarde10": {
     "num": 718,
@@ -31315,7 +31535,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     "eggGroups": [
       "Undiscovered"
     ],
-    "tier": "UU"
+    "tier": "UU",
+    "credit": "ShadesVGC"
   },
   "rowlet": {
     "num": 722,
@@ -31338,7 +31559,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     },
     "abilities": {
       "0": "Overgrow",
-      "1": "Wind Rider",
+      "1": "Tinted Lens",
       "H": "Long Reach"
     },
     "heightm": 0.3,
@@ -31373,7 +31594,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     },
     "abilities": {
       "0": "Overgrow",
-      "1": "Wind Rider",
+      "1": "Tinted Lens",
       "H": "Long Reach"
     },
     "heightm": 0.7,
@@ -31411,7 +31632,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     },
     "abilities": {
       "0": "Overgrow",
-      "1": "Wind Rider",
+      "1": "Tinted Lens",
       "H": "Long Reach"
     },
     "heightm": 1.6,
@@ -31454,7 +31675,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     },
     "abilities": {
       "0": "Overgrow",
-      "1": "Big Pecks",
+      "1": "Tinted Lens",
       "H": "Scrappy"
     },
     "heightm": 1.6,
@@ -31462,10 +31683,12 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     "color": "Brown",
     "prevo": "Dartrix",
     "evoLevel": 36,
+    "evoRegion": "Lost Islands/Grove of Dreams",
     "eggGroups": [
       "Flying"
     ],
-    "tier": "UU"
+    "tier": "UU",
+    "credit": "Kirb"
   },
   "litten": {
     "num": 725,
@@ -31895,7 +32118,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     "eggGroups": [
       "Bug"
     ],
-    "tier": "LC"
+    "tier": "LC",
+    "credit": "Azuriter"
   },
   "charjabug": {
     "num": 737,
@@ -31928,7 +32152,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     "eggGroups": [
       "Bug"
     ],
-    "tier": "NFE"
+    "tier": "NFE",
+    "credit": "Azuriter"
   },
   "vikavolt": {
     "num": 738,
@@ -31965,7 +32190,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Vikavolt",
       "Vikavolt-Totem"
     ],
-    "tier": "UU"
+    "tier": "UU",
+    "credit": "Azuriter"
   },
   "vikavolttotem": {
     "num": 738,
@@ -32462,6 +32688,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     "color": "Brown",
     "prevo": "Rockruff",
     "evoLevel": 25,
+    "evoRegion": "Lost Islands",
     "eggGroups": [
       "Field"
     ],
@@ -32646,7 +32873,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     "eggGroups": [
       "Field"
     ],
-    "tier": "UU"
+    "tier": "UU",
+    "credit": "DoodleLux"
   },
   "dewpider": {
     "num": 751,
@@ -33487,7 +33715,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Silvally-Dark",
       "Silvally-Fairy"
     ],
-    "tier": "Illegal"
+    "tier": "Illegal",
+    "credit": "bradgotbored"
   },
   "silvallybug": {
     "num": 773,
@@ -34268,7 +34497,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Monster",
       "Dragon"
     ],
-    "tier": "OU"
+    "tier": "OU",
+    "credit": "Dreaddevs"
   },
   "togedemaru": {
     "num": 777,
@@ -34932,7 +35162,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     "eggGroups": [
       "Undiscovered"
     ],
-    "tier": "Uber"
+    "tier": "UUber"
   },
   "lunala": {
     "num": 792,
@@ -35054,7 +35284,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     "eggGroups": [
       "Undiscovered"
     ],
-    "tier": "Uber"
+    "tier": "UUber"
   },
   "xurkitree": {
     "num": 796,
@@ -35174,7 +35404,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     "eggGroups": [
       "Undiscovered"
     ],
-    "tier": "OU"
+    "tier": "OU",
+    "credit": "Dreaddevs"
   },
   "necrozma": {
     "num": 800,
@@ -35214,7 +35445,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Necrozma-Dawn-Wings",
       "Necrozma-Ultra"
     ],
-    "tier": "Uber"
+    "tier": "UUber"
   },
   "necrozmaduskmane": {
     "num": 800,
@@ -35347,7 +35578,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Magearna-Original",
       "Magearna-Mega"
     ],
-    "tier": "Uber"
+    "tier": "UUber"
   },
   "magearnaoriginal": {
     "num": 801,
@@ -35470,7 +35701,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     "eggGroups": [
       "Undiscovered"
     ],
-    "tier": "Uber"
+    "tier": "UUber"
   },
   "stakataka": {
     "num": 805,
@@ -35559,7 +35790,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     "eggGroups": [
       "Undiscovered"
     ],
-    "tier": "Illegal"
+    "tier": "Illegal",
+    "credit": "anthonylugro"
   },
   "meltan": {
     "num": 808,
@@ -38028,7 +38260,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     "eggGroups": [
       "Field"
     ],
-    "tier": "UU"
+    "tier": "UU",
+    "credit": "DoodleLux"
   },
   "cursola": {
     "num": 864,
@@ -38065,7 +38298,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
   },
   "sirfetchd": {
     "num": 865,
-    "name": "Sirfetchâd",
+    "name": "Sirfetch’d",
     "types": [
       "Fighting"
     ],
@@ -38084,7 +38317,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     "heightm": 0.8,
     "weightkg": 117,
     "color": "White",
-    "prevo": "Farfetchâd-Galar",
+    "prevo": "Farfetch’d-Galar",
     "evoLevel": 36,
     "eggGroups": [
       "Flying",
@@ -38865,7 +39098,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     "eggGroups": [
       "Undiscovered"
     ],
-    "tier": "Uber"
+    "tier": "UUber"
   },
   "arctovish": {
     "num": 883,
@@ -39056,7 +39289,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Amorphous",
       "Dragon"
     ],
-    "tier": "Uber"
+    "tier": "UUber"
   },
   "zacian": {
     "num": 888,
@@ -39164,7 +39397,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Zamazenta-Crowned"
     ],
     "cannotDynamax": true,
-    "tier": "Uber"
+    "tier": "UUber"
   },
   "zamazentacrowned": {
     "num": 889,
@@ -39345,7 +39578,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Urshifu-Rapid-Strike"
     ],
     "canGigantamax": "G-Max One Blow",
-    "tier": "Uber"
+    "tier": "UUber"
   },
   "urshifurapidstrike": {
     "num": 892,
@@ -39629,7 +39862,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     "eggGroups": [
       "Undiscovered"
     ],
-    "tier": "Uber"
+    "tier": "UUber"
   },
   "calyrex": {
     "num": 898,
@@ -39689,7 +39922,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "spe": 50
     },
     "abilities": {
-      "0": "As One (Glastrier)"
+      "0": "As One"
     },
     "heightm": 2.4,
     "weightkg": 809.1,
@@ -39719,7 +39952,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "spe": 150
     },
     "abilities": {
-      "0": "As One (Spectrier)"
+      "0": "As One"
     },
     "heightm": 2.4,
     "weightkg": 53.6,
@@ -39850,6 +40083,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "0": "Mind's Eye"
     },
     "evoLevel": 50,
+    "evoRegion": "Lost Islands",
     "prevo": "Ursaring",
     "heightm": 2.7,
     "weightkg": 333,
@@ -39858,7 +40092,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Field"
     ],
     "gen": 9,
-    "tier": "Uber"
+    "tier": "UUber"
   },
   "basculegion": {
     "num": 902,
@@ -39963,7 +40197,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     "eggGroups": [
       "Field"
     ],
-    "tier": "Uber"
+    "tier": "UUber"
   },
   "overqwil": {
     "num": 904,
@@ -39989,8 +40223,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     "weightkg": 60.5,
     "color": "Black",
     "prevo": "Qwilfish-Hisui",
-    "evoType": "other",
-    "evoCondition": "Use Strong style Barb Barrage 20 times",
+    "evoType": "levelMove",
+    "evoMove": "Barb Barrage",
     "eggGroups": [
       "Water 2"
     ],
@@ -40451,7 +40685,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     "eggGroups": [
       "Field"
     ],
-    "tier": "UU"
+    "tier": "UU",
+    "credit": "Kirb"
   },
   "oinkolognef": {
     "num": 916,
@@ -40484,7 +40719,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     "eggGroups": [
       "Field"
     ],
-    "tier": "UU"
+    "tier": "UU",
+    "credit": "Kirb"
   },
   "tarountula": {
     "num": 917,
@@ -41552,8 +41788,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     "weightkg": 6,
     "color": "Brown",
     "prevo": "Bramblin",
-    "evoType": "other",
-    "evoCondition": "Walk 1000 steps in Let's Go",
+    "evoLevel": 25,
     "eggGroups": [
       "Grass"
     ],
@@ -41760,7 +41995,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     "eggGroups": [
       "Bug"
     ],
-    "tier": "UU"
+    "tier": "UU",
+    "credit": "Kirb"
   },
   "flittle": {
     "num": 955,
@@ -41819,7 +42055,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     "eggGroups": [
       "Flying"
     ],
-    "tier": "Uber"
+    "tier": "UUber"
   },
   "tinkatink": {
     "num": 957,
@@ -41947,7 +42183,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     "eggGroups": [
       "Water 3"
     ],
-    "tier": "LC"
+    "tier": "LC",
+    "credit": "Kirb"
   },
   "wugtrio": {
     "num": 961,
@@ -41977,7 +42214,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     "eggGroups": [
       "Water 3"
     ],
-    "tier": "OU"
+    "tier": "OU",
+    "credit": "Kirb"
   },
   "bombirdier": {
     "num": 962,
@@ -41987,12 +42225,12 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Dark"
     ],
     "baseStats": {
-      "hp": 85,
-      "atk": 110,
+      "hp": 70,
+      "atk": 103,
       "def": 85,
       "spa": 60,
       "spd": 85,
-      "spe": 102
+      "spe": 82
     },
     "abilities": {
       "0": "Big Pecks",
@@ -42070,7 +42308,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Field",
       "Water 2"
     ],
-    "tier": "Uber"
+    "tier": "UUber"
   },
   "palafinhero": {
     "num": 964,
@@ -42143,12 +42381,11 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "atk": 119,
       "def": 90,
       "spa": 54,
-      "spd": 97,
+      "spd": 67,
       "spe": 90
     },
     "abilities": {
       "0": "Overcoat",
-      "1": "Rev Up",
       "H": "Filter"
     },
     "heightm": 1.8,
@@ -42444,7 +42681,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     "eggGroups": [
       "Water 2"
     ],
-    "tier": "UU"
+    "tier": "UU",
+    "credit": "Kirb"
   },
   "dondozo": {
     "num": 977,
@@ -42587,7 +42825,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     "eggGroups": [
       "Field"
     ],
-    "tier": "Uber"
+    "tier": "UUber"
   },
   "clodsire": {
     "num": 980,
@@ -42688,7 +42926,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     "eggGroups": [
       "Field"
     ],
-    "tier": "UU"
+    "tier": "UU",
+    "credit": "Kirb"
   },
   "dudunsparcethreesegment": {
     "num": 982,
@@ -42718,6 +42957,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     "prevo": "Dunsparce",
     "evoType": "levelMove",
     "evoMove": "Hyper Drill",
+    "evoRegion": "Lost Islands",
     "eggGroups": [
       "Field"
     ]
@@ -42990,7 +43230,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     "eggGroups": [
       "Undiscovered"
     ],
-    "tier": "Uber"
+    "tier": "UUber"
   },
   "ironhands": {
     "num": 992,
@@ -43204,7 +43444,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "Dragon",
       "Mineral"
     ],
-    "tier": "Uber"
+    "tier": "UUber"
   },
   "gimmighoul": {
     "num": 999,
@@ -43362,7 +43602,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     "eggGroups": [
       "Undiscovered"
     ],
-    "tier": "Uber"
+    "tier": "UUber"
   },
   "tinglu": {
     "num": 1003,
@@ -43422,7 +43662,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     "eggGroups": [
       "Undiscovered"
     ],
-    "tier": "Uber"
+    "tier": "UUber"
   },
   "roaringmoon": {
     "num": 1005,
@@ -43452,7 +43692,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     "eggGroups": [
       "Undiscovered"
     ],
-    "tier": "Uber"
+    "tier": "UUber"
   },
   "ironvaliant": {
     "num": 1006,
@@ -43572,7 +43812,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     "eggGroups": [
       "Undiscovered"
     ],
-    "tier": "Uber"
+    "tier": "UUber"
   },
   "ironleaves": {
     "num": 1010,
@@ -43957,7 +44197,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     "requiredItem": "Wellspring Mask",
     "changesFrom": "Ogerpon",
     "requiredTeraType": "Water",
-    "tier": "Uber"
+    "tier": "UUber"
   },
   "ogerponhearthflame": {
     "num": 1017,
@@ -43990,7 +44230,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     "requiredItem": "Hearthflame Mask",
     "changesFrom": "Ogerpon",
     "requiredTeraType": "Fire",
-    "tier": "Uber"
+    "tier": "UUber"
   },
   "ogerponcornerstone": {
     "num": 1017,
@@ -44236,7 +44476,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     "eggGroups": [
       "Undiscovered"
     ],
-    "tier": "Uber"
+    "tier": "UUber"
   },
   "ragingbolt": {
     "num": 1021,
@@ -44502,7 +44742,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     ],
     "requiredItem": "Raichunite Y",
     "gen": 9,
-    "tier": "Uber"
+    "tier": "UUber"
   },
   "chimechomega": {
     "num": 358,
@@ -44622,7 +44862,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     ],
     "requiredItem": "Garchompite Z",
     "gen": 9,
-    "tier": "Uber"
+    "tier": "UUber"
   },
   "lucariomegaz": {
     "num": 448,
@@ -44784,7 +45024,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     "requiredItem": "Meowsticite",
     "battleOnly": "Meowstic",
     "gen": 9,
-    "tier": "Uber"
+    "tier": "UUber"
   },
   "crabominablemega": {
     "num": 740,
@@ -44896,7 +45136,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
       "spe": 153
     },
     "abilities": {
-      "0": "Volt Absorb"
+      "0": "Iron Fist"
     },
     "heightm": 1.5,
     "weightkg": 44.5,

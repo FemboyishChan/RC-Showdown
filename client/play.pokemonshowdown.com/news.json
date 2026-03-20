@@ -14,5 +14,13 @@
     "date": 1741651200,
     "summaryHTML": "<p>More information on the Roria Conquest discord!</p>",
     "detailsHTML": ""
+  },
+  {
+    "id": 3,
+    "title": "Syncing Dex Data",
+    "author": "InfraredGod",
+    "date": 1773966739,
+    "summaryHTML": "<p>Servers restarted so that RC Showdown's dex data matched that of the Roblox game and Pokedex website. This was done to prevent undocumented changes from running amok. Move and ability descriptions will follow suit.</p>",
+    "detailsHTML": ""
   }
 ]
